@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:zorua",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:zorua",
+      "model": "cobblemon:zorua.geo",
+      "texture": "cobblemon:textures/pokemon/zorua/zorua.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/zorua/zorua_shiny.png"
+    }
+  ]
+}

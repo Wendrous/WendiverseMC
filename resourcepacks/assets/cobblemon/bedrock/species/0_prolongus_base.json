@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:prolongus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+	  "poser": "cobblemon:prolongus",
+      "model": "cobblemon:prolongus.geo",
+      "texture": "cobblemon:textures/pokemon/prolongus/prolongus.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/prolongus/prolongus_shiny.png"
+    }
+  ]
+}

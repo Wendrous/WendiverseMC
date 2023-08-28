@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:pikachuxmale",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation1_pikachuxmale",
+      "model": "cobblemon:generation1_pikachuxmale.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/pikachuxmale/pikachuxmale.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation1/pikachuxmale/pikachuxmale_shiny.png"
+    }  ]
+}

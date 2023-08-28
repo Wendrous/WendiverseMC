@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:cacturnex",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation3_cacturnex",
+      "model": "cobblemon:generation3_cacturnex.geo",
+      "texture": "cobblemon:textures/pokemon/generation3/cacturnex/cacturnex.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation3/cacturnex/cacturnex_shiny.png"
+    }  ]
+}

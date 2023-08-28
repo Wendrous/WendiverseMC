@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:gigalith",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gigalith",
+      "model": "cobblemon:gigalith.geo",
+      "texture": "cobblemon:textures/pokemon/0526_gigalith/gigalith.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0526_gigalith/gigalith_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

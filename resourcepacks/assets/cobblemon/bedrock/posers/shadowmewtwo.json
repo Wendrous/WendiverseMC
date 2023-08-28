@@ -1,0 +1,77 @@
+{
+    "head": "head",
+    "portraitScale": 1.5,
+    "portraitTranslation": [ 0, 1, 0 ],
+    "profileScale": 1,
+    "profileTranslation": [ 0, 1, 0 ],
+    "faint": "bedrock(shadowmewtwo, faint)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(shadowmewtwo, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(shadowmewtwo, blink)"]
+          }
+        ]
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ 
+          "bedrock(shadowmewtwo, ground_walk)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(shadowmewtwo, blink)"]
+          }
+        ]
+      },
+
+      "flying": {
+        "poseName": "flying",
+        "transformTicks": 10,
+        "poseTypes": [ "FLY" ],
+        "animations": [
+          "look",
+          "bedrock(shadowmewtwo, air_fly)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(shadowmewtwo, blink)"]
+          }
+        ]
+      },
+  
+      "hovering": {
+        "poseName": "hovering",
+        "transformTicks": 10,
+        "poseTypes": [ "HOVER" ],
+        "animations": [
+          "look",
+          "bedrock(shadowmewtwo, air_fly)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(shadowmewtwo, blink)"]
+          }
+        ]
+      }
+    }
+  }

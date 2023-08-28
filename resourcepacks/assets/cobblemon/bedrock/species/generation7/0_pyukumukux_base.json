@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:pyukumukux",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation7_pyukumukux",
+      "model": "cobblemon:generation7_pyukumukux.geo",
+      "texture": "cobblemon:textures/pokemon/generation7/pyukumukux/pyukumukux.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation7/pyukumukux/pyukumukux_shiny.png"
+    }  ]
+}

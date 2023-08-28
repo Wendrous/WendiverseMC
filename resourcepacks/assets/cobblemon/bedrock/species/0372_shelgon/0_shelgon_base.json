@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:shelgon",
+  "order": 0,
+  "variations": [
+  {
+      "aspects": [],
+      "poser": "cobblemon:shelgon",
+      "model": "cobblemon:shelgon.geo",
+      "texture": "cobblemon:textures/pokemon/shelgon/shelgon.png",
+      "layers": []
+},
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/shelgon/shelgon_shiny.png"
+},
+    {
+     
+
+
+    }
+  ]
+}

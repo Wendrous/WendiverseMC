@@ -1,0 +1,18 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [0.0, 0.4, 0.0],
+  "profileScale": 0.87,
+  "profileTranslation": [0.0, 0.4, 0.0],
+  "head": "head",
+  "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+      "allPoseTypes": true,
+        "animations": [
+          "look",
+          "bedrock(electabuzz_x, ground_idle)"
+        ]
+      }
+  }
+}

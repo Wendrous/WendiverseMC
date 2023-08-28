@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:rayquaza",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": ["divine"],
+      "poser": "cobblemon:rayquaza",
+      "model": "cobblemon:rayquaza.geo",
+      "texture": "cobblemon:textures/pokemon/0384_rayquaza/rayquaza_divine.png",
+      "layers": [
+	   {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0384_rayquaza/rayquaza_divine_emissive.png",
+          "emissive": true
+        }]
+    }
+  ]
+}

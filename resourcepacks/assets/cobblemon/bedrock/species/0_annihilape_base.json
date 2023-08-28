@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:annihilape",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:annihilape",
+        "model": "cobblemon:annihilape.geo",
+        "texture": "cobblemon:textures/pokemon/annihilape/annihilape.png",
+        "layers": []
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/annihilape/annihilape_shiny.png",
+        "layers": []
+      }
+    ]
+  }
+  

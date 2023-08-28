@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:excalibould",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:excalibould",
+      "model": "cobblemon:excalibould.geo",
+      "texture": "cobblemon:textures/pokemon/excalibould/excalibould.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/excalibould/excalibould_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/excalibould/excalibould_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/excalibould/excalibould_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

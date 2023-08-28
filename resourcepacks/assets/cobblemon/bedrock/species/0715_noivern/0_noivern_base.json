@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:noivern",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:noivern",
+      "model": "cobblemon:noivern.geo",
+      "texture": "cobblemon:textures/pokemon/noivern/noivern.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/noivern/noivern_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/noivern/noivern_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/noivern/noivern_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:sharpedox",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation3_sharpedox",
+      "model": "cobblemon:generation3_sharpedox.geo",
+      "texture": "cobblemon:textures/pokemon/generation3/sharpedox/sharpedox.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation3/sharpedox/sharpedox_shiny.png"
+    }  ]
+}

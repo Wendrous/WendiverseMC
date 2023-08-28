@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:shambloid",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:shambloid.geo",
+      "poser": "cobblemon:shambloid",
+      "texture": "cobblemon:textures/pokemon/shambloid/shambloid.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/shambloid/shambloid_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/shambloid/shambloid_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/shambloid/shambloid_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

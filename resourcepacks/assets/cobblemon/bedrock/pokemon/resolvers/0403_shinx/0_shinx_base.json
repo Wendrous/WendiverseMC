@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:shinx",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shinx",
+      "model": "cobblemon:shinx.geo",
+      "texture": "cobblemon:textures/pokemon/0403_shinx/shinx.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0403_shinx/shinx_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:dragalisk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:dragalisk.geo",
+      "poser": "cobblemon:dragalisk",
+      "texture": "cobblemon:textures/pokemon/dragalisk/dragalisk.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/dragalisk/dragalisk_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/dragalisk/dragalisk_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/dragalisk/dragalisk_shiny_emissive.png",
+          "translucent": true
+       }
+      ]
+    }
+  ]
+}

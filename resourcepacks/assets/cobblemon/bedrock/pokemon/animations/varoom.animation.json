@@ -1,0 +1,41 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.varoom.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"eyelid_left": {
+					"position": {
+						"0.0": [0.1, 0, 0],
+						"0.125": [0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0, 0],
+						"0.125": [-0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.varoom.ground_idle": {
+			"loop": true
+		},
+		"animation.varoom.ground_walk": {
+			"loop": true,
+			"bones": {
+				"wheel_left": {
+					"rotation": ["q.anim_time*90*2.5", 0, 0]
+				},
+				"wheel_back": {
+					"rotation": ["q.anim_time*90*2.5", 0, 0]
+				},
+				"wheel_right": {
+					"rotation": ["q.anim_time*90*2.5", 0, 0]
+				}
+			}
+		}
+	}
+}

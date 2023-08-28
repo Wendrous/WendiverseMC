@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:metagross",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:metagross",
+      "model": "cobblemon:metagross.geo",
+      "texture": "cobblemon:textures/pokemon/metagross/metagross.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/metagross/metagross_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/metagross/metagross_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/metagross/metagross_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

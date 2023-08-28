@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:gallade",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gallade",
+      "model": "cobblemon:gallade.geo",
+      "texture": "cobblemon:textures/pokemon/gallade/gallade.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/gallade/gallade_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/gallade/gallade_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/gallade/gallade_emissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

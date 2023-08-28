@@ -1,0 +1,22 @@
+{
+  "portraitScale": 1.25,
+  "portraitTranslation": [0, -0.6, 0],
+  "profileScale": 1.25,
+  "profileTranslation": [0, -0.5, 0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "PORTRAIT", "NONE", "PROFILE"],
+      "animations": [
+        "bedrock(amogite, ground_idle)"
+      ]
+    },
+	"walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [ "WALK" ],
+      "animations": [ "bedrock(amogite, ground_walk)" ]
+    }
+  }
+}

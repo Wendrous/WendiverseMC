@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:combee",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:combee",
+      "model": "cobblemon:combee.geo",
+      "texture": "cobblemon:textures/pokemon/combee/combee.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/combee/combee_shiny.png"
+    }
+  ]
+}

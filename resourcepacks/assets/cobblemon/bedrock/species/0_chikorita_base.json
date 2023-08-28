@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:chikorita",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chikorita",
+      "model": "cobblemon:chikorita.geo",
+      "texture": "cobblemon:textures/pokemon/chikorita/chikorita.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/chikorita/chikorita_shiny.png"
+    }
+  ]
+}

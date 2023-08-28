@@ -1,0 +1,239 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.sliggoo.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"position": [0, "Math.cos((query.anim_time) * 90 * 2) * 0.05", 0]
+				},
+				"base": {
+					"position": [0, 0, 0]
+				},
+				"arm_left": {
+					"rotation": ["30+Math.cos((query.anim_time) * 90 * 1.5) * 5", 0, 0]
+				},
+				"arm_right": {
+					"rotation": ["25+Math.cos((query.anim_time) * 90 * 1.5) * 5", 0, 0]
+				},
+				"neck": {
+					"rotation": ["Math.cos((query.anim_time) * 90 * 2) * 3", 0, "Math.cos((query.anim_time) * 90 * 3) * 2"]
+				},
+				"antenna_big_left": {
+					"rotation": ["-20+Math.cos((query.anim_time+0.5) * 90 * 1.5) * 5", 0, 0]
+				},
+				"antenna_big_left2": {
+					"rotation": [-42.5, 0, 0]
+				},
+				"antenna_left": {
+					"rotation": ["-10+Math.cos((query.anim_time) * 90 * 1.5) * 5", 0, 0]
+				},
+				"antenna_right": {
+					"rotation": ["-17+Math.cos((query.anim_time+0.25) * 90 * 1.5) * 5", 0, 0]
+				},
+				"antenna_big_right": {
+					"rotation": ["-22+Math.cos((query.anim_time+0.75) * 90 * 1.5) * 5", 0, 0]
+				},
+				"antenna_big_right2": {
+					"rotation": [-60, 0, 0]
+				}
+			}
+		},
+		"animation.sliggoo.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"position": [0, "Math.cos((query.anim_time) * 90 * 6) * 0.1", "Math.cos((query.anim_time) * 90 * 3) * -1"]
+				},
+				"base": {
+					"position": [0, 0, 0]
+				},
+				"arm_left": {
+					"rotation": ["30+Math.cos((query.anim_time+0.1) * 90 * 6) * 5", 0, 0]
+				},
+				"arm_right": {
+					"rotation": ["25+Math.cos((query.anim_time) * 90 * 6) * 5", 0, 0]
+				},
+				"neck": {
+					"rotation": ["7.5+Math.cos((query.anim_time) * 90 * 3) * 5", 0, "0+Math.cos((query.anim_time) * 90 * 3) * 2"]
+				},
+				"antenna_big_left": {
+					"rotation": ["-20+Math.cos((query.anim_time+0.5) * 90 * 6) * 5", 0, 0]
+				},
+				"antenna_big_left2": {
+					"rotation": [-42.5, 0, 0]
+				},
+				"antenna_left": {
+					"rotation": ["-10+Math.cos((query.anim_time) * 90 * 3) * 5", 0, 0]
+				},
+				"antenna_right": {
+					"rotation": ["-17+Math.cos((query.anim_time+0.25) * 90 * 3) * 5", 0, 0]
+				},
+				"antenna_big_right": {
+					"rotation": ["-22+Math.cos((query.anim_time+0.55) * 90 * 6) * 5", 0, 0]
+				},
+				"antenna_big_right2": {
+					"rotation": [-60, 0, 0]
+				},
+				"goo": {
+					"position": [0, 0, "Math.cos((query.anim_time+0.01) * 90 * 3) * -1"]
+				},
+				"tail": {
+					"position": [0, 0, "Math.cos((query.anim_time) * 90 * 3) * 0.1"]
+				}
+			}
+		},
+		"animation.sliggoo.blink": {
+			"animation_length": 0.25,
+			"bones": {
+				"eyelid_left": {
+					"position": {
+						"0.0": [1, 0, -1],
+						"0.125": [1, 0, -1],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_right": {
+					"position": {
+						"0.0": [-1, 0, -1],
+						"0.125": [-1, 0, -1],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.sliggoo.sleep": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"position": [0, "Math.cos((query.anim_time) * 90 * 1) * 0.1", 0]
+				},
+				"arm_left": {
+					"rotation": ["40+Math.cos((query.anim_time) * 90 * 1.5) * 5", 9.06524, 12.0012]
+				},
+				"arm_right": {
+					"rotation": ["33.5+Math.cos((query.anim_time+0.5) * 90 * 1) * 5", -12.60837, -8.19252]
+				},
+				"neck": {
+					"rotation": [0, 0, "35+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"]
+				},
+				"head": {
+					"rotation": [0, 0, "15+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"]
+				},
+				"eyelid_left": {
+					"position": [1, 0, -1]
+				},
+				"eyelid_right": {
+					"position": [-1, 0, -1]
+				},
+				"antenna_big_left": {
+					"rotation": [
+						"-10+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2",
+						0,
+						"10+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"
+					]
+				},
+				"antenna_big_left2": {
+					"rotation": [-19.71975, 3.40487, 9.40804]
+				},
+				"antenna_big_right": {
+					"rotation": [
+						"-5+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2",
+						0,
+						"15+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"
+					]
+				},
+				"antenna_big_right2": {
+					"rotation": [-19.8423, 2.55868, 7.05239]
+				},
+				"antenna_left": {
+					"rotation": [0, 0, "12.5+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"]
+				},
+				"antenna_right": {
+					"rotation": [0, 0, "12.5+Math.cos((query.anim_time) * 90 * 3) * 0.5+Math.cos((query.anim_time) * 90 * 1) * 2"]
+				}
+			}
+		},
+		"animation.sliggoo.faint": {
+			"loop": true,
+			"animation_length": 3.16667,
+			"bones": {
+				"goo": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.625": [0, 0, 0],
+						"1.0833": [3, 0, 0]
+					}
+				},
+				"body": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5417": [0, 0, 0],
+						"1.0417": [0, 0, 92.5],
+						"1.25": [0, 0, 82.5],
+						"1.5833": [0, 0, 92.5]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5833": [0, 0, 0],
+						"1.0417": [0, 2, 0]
+					}
+				},
+				"arm_left": {
+					"rotation": {
+						"0.0": [37.5, 0, 0],
+						"0.5417": [-47.5, 0, 0],
+						"0.875": [45, 0, 0]
+					}
+				},
+				"arm_right": {
+					"rotation": {
+						"0.0": [37.5, 0, 0],
+						"0.5417": [-35, 0, 0],
+						"0.875": [45, 0, 0]
+					}
+				},
+				"neck": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.1667": [10, 0, 0],
+						"0.5417": [-20, 0, 0],
+						"0.8333": [36, 0, 0],
+						"1.1667": [73.5, 0, 0],
+						"1.375": [51, 0, 0]
+					}
+				},
+				"eyelid_left": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.7083": [1, 0, -1]
+					}
+				},
+				"eyelid_right": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5417": [-1, 0, -1]
+					}
+				},
+				"antenna_big_left": {
+					"rotation": [-27.5, 0, 0]
+				},
+				"antenna_big_left2": {
+					"rotation": [-45, 0, 0]
+				},
+				"antenna_big_right": {
+					"rotation": [-22.5, 0, 0]
+				},
+				"antenna_big_right2": {
+					"rotation": [-47.5, 0, 0]
+				},
+				"antenna_left": {
+					"rotation": [-12.5, 0, 0]
+				},
+				"antenna_right": {
+					"rotation": [-12.5, 0, 0]
+				}
+			}
+		}
+	}
+}

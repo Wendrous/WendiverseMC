@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:electaburst",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:xenoverse_electaburst",
+      "model": "cobblemon:xenoverse_electaburst.geo",
+      "texture": "cobblemon:textures/pokemon/xenoverse/electaburst/electaburst.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/xenoverse/electaburst/electaburst_shiny.png"
+    }  ]
+}

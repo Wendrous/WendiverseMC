@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:galvantulax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation5_galvantulax",
+      "model": "cobblemon:generation5_galvantulax.geo",
+      "texture": "cobblemon:textures/pokemon/generation5/galvantulax/galvantulax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation5/galvantulax/galvantulax_shiny.png"
+    }  ]
+}

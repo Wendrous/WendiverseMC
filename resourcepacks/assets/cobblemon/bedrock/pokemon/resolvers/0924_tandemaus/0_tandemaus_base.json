@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:tandemaus",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:tandemaus",
+      "model": "cobblemon:tandemaus.geo",
+      "texture": "cobblemon:textures/pokemon/0924_tandemaus/tandemaus.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0924_tandemaus/tandemaus_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

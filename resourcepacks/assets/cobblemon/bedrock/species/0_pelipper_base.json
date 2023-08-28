@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:pelipper",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pelipper",
+      "model": "cobblemon:pelipper.geo",
+      "texture": "cobblemon:textures/pokemon/pelipper/pelipper.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/pelipper/pelipper_shiny.png"
+    }
+  ]
+}

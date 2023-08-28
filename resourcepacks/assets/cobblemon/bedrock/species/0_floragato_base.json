@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:floragato",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:floragato",
+      "model": "cobblemon:floragato.geo",
+      "texture": "cobblemon:textures/pokemon/floragato/floragato.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/floragato/floragato_shiny.png"
+    }
+  ]
+}

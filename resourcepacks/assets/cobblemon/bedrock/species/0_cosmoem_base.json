@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:cosmoem",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cosmoem",
+      "model": "cobblemon:cosmoem.geo",
+      "texture": "cobblemon:textures/pokemon/cosmoem/cosmoem.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/cosmoem/cosmoem.png"
+    }
+  ]
+}

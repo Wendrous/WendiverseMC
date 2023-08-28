@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:lucario_ruins",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lucario_ruins",
+      "model": "cobblemon:lucario_ruins.geo",
+      "texture": "cobblemon:textures/pokemon/lucario_ruins/lucario_ruins.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/lucario_ruins/lucario_ruins_shiny.png"
+    }
+  ]
+}

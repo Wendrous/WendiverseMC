@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:quaquaval",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:quaquaval",
+        "model": "cobblemon:quaquaval.geo",
+        "texture": "cobblemon:textures/pokemon/quaquaval/quaquaval.png",
+        "layers": []
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/quaquaval/quaquaval_shiny.png",
+        "layers": []
+      }
+    ]
+  }
+  

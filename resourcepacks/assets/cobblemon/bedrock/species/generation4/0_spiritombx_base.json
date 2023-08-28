@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:spiritombx",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation4_spiritombx",
+      "model": "cobblemon:generation4_spiritombx.geo",
+      "texture": "cobblemon:textures/pokemon/generation4/spiritombx/spiritombx.png",
+	  "layers": [
+		{
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/generation4/spiritombx/spiritombx_translucent.png",
+          "translucent": true
+        }
+	  ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation4/spiritombx/spiritombx_shiny.png",
+	  "layers": [
+		{
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/generation4/spiritombx/spiritombx_translucent_shiny.png",
+          "translucent": true
+        }
+	  ]
+    }  ]
+}

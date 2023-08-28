@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:rapidashx",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "storm"
+     ],
+      "poser": "cobblemon:generation1_rapidashx_storm",
+      "model": "cobblemon:generation1_rapidashx_storm.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/storm_rapidashx/storm_rapidashx.png",
+      "layers": [
+		{
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/generation1/storm_rapidashx/storm_rapidashx_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+	  ]
+    },
+    {
+      "aspects": [
+        "storm",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation1/storm_rapidashx/storm_rapidashx_shiny.png",
+	  "layers": [
+		{
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/generation1/storm_rapidashx/storm_rapidashx_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+	  ]
+    }  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:spinarak",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:spinarak",
+      "model": "cobblemon:spinarak.geo",
+      "texture": "cobblemon:textures/pokemon/0167_spinarak/spinarak.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0167_spinarak/spinarak_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

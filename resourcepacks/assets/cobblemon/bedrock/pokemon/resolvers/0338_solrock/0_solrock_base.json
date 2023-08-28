@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:solrock",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:solrock",
+      "model": "cobblemon:solrock.geo",
+      "texture": "cobblemon:textures/pokemon/0338_solrock/solrock.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0338_solrock/solrock_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

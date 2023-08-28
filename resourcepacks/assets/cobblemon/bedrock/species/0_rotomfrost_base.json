@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:rotomfrost",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:rotomfrost",
+      "model": "cobblemon:rotomfrost.geo",
+      "texture": "cobblemon:textures/pokemon/rotomfrost/rotomfrost.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:rotomfrost",
+      "model": "cobblemon:rotomfrost.geo",
+      "texture": "cobblemon:textures/pokemon/rotomfrost/rotomfrost_shiny.png",
+      "layers": []
+    }
+  ]
+}

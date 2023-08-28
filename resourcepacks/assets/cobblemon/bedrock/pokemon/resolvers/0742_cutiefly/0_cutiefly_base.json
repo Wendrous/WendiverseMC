@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:cutiefly",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cutiefly",
+      "model": "cobblemon:cutiefly.geo",
+      "texture": "cobblemon:textures/pokemon/0742_cutiefly/cutiefly.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0742_cutiefly/cutiefly_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

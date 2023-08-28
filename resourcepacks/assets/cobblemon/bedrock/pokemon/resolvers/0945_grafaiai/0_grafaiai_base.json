@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:grafaiai",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:grafaiai",
+      "model": "cobblemon:grafaiai.geo",
+      "texture": "cobblemon:textures/pokemon/0945_grafaiai/grafaiai.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0945_grafaiai/grafaiai_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

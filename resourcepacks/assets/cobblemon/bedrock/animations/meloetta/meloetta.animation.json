@@ -1,0 +1,55 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.meloetta.ground_idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": ["1-1*(math.sin(q.anim_time*80*4)*1+0)", 0, 0],
+					"position": [0, "0+0.05*(math.sin(q.anim_time*80*4)*1+0)", 0]
+				},
+				"hair": {
+					"rotation": [-12, -9, "85-1*(math.sin(q.anim_time*120*4)*1+1)"],
+					"position": [1, -0.5, 0.01]
+				},
+				"hair2": {
+					"rotation": [0, 0, "-25+2*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"hair_end": {
+					"rotation": [0, 0, "25+3*(math.sin(q.anim_time*120*4)*1+1)"]
+				},
+				"ear2": {
+					"rotation": [0, -6, -15],
+					"position": [-0.5, 0, 0]
+				},
+				"mic": {
+					"rotation": [20.56695, -16.45236, 17.6604]
+				},
+				"hips": {
+					"position": ["0.15-0.15*(math.sin(q.anim_time*80*4)*1+1)", 0, "0.05-0.05*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"skirt": {
+					"rotation": [0, 0, "-15+3*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"left_leg": {
+					"rotation": [0, 0, "-2-1*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"right_leg": {
+					"rotation": [0, 0, "3-2*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"left_arm": {
+					"rotation": [5, "2*(math.sin(q.anim_time*80*4)*1+1)", "-50-3*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"right_arm": {
+					"rotation": [5, "2*(math.sin(q.anim_time*80*4)*1+1)", "50+3*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"top": {
+					"rotation": ["-1+2*(math.sin(q.anim_time*80*4)*1+1)", 0, "-2+2*(math.sin(q.anim_time*80*4)*1+1)"]
+				},
+				"open": {
+					"position": [0, 0, 1]
+				}
+			}
+		}
+	}
+}

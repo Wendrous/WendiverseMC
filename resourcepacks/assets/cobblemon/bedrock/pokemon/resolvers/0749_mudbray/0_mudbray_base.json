@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:mudbray",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mudbray",
+      "model": "cobblemon:mudbray.geo",
+      "texture": "cobblemon:textures/pokemon/0749_mudbray/mudbray.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0749_mudbray/mudbray_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

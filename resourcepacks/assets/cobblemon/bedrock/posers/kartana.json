@@ -1,0 +1,32 @@
+{
+    "portraitScale": 3,
+    "portraitTranslation": [ 0.2, 0.3, 0 ],
+    "profileScale": 0.75,
+    "profileTranslation": [ 0, 0.75, 0 ],
+    "faint": "bedrock(kartana, sleep)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(kartana, ground_idle)"
+        ]
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ 
+          "bedrock(kartana, ground_walk)"
+        ]
+      }
+    }
+  }

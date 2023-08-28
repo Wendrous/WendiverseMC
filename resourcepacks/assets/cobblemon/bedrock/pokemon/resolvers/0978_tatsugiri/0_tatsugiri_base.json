@@ -1,0 +1,42 @@
+{
+  "species": "cobblemon:tatsugiri",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [ "tatsugiri-texture-curly" ],
+      "poser": "cobblemon:tatsugiri2",
+      "model": "cobblemon:tatsugiri2.geo",
+      "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_curly.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "tatsugiri-texture-curly", "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_curly_shiny.png",
+      "layers": []
+    },
+    {
+        "aspects": [ "tatsugiri-texture-stretchy" ],
+        "poser": "cobblemon:tatsugiri2",
+        "model": "cobblemon:tatsugiri2.geo",
+        "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_stretchy.png",
+        "layers": []
+      },
+      {
+        "aspects": [ "tatsugiri-texture-stretchy", "shiny" ],
+        "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_stretchy_shiny.png",
+        "layers": []
+      },
+      {
+        "aspects": [ "tatsugiri-texture-droopy" ],
+        "poser": "cobblemon:tatsugiri2",
+        "model": "cobblemon:tatsugiri2.geo",
+        "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_droopy.png",
+        "layers": []
+      },
+      {
+        "aspects": [ "tatsugiri-texture-droopy", "shiny" ],
+        "texture": "cobblemon:textures/pokemon/0978_tatsugiri2/tatsugiri2_droopy_shiny.png",
+        "layers": []
+      }
+  ]
+}

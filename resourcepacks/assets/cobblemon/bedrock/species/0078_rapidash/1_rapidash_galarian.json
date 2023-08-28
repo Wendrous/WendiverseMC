@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:rapidash",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "galarian"
+      ],
+      "poser": "cobblemon:rapidash_galarian",
+      "model": "cobblemon:rapidash_galarian.geo",
+      "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galarian.png",
+      "layers": [
+        {
+          "name": "fire",
+          "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galarian_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "galarian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galarian_shiny.png",
+      "layers": [
+        {
+          "name": "fire",
+          "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galarian_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

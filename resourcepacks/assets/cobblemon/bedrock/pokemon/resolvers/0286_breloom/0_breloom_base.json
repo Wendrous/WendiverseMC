@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:breloom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:breloom",
+      "model": "cobblemon:breloom.geo",
+      "texture": "cobblemon:textures/pokemon/0286_breloom/breloom.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0286_breloom/breloom_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

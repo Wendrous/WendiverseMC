@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:cacturne",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cacturne",
+      "model": "cobblemon:cacturne.geo",
+      "texture": "cobblemon:textures/pokemon/0332_cacturne/cacturne.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0332_cacturne/cacturne_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

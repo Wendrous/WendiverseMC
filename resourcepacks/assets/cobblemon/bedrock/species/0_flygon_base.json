@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:flygon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:flygon",
+      "model": "cobblemon:flygon.geo",
+      "texture": "cobblemon:textures/pokemon/flygon/flygon.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/flygon/flygon_shiny.png"
+    }
+  ]
+}

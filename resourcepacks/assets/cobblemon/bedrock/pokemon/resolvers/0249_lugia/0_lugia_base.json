@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:lugia",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lugia",
+      "model": "cobblemon:lugia.geo",
+      "texture": "cobblemon:textures/pokemon/0249_lugia/lugia.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0249_lugia/lugia_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

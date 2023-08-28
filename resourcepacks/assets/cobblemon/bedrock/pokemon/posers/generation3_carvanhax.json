@@ -1,0 +1,16 @@
+{
+  "portraitScale": 1.8,
+  "portraitTranslation": [0.0, -0.4, 0.0],
+  "profileScale": 1,
+  "profileTranslation": [0.0, 0.2, 0.0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "allPoseTypes": true,
+      "animations": [
+          "bedrock(carvanha_x, water_idle)"
+        ]
+    }
+  }
+}

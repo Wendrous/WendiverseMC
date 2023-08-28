@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:roggenrola",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:roggenrola",
+      "model": "cobblemon:roggenrola.geo",
+      "texture": "cobblemon:textures/pokemon/0524_roggenrola/roggenrola.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0524_roggenrola/roggenrola_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

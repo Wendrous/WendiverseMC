@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:sirfetchd",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sirfetchd",
+      "model": "cobblemon:sirfetchd.geo",
+      "texture": "cobblemon:textures/pokemon/sirfetchd/sirfetchd.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/sirfetchd/sirfetchd_shiny.png",
+      "layers": []
+    }
+  ]
+}

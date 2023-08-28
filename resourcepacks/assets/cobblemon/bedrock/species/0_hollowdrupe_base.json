@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:hollowdrupe",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:hollowdrupe.geo",
+      "poser": "cobblemon:hollowdrupe",
+      "texture": "cobblemon:textures/pokemon/hollowdrupe/hollowdrupe.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/hollowdrupe/hollowdrupe_emissive.png"
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/hollowdrupe/hollowdrupe_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/hollowdrupe/hollowdrupe_emissive.png"
+       }
+      ]
+    }
+  ]
+}

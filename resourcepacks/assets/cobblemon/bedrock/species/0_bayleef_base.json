@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:bayleef",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bayleef",
+      "model": "cobblemon:bayleef.geo",
+      "texture": "cobblemon:textures/pokemon/bayleef/bayleef.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/bayleef/bayleef_shiny.png"
+    }
+  ]
+}

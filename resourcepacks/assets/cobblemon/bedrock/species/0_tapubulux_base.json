@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:tapubulux",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:tapubulux.geo",
+      "poser": "cobblemon:tapubulux",
+      "texture": "cobblemon:textures/pokemon/tapubulux/tapubulux.png"
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/tapubulux/tapubulux_shiny.png"
+    }
+  ]
+}

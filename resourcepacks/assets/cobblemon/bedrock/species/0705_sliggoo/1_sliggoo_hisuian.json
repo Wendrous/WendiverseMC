@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:sliggoo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:sliggoo_hisuian",
+      "model": "cobblemon:sliggoo_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/sliggoo_hisuian/sliggoo_hisuian.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/sliggoo_hisuian/sliggoo_hisuian_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/sliggoo_hisuian/sliggoo_hisuian_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/sliggoo_hisuian/sliggoo_hisuian_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

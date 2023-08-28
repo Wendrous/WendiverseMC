@@ -1,0 +1,34 @@
+{
+    "species": "cobblemon:crocalor",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:crocalor",
+        "model": "cobblemon:crocalor.geo",
+        "texture": "cobblemon:textures/pokemon/crocalor/crocalor.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/crocalor/crocalor_emissive.png",
+            "translucent": true
+          }
+        ]
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/crocalor/crocalor_shiny.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/skeledirge/crocalor_emissive_shiny.png",
+            "translucent": true
+         }
+        ]
+      }
+    ]
+  }
+  

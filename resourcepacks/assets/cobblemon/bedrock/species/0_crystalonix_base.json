@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:crystalonix",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:crystalonix",
+      "model": "cobblemon:crystalonix.geo",
+      "texture": "cobblemon:textures/pokemon/crystalonix/crystalonix.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/crystalonix/crystalonix_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/crystalonix/crystalonix_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/crystalonix/crystalonix_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

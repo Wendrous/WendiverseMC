@@ -1,0 +1,102 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.rapidash_x.ground_idle": {
+			"loop": true,
+			"animation_length": 1.41667,
+			"bones": {
+				"cloud_mane_head": {
+					"rotation": [-7.67995, -12.39135, 1.6575]
+				},
+				"bone": {
+					"rotation": [-47.44625, -17.69435, 13.80785]
+				},
+				"bone2": {
+					"rotation": [-20, -30, 0]
+				},
+				"bone3": {
+					"rotation": [-41.69146, -16.27014, 11.79198]
+				},
+				"bone4": {
+					"rotation": [-29.8868, -13.75539, 1.5649]
+				},
+				"bone5": {
+					"rotation": [-30.59871, 10.80355, -6.32526],
+					"position": [0, 1, -1.5]
+				},
+				"bone6": {
+					"rotation": [-32.52473, 2.10829, -1.34386]
+				},
+				"bone7": {
+					"rotation": [-15, 17.5, 0]
+				},
+				"bone8": {
+					"rotation": [0, -42.5, 0]
+				},
+				"bone9": {
+					"rotation": [-7.59001, 15.81499, -26.05573]
+				},
+				"bone10": {
+					"rotation": [-3.96713, -14.47751, 15.50409]
+				},
+				"bone11": {
+					"rotation": [0, -40, -17.5],
+					"position": [1.5, 0, 0]
+				},
+				"bone12": {
+					"rotation": [5.123, -21.93857, -13.4936]
+				},
+				"bone14": {
+					"rotation": [-3.21526, 2.83561, 11.92758],
+					"position": [0.75, 0, 0]
+				},
+				"bone15": {
+					"rotation": [19.14314, -5.90316, -73.49629],
+					"position": [0.5, 0.5, -0.75]
+				},
+				"bone16": {
+					"rotation": [0, -5, -22.5]
+				},
+				"bone17": {
+					"rotation": [0, 0, 55]
+				},
+				"tail_right": {
+					"rotation": [39.71128, -17.67415, -14.15251]
+				},
+				"bone18": {
+					"rotation": [-25, 0, 0]
+				},
+				"bone19": {
+					"rotation": [-55.41103, -5.71617, 8.21888],
+					"position": [0, 1.25, -2]
+				},
+				"bone20": {
+					"rotation": [-27.5, 0, 0]
+				},
+				"bone21": {
+					"rotation": [-25, 0, 0]
+				},
+				"tail_left": {
+					"rotation": [-12.5, 30, 0],
+					"position": [0, 0, 0.5]
+				},
+				"bone23": {
+					"rotation": [35, 0, 0],
+					"position": [0, 0, -1]
+				},
+				"bone24": {
+					"rotation": [-42.74529, -5.52235, 5.08269]
+				},
+				"bone25": {
+					"rotation": [-64.06134, -12.2403, -8.73739]
+				},
+				"bone26": {
+					"rotation": [25, -30, 0]
+				},
+				"bone27": {
+					"rotation": [0, 12.5, 0]
+				}
+			}
+		}
+	}
+}

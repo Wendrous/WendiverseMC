@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:chingling",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chingling",
+      "model": "cobblemon:chingling.geo",
+      "texture": "cobblemon:textures/pokemon/0433_chingling/chingling.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0433_chingling/chingling_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

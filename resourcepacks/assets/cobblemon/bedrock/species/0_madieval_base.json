@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:madieval",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:madieval",
+      "model": "cobblemon:madieval.geo",
+      "texture": "cobblemon:textures/pokemon/madieval/madieval.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/madieval/madieval_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/madieval/madieval_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/madieval/madieval_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:chinchou",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chinchou",
+      "model": "cobblemon:chinchou.geo",
+      "texture": "cobblemon:textures/pokemon/0170_chinchou/chinchou.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0170_chinchou/chinchou_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

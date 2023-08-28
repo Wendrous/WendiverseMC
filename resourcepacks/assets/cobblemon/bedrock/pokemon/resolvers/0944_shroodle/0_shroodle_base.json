@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:shroodle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shroodle",
+      "model": "cobblemon:shroodle.geo",
+      "texture": "cobblemon:textures/pokemon/0944_shroodle/shroodle.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0944_shroodle/shroodle_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

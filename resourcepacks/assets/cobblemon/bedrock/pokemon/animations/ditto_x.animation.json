@@ -1,0 +1,75 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ditto_x.ground_idle": {
+			"loop": true,
+			"animation_length": 28.79167,
+			"bones": {
+				"body2": {
+					"rotation": ["-1.25+math.sin(q.anim_time*90*1.5-60)*4", 0, "-math.sin(q.anim_time*90*0.75)*3"],
+					"position": [0, "math.sin(q.anim_time*90*1.5+30)*0.25", 0]
+				},
+				"head": {
+					"rotation": ["-1.25+math.sin(q.anim_time*90*1.5-120)*3", 0, "-math.sin(q.anim_time*90*0.75)*3"],
+					"position": [0, "0.9+(math.sin(q.anim_time*90-120)*0.95)/9", 0]
+				},
+				"arm_left": {
+					"rotation": [0, 0, "10+math.sin(q.anim_time*270*1.5+30)*8"],
+					"position": [0, -0.5, 0]
+				},
+				"arm_right": {
+					"rotation": [0, 0, "10+math.sin(q.anim_time*270*1.5+30)*8"],
+					"position": [0, -0.5, 0]
+				}
+			}
+		},
+		"animation.ditto_x.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["5-math.sin(q.anim_time*90*4-30)*10", 0, 0],
+					"position": [
+						0,
+						"-1+math.clamp(math.sin(q.anim_time*90*4+60)*0.25,-4,0)+math.clamp(math.sin(q.anim_time*90*4+60)*0.4,0,4)",
+						"math.sin(q.anim_time*90*4-120)*0.5"
+					]
+				},
+				"body2": {
+					"rotation": ["2.5+math.sin(q.anim_time*90*4-40)*5-math.clamp(math.sin(q.anim_time*90*4-90)*15,0,20)", 0, "math.sin(q.anim_time*90*4*2+90)*2"],
+					"position": [0, "math.sin(q.anim_time*90*4+30)*0.25+math.clamp(math.sin(q.anim_time*90*4+60)*0.5,-4,0)", 0]
+				},
+				"head": {
+					"rotation": ["math.sin(q.anim_time*90*4-120)*0.5-math.clamp(math.sin(q.anim_time*90*4+120)*10,0,10)", 0, "math.sin(q.anim_time*90*2+60)*2"],
+					"position": [0, "0.75+math.clamp(math.sin(q.anim_time*90*4+130)*0.5,0,1)+math.clamp(math.sin(q.anim_time*90*2+130)*0.2,-1,0)", 0]
+				},
+				"arm_left": {
+					"rotation": [0, 0, "-15-math.sin(q.anim_time*90*4+30)*8-4"],
+					"position": [0, -0.75, 0]
+				},
+				"arm_right": {
+					"rotation": [0, 0, "15+math.sin(q.anim_time*90*4+30)*8+4"],
+					"position": [0, -1.25, 0]
+				}
+			}
+		},
+		"animation.ditto_x.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"eyelid_right": {
+					"position": {
+						"0.0": [0, 0, -0.1],
+						"0.125": [0, 0, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_left": {
+					"position": {
+						"0.0": [0, 0, -0.1],
+						"0.125": [0, 0, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:tapulele",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:tapulele",
+      "model": "cobblemon:tapulele.geo",
+      "texture": "cobblemon:textures/pokemon/0786_tapulele/tapulele.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0786_tapulele/tapulele_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0786_tapulele/tapulele_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0786_tapulele/tapulele_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

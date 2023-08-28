@@ -1,0 +1,49 @@
+{
+  "head": "head",
+  "portraitScale": 2.25,
+  "portraitTranslation": [
+    0,
+    -1,
+    0
+  ],
+  "profileScale": 1.75,
+  "profileTranslation": [
+    0,
+    -0.6,
+    0
+  ],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "look",
+        "bedrock(deino, ground_idle)"
+      ],
+      "quirks": [
+        {
+          "name": "tail",
+          "animations": [
+            "bedrock(deino,tail)"
+          ]
+        }
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(deino, ground_walk)"
+      ]
+    }
+  }
+}

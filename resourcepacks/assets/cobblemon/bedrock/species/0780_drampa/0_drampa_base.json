@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:drampa",
+  "order": 0,
+  "variations": [
+  {
+      "aspects": [],
+      "poser": "cobblemon:drampa",
+      "model": "cobblemon:drampa.geo",
+      "texture": "cobblemon:textures/pokemon/drampa/drampa.png",
+      "layers": []
+},
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/drampa/drampa_shiny.png"
+},
+    {
+     
+
+
+    }
+  ]
+}

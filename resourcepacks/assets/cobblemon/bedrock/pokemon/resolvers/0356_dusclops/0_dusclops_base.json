@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:dusclops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dusclops",
+      "model": "cobblemon:dusclops.geo",
+      "texture": "cobblemon:textures/pokemon/0356_dusclops/dusclops.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0356_dusclops/dusclops_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

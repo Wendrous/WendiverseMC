@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:luxray",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:luxray",
+      "model": "cobblemon:luxray.geo",
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

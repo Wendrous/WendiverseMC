@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:shuckle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shuckle",
+      "model": "cobblemon:shuckle.geo",
+      "texture": "cobblemon:textures/pokemon/0213_shuckle/shuckle.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0213_shuckle/shuckle_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

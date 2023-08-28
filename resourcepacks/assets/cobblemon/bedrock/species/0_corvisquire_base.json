@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:corvisquire",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:corvisquire",
+      "model": "cobblemon:corvisquire.geo",
+      "texture": "cobblemon:textures/pokemon/corvisquire/corvisquire.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/corvisquire/corvisquire_shiny.png"
+    }
+  ]
+}

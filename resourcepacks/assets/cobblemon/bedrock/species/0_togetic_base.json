@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:togetic",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:togetic",
+			"model": "cobblemon:togetic.geo",
+			"texture": "cobblemon:textures/pokemon/0176_togetic/togetic.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/0176_togetic/togetic_shiny.png"
+		}
+	]
+}

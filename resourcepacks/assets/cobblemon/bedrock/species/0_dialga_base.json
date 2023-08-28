@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:dialga",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dialga",
+      "model": "cobblemon:dialga.geo",
+      "texture": "cobblemon:textures/pokemon/dialga/dialga.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/dialga/dialga_e.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/dialga/dialga_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/dialga/dialga_shiny_e.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"head": "head",
+	"portraitScale": 2.0,
+	"portraitTranslation": [0, -0.7, 0],
+	"profileScale": 1,
+	"profileTranslation": [0, 0, 0],
+	"faint": "bedrock(vroombug, faint)",
+	"poses": {
+		"standing": {
+			"poseName": "standing",
+			"transformTicks": 10,
+			"poseTypes": [
+				"STAND",
+				"NONE",
+				"PORTRAIT",
+				"PROFILE"
+			],
+			"animations": [
+				"look",
+				"bedrock(vroombug, ground_idle)"
+			  ]
+			},
+	  
+			"walking": {
+			  "poseName": "walking",
+			  "transformTicks": -1,
+			  "poseTypes": [ "WALK" ],
+			  "animations": [ 
+				"bedrock(vroombug, ground_walk)"
+			  ]
+			}
+		  }
+		}

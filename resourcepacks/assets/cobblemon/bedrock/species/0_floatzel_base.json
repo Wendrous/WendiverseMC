@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:floatzel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:floatzel",
+      "model": "cobblemon:floatzel.geo",
+      "texture": "cobblemon:textures/pokemon/floatzel/floatzel.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/floatzel/floatzel_shiny.png"
+    }
+  ]
+}

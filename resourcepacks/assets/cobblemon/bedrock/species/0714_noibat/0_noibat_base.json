@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:noibat",
+  "order": 0,
+  "variations": [
+  {
+      "aspects": [],
+      "poser": "cobblemon:noibat",
+      "model": "cobblemon:noibat.geo",
+      "texture": "cobblemon:textures/pokemon/noibat/noibat.png",
+      "layers": []
+},
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/noibat/noibat_shiny.png"
+},
+    {
+     
+
+
+    }
+  ]
+}

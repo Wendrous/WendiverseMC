@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:goodra",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:goodra",
+      "model": "cobblemon:goodra.geo",
+      "texture": "cobblemon:textures/pokemon/goodra/goodra.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/goodra/goodra_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/goodra/goodra_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/goodra/goodra_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

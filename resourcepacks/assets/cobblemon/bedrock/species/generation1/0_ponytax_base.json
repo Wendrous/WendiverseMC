@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:ponytax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation1_ponytax",
+      "model": "cobblemon:generation1_ponytax.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/ponytax/ponytax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation1/ponytax/ponytax_shiny.png"
+    }  ]
+}

@@ -1,0 +1,86 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"new": {
+			"loop": true
+		},
+		"animation.tapulele.ground_walk": {
+			"loop": true,
+			"bones": {
+				"1": {
+					"rotation": [0, 0, "-2*math.sin(q.anim_time*120*2.75+180)"]
+				},
+				"2": {
+					"rotation": [0, 0, "-2*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"3": {
+					"rotation": [0, 0, "-2*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"TapeLele": {
+					"rotation": [0, "0+(math.cos(q.anim_time*90*2+180)*10)*0.3", "0+(math.sin(q.anim_time*90*3+180)*4)*0.3"],
+					"position": [0, "5+(math.cos(q.anim_time*50*3+180)*6)*0.2", "(math.cos(q.anim_time*50*3+180)*10)*0.6"]
+				},
+				"Head2": {
+					"rotation": ["math.sin(q.anim_time*60*2.75+180)", 0, 0]
+				},
+				"LeftArm2": {
+					"rotation": [0, "-2*math.sin(q.anim_time*100*2.75+180)", 0]
+				},
+				"RightArm3": {
+					"rotation": [0, "2*math.sin(q.anim_time*100*2.75+180)", 0]
+				},
+				"One": {
+					"rotation": [0, 0, "2*math.sin(q.anim_time*120*2.75+180)"]
+				},
+				"UpperR": {
+					"rotation": [0, 0, 0]
+				},
+				"Two": {
+					"rotation": [0, 0, "2*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"Three": {
+					"rotation": [0, 0, "2*math.sin(q.anim_time*105*2.75+180)"]
+				}
+			}
+		},
+		"animation.tapulele.ground_idle": {
+			"loop": true,
+			"bones": {
+				"1": {
+					"rotation": [0, 0, "-1*math.sin(q.anim_time*120*2.75+180)"]
+				},
+				"2": {
+					"rotation": [0, 0, "-1*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"3": {
+					"rotation": [0, 0, "-1*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"TapeLele": {
+					"rotation": [0, "0+(math.cos(q.anim_time*90*2+180)*10)*0.3", "0+(math.sin(q.anim_time*90*3+180)*4)*0.3"],
+					"position": [0, "5+(math.cos(q.anim_time*50*3+180)*6)*0.2", 0]
+				},
+				"Head2": {
+					"rotation": ["math.sin(q.anim_time*60*2.75+180)", 0, 0]
+				},
+				"LeftArm2": {
+					"rotation": [0, "-1*math.sin(q.anim_time*50*2.75+180)", 0]
+				},
+				"RightArm3": {
+					"rotation": [0, "1*math.sin(q.anim_time*50*2.75+180)", 0]
+				},
+				"One": {
+					"rotation": [0, 0, "1*math.sin(q.anim_time*120*2.75+180)"]
+				},
+				"UpperR": {
+					"rotation": [0, 0, 0]
+				},
+				"Two": {
+					"rotation": [0, 0, "1*math.sin(q.anim_time*100*2.75+180)"]
+				},
+				"Three": {
+					"rotation": [0, 0, "1*math.sin(q.anim_time*105*2.75+180)"]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:lucario_party",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lucario_party",
+      "model": "cobblemon:lucario_party.geo",
+      "texture": "cobblemon:textures/pokemon/lucario_party/lucario_party.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/lucario_party/lucario_party_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:dachsbun",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dachsbun",
+      "model": "cobblemon:dachsbun.geo",
+      "texture": "cobblemon:textures/pokemon/0927_dachsbun/dachsbun.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0927_dachsbun/dachsbun_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

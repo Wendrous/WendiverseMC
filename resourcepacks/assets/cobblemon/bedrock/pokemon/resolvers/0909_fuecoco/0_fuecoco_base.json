@@ -1,0 +1,34 @@
+{
+    "species": "cobblemon:fuecoco",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:fuecoco",
+        "model": "cobblemon:fuecoco2.geo",
+        "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco_emissive.png",
+            "translucent": true
+          }
+        ]
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco_shiny.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/fuecoco/fuecoco_emissive.png",
+            "translucent": true
+         }
+        ]
+      }
+    ]
+  }
+  

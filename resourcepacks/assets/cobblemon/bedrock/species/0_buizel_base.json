@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:buizel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:buizel",
+      "model": "cobblemon:buizel.geo",
+      "texture": "cobblemon:textures/pokemon/buizel/buizel.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/buizel/buizel_shiny.png"
+    }
+  ]
+}

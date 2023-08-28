@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ponyta_x.ground_idle": {
+			"loop": true,
+			"bones": {
+				"cloud1": {
+					"rotation": [-15, 0, 0]
+				},
+				"cloud2": {
+					"rotation": [0, -20, 0],
+					"position": [0, 0, -0.5]
+				},
+				"cloud3": {
+					"rotation": [0, -50, 0],
+					"position": [0.5, 0, -0.8]
+				},
+				"bone": {
+					"rotation": [-36.36901, 41.4331, -6.78079]
+				},
+				"bone2": {
+					"rotation": [33.25262, 49.01841, 18.27187]
+				},
+				"bone4": {
+					"rotation": [20, 25, 0]
+				},
+				"bone3": {
+					"rotation": [17.5, 22.5, 0]
+				},
+				"bone5": {
+					"rotation": [22.5193, 2.30959, 0.95723]
+				}
+			}
+		}
+	}
+}

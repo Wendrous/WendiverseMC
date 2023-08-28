@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:blacktyranitar",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:blacktyranitar",
+      "model": "cobblemon:blacktyranitar.geo",
+      "texture": "cobblemon:textures/pokemon/blacktyranitar/blacktyranitar.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/blacktyranitar/blacktyranitar_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/blacktyranitar/blacktyranitar_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/blacktyranitar/blacktyranitar_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

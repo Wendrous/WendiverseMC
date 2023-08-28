@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:salamence",
+  "order": 0,
+  "variations": [
+  {
+      "aspects": [],
+      "poser": "cobblemon:salamence",
+      "model": "cobblemon:salamence.geo",
+      "texture": "cobblemon:textures/pokemon/salamence/salamence.png",
+      "layers": []
+},
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/salamence/salamence_shiny.png"
+},
+    {
+     
+
+
+    }
+  ]
+}

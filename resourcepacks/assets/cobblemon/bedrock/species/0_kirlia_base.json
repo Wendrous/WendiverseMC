@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:kirlia",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:kirlia",
+      "model": "cobblemon:kirlia.geo",
+      "texture": "cobblemon:textures/pokemon/kirlia/kirlia.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/kirlia/kirlia_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/kirlia/kirlia_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/kirlia/kirlia_emissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

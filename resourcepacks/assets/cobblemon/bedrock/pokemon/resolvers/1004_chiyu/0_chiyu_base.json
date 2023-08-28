@@ -1,0 +1,49 @@
+{
+  "species": "cobblemon:chiyu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chiyu",
+      "model": "cobblemon:chiyu.geo",
+      "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu_shiny.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "crimson"
+      ],
+      "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu_crimson.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu_crimson_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+		    "crimson",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu_crimson_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/1004_chiyu/chiyu_crimson_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

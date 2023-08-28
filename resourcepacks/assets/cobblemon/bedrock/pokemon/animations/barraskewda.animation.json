@@ -1,0 +1,118 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.barraskewda.pose": {
+			"loop": true,
+			"bones": {
+				"fin_left": {
+					"rotation": [0, 0, 22.5]
+				},
+				"tail": {
+					"rotation": [-5, 12.5, 0]
+				},
+				"fin_left2": {
+					"rotation": [0, 0, 32.5]
+				},
+				"tail2": {
+					"rotation": [-7.5, 12.5, 0]
+				},
+				"tail3": {
+					"rotation": [-4.5598, 9.56973, 19.1258]
+				},
+				"head": {
+					"rotation": [0, -7.5, 0]
+				},
+				"jaw": {
+					"rotation": [45, 0, 0]
+				}
+			}
+		},
+		"animation.barraskewda.blink": {
+			"animation_length": 0.1667,
+			"bones": {
+				"eyelid_left": {
+					"position": {
+						"0.0": [0.1, 0, 0],
+						"0.125": [0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0, 0],
+						"0.125": [-0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.barraskewda.cry": {
+			"animation_length": 1.5,
+			"bones": {
+				"neck": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [10, 0, 0],
+						"1.25": [10, 0, 0],
+						"1.5": [0, 0, 0]
+					}
+				},
+				"head": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [-15, 0, 0],
+						"1.25": [-15, 0, 0],
+						"1.5": [0, 0, 0]
+					}
+				},
+				"jaw": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [20, 0, 0],
+						"1.25": [20, 0, 0],
+						"1.5": [0, 0, 0]
+					}
+				},
+				"tail3": {
+					"rotation": [0, 0, -370]
+				}
+			}
+		},
+		"animation.barraskewda.water_swim": {
+			"animation_length": 5.875,
+			"bones": {
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0, 0],
+						"0.125": [-0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"torso": {
+					"rotation": [0, "5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5", 0]
+				},
+				"fin_left": {
+					"rotation": [0, 0, "-5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5"]
+				},
+				"fin_right": {
+					"rotation": [0, 0, "5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5"]
+				},
+				"tail": {
+					"rotation": [0, "-5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5", 0]
+				},
+				"fin_left2": {
+					"rotation": [0, 0, "-5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5"]
+				},
+				"fin_right2": {
+					"rotation": [0, 0, "5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5"]
+				},
+				"tail2": {
+					"rotation": [0, "5*Math.cos((query.anim_time-0.5) * 90 * 5) * 1.5", 0]
+				},
+				"tail3": {
+					"rotation": [0, 0, "3.5+q.anim_time*90*2.5"]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,112 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.spiritomb",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "spiritomb",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "tomb",
+					"parent": "spiritomb",
+					"pivot": [0, 2, 0]
+				},
+				{
+					"name": "bone",
+					"parent": "tomb",
+					"pivot": [3.76904, 2.75, 3.70879],
+					"cubes": [
+						{"origin": [2.5, 0, -0.5], "size": [4, 4, 4], "pivot": [0, 0, 0], "rotation": [0, -22.5, 0], "uv": [18, 60]},
+						{"origin": [5.3, 0, 2.1], "size": [6, 3, 3], "pivot": [0, 0, 0], "rotation": [0, -5, 0], "uv": [60, 0]}
+					]
+				},
+				{
+					"name": "bone4",
+					"parent": "tomb",
+					"pivot": [-2.88028, 2.21135, -2.56564],
+					"cubes": [
+						{"origin": [-5.5, 0, -4.5], "size": [4, 4, 3], "uv": [61, 20]},
+						{"origin": [-8.9, 0, -4.9], "size": [5, 3, 3], "pivot": [0, 0, 0], "rotation": [0, -10, 0], "uv": [61, 6]},
+						{"origin": [4.9, 1.7, -6.9], "size": [7, 3, 3], "pivot": [0, 0, 0], "rotation": [140.45318, 60.24584, 136.43569], "uv": [58, 35]}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "tomb",
+					"pivot": [-3.05891, 2, 4.08043],
+					"cubes": [
+						{"origin": [-4.5, 0, 0.4], "size": [5, 5, 5], "uv": [40, 48]},
+						{"origin": [-5.5, 0, 4.4], "size": [4, 4, 5], "uv": [55, 53]},
+						{"origin": [-10.7, 0, -6.7], "size": [3, 3, 7], "pivot": [0, 0, 0.9], "rotation": [0, 72.5, 0], "uv": [48, 10]}
+					]
+				},
+				{
+					"name": "bone2",
+					"parent": "tomb",
+					"pivot": [3.52192, 1.66667, -3.37025],
+					"cubes": [
+						{"origin": [-0.10515, 0, -5.77742], "size": [4, 5, 4], "uv": [36, 58]},
+						{"origin": [-0.50515, 0, -8.47742], "size": [6, 3, 3], "pivot": [-0.60515, 0, -1.27742], "rotation": [0, -27.5, 0], "uv": [0, 60]},
+						{"origin": [-17.22324, 0, -4.84631], "size": [6, 2, 3], "pivot": [-2.72324, 0, -0.24631], "rotation": [0, -140, 0], "uv": [55, 48]}
+					]
+				},
+				{
+					"name": "stem",
+					"parent": "tomb",
+					"pivot": [1, 0.75, -1],
+					"cubes": [
+						{"origin": [-3.5, 0.05873, -2.54768], "size": [7, 8, 7], "uv": [40, 20]},
+						{"origin": [-3, 8.05873, -2.04768], "size": [6, 7, 6], "uv": [40, 35]},
+						{"origin": [-3, 15.05873, -2.04768], "size": [6, 4, 6], "uv": [40, 35]}
+					]
+				},
+				{
+					"name": "bush",
+					"parent": "stem",
+					"pivot": [0, 14.5, 2.9],
+					"cubes": [
+						{"origin": [-7, 14.5, -4.1], "size": [14, 10, 10], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "spirit",
+					"parent": "bush",
+					"pivot": [0, 8.7, 2.8]
+				},
+				{
+					"name": "face",
+					"parent": "spirit",
+					"pivot": [0, 19.7, -4.21],
+					"cubes": [
+						{"origin": [-5.5, 14.7, -4.51], "size": [11, 10, 0], "uv": [38, 0]}
+					]
+				},
+				{
+					"name": "leaves",
+					"parent": "spirit",
+					"pivot": [0, 19.7, -4.2],
+					"cubes": [
+						{"origin": [-10, 9.7, -4.4], "size": [20, 20, 0], "pivot": [0, 19.7, -4.2], "rotation": [0, 0, -2.5], "uv": [0, 20]}
+					]
+				},
+				{
+					"name": "back",
+					"parent": "spirit",
+					"pivot": [0, 19.7, -4.2],
+					"cubes": [
+						{"origin": [-10, 9.7, -4.2], "size": [20, 20, 0], "pivot": [0, 19.7, -4.2], "rotation": [0, 0, -2.5], "uv": [0, 40]}
+					]
+				}
+			]
+		}
+	]
+}

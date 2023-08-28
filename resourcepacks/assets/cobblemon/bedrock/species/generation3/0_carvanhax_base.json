@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:carvanhax",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation3_carvanhax",
+      "model": "cobblemon:generation3_carvanhax.geo",
+      "texture": "cobblemon:textures/pokemon/generation3/carvanhax/carvanhax.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation3/carvanhax/carvanhax_shiny.png"
+    }  ]
+}

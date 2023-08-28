@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:geigermite",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:geigermite.geo",
+      "poser": "cobblemon:geigermite",
+      "texture": "cobblemon:textures/pokemon/geigermite/geigermite.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/geigermite/geigermite_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/geigermite/geigermite_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/geigermite/geigermite_emissive.png",
+          "translucent": true
+       }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:charcadet",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:charcadet",
+      "model": "cobblemon:charcadet.geo",
+      "texture": "cobblemon:textures/pokemon/0935_charcadet/charcadet.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0935_charcadet/charcadet_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

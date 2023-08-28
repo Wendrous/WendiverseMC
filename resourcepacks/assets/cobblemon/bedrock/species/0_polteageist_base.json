@@ -1,0 +1,59 @@
+{
+  "species": "cobblemon:polteageist",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:polteageist",
+      "model": "cobblemon:polteageist.geo",
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "is_antique"
+      ],
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_antique.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "is_antique",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_antique_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0855_polteageist/polteageist_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

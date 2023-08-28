@@ -1,0 +1,402 @@
+{
+"cobblemon.nature.hardy": "Hardy §7(Neutral)§r",
+  "cobblemon.nature.lonely": "Lonely §7(§c↑Atk§9↓Def§7)§r",
+  "cobblemon.nature.brave": "Brave §7(§c↑Atk§9↓Spd§7)§r",
+  "cobblemon.nature.adamant": "Adamant §7(§c↑Atk§9↓Sp.Atk§7)§r",
+  "cobblemon.nature.naughty": "Naughty §7(§c↑Atk§9↓Sp.Def§7)§r",
+  "cobblemon.nature.docile": "Docile §7(Neutral)§r",
+  "cobblemon.nature.relaxed": "Relaxed §7(§c↑Def§9↓Spd§7)§r",
+  "cobblemon.nature.impish": "Impish §7(§c↑Def§9↓Sp.Atk§7)§r",
+  "cobblemon.nature.lax": "Lax §7(§c↑Def§9↓Sp.Def§7)§r",
+  "cobblemon.nature.timid": "Timid §7(§c↑Spd§9↓Atk§7)§r",
+  "cobblemon.nature.hasty": "Hasty §7(§c↑Spd§9↓Def§7)§r",
+  "cobblemon.nature.serious": "Serious §7(Neutral)§r",
+  "cobblemon.nature.jolly": "Jolly §7(§c↑Spd§9↓Sp.Atk§7)§r",
+  "cobblemon.nature.naive": "Naive §7(§c↑Spd§9↓Sp.Def§7)§r",
+  "cobblemon.nature.modest": "Modest §7(§c↑Sp.Atk§9↓Atk§7)§r",
+  "cobblemon.nature.mild": "Mild §7(§c↑Sp.Atk§9↓Def§7)§r",
+  "cobblemon.nature.bashful": "Bashful §7(Neutral)§r",
+  "cobblemon.nature.rash": "Rash §7(§c↑Sp.Atk§9↓Sp.Def§7)§r",
+  "cobblemon.nature.calm": "Calm §7(§c↑Sp.Def§9↓Atk§7)§r",
+  "cobblemon.nature.gentle": "Gentle §7(§c↑Sp.Def§9↓Def§7)§r",
+  "cobblemon.nature.sassy": "Sassy §7(§c↑Sp.Def§9↓Spd§7)§r",
+  "cobblemon.nature.careful": "Careful §7(§c↑Sp.D§9↓Sp.A§7)§r",
+  "cobblemon.nature.quirky": "Quirky §7(Neutral)§r",
+  "cobblemon.nature.bold": "Bold §7(§c↑Def§9↓Atk§7)§r",
+  "cobblemon.nature.quiet": "Quiet §7(§c↑Sp.Atk§9↓Spd§7)§r",
+
+  "cobblemon.species.wimpod.name": "Wimpod",
+  "cobblemon.species.wimpod.desc1": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
+  "cobblemon.species.wimpod.desc2": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
+
+  "cobblemon.species.amogite.name": "Amogite",
+  "cobblemon.species.amogite.desc1": "Waiting to evolve, it distracts itself with meaningless tasks in its natural habitat.",
+  "cobblemon.species.amogite.desc2": "Some speculate it came from another planet, its population booming due to the lack of predators.",
+
+  "cobblemon.species.prolongus.name": "Prolongus",
+  "cobblemon.species.prolongus.desc1": "It spends its days training muscular legs by kicking down trees in shrouded mushroom forests and wooded cliffs.",
+  "cobblemon.species.prolongus.desc2": "Its legs kick with otherworldly power. Some Prolongus fight each other in fatal competitions to train.",
+
+  "cobblemon.species.buzzwole.name": "Buzzwole",
+  "cobblemon.species.buzzwole.desc1": "Although it’s alien to this world and a danger here",
+  "cobblemon.species.buzzwole.desc2": "it’s apparently a common organism in the world where it normally lives.",
+
+  "cobblemon.species.yveltal.name": "Yveltal",
+  "cobblemon.species.yveltal.desc1": "When its life comes to an end, it absorbs the life energy of ",
+  "cobblemon.species.yveltal.desc2": "every living thing and turns into a cocoon once more.",
+
+  "cobblemon.species.gimmighoul.name": "Gimmighoul",
+  "cobblemon.species.gimmighoul.desc1": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+  "cobblemon.species.gimmighoul.desc2": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it's actually a Pokémon.",
+
+  "cobblemon.species.cryptoil.name": "Gholdengo",
+  "cobblemon.species.cryptoil.desc1": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+  "cobblemon.species.cryptoil.desc2": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+
+  "cobblemon.species.kingambit.name": "Kingambit",
+  "cobblemon.species.kingambit.desc1": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+  "cobblemon.species.kingambit.desc2": "Though it commands a massive army in battle, it's not skilled at devising complex strategies. It just uses brute strength to keep pushing.",
+
+  "cobblemon.species.landorustherian.name": "Landorus-Therian",
+  "cobblemon.species.landorustherian.desc1": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests.",
+  "cobblemon.species.landorustherian.desc2": "Landorus soars through the sky in this form, bestowing plentiful harvests upon the land and earning the people’s reverence.",
+
+  "cobblemon.species.heatran.name": "Heatran",
+  "cobblemon.species.heatran.desc1": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+  "cobblemon.species.heatran.desc2": "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries.",
+
+  "cobblemon.species.phasmornyx.name": "Phasmornyx",
+  "cobblemon.species.phasmorynx.desc1": "The amulet around Phasmornyx's neck glows within the presence of powerful opponents. It dares others to fight it head-on.",
+  "cobblemon.species.phasmornyx.desc2": "It can only see others when they are moving. It flies into a fit of rage whenever light shines into its eyes.",
+
+  "cobblemon.species.wooperpaldea.name": "Wooper",
+  "cobblemon.species.wooperpaldea.desc1": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+  "cobblemon.species.wooperpaldea.desc2": "It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.",
+
+  "cobblemon.species.clodsire.name": "Clodsire",
+  "cobblemon.species.clodsire.desc1": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+  "cobblemon.species.clodsire.desc2": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
+
+  "cobblemon.species.regigigas.name": "Regigigas",
+  "cobblemon.species.regigigas.desc1": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+  "cobblemon.species.regigigas.desc2": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+
+  "cobblemon.species.phantump.name": "Phantump",
+  "cobblemon.species.phantump.desc1": "These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.",
+  "cobblemon.species.phantump.desc2": "According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest.",
+
+  "cobblemon.species.trevenant.name": "Trevenant",
+  "cobblemon.species.trevenant.desc1": "It can control trees at will. It will trap people who harm the forest, so they can never leave.",
+  "cobblemon.species.trevenant.desc2": "Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.",
+
+  "cobblemon.species.soulith.name": "Soulith",
+  "cobblemon.species.soulith.desc": "It weeps at any potential predators nearby. The souls it releases deters treasure seekers away.",
+
+  "cobblemon.species.gemirage.name": "Gemirage",
+  "cobblemon.species.gemirage.desc": "These fervent Pokemon patrol rigiously around caverns in search of hostiles. If one goes off schedule, all Gemirages nearby will enrage.",
+
+  "cobblemon.species.quarrdian.name": "Quarrdian",
+  "cobblemon.species.quarrdian.desc": "Unusually valiant and protective, these Pokemon guard the diverse underground. It is said that they only obey the Monitor of the Ecosystem.",
+
+  "cobblemon.species.rotomwash.name": "Rotom-Wash",
+  "cobblemon.species.rotomwash.desc1": "This Rotom has entered a washing machine. It nods with satisfaction after it floods the surrounding area.",
+  "cobblemon.species.rotomwash.desc2": "The model of washing machine that Rotom can inspirit has been discontinued, so these appliances are now traded at high prices.",
+
+  "cobblemon.species.rotom.name": "Rotom",
+  "cobblemon.species.rotom.desc1": "Its electricity-like body can enter some kinds of machines and take control in order to make mischief.",
+  "cobblemon.species.rotom.desc2": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+
+  "cobblemon.species.rotomheat.name": "Rotom-Heat",
+  "cobblemon.species.rotomheat.desc1": "If the convection microwave oven is not working properly, then the Rotom inhabiting it will become lethargic.",
+  "cobblemon.species.rotomheat.desc2": "This Rotom has possessed a convection microwave oven. It will sear the surrounding area with its burning heat, then smile in delight.",
+
+  "cobblemon.species.rotommow.name": "Rotom-Mow",
+  "cobblemon.species.rotommow.desc1": "The lawn mower is one of the household appliances that led to the development of the Rotom Dex.",
+  "cobblemon.species.rotommow.desc2": "This Rotom has possessed a lawn mower. It will mow down grass and flowers, then swagger around with pride at its accomplishments.",
+
+  "cobblemon.species.rotomfrost.name": "Rotom-Frost",
+  "cobblemon.species.rotomfrost.desc1": "This Rotom has entered a refrigerator. It leaps around gleefully after it uses cold air to freeze the area around it.",
+  "cobblemon.species.rotomfrost.desc2": "The special motor within the refrigerator is the key to bringing about Rotom's change in form.",
+
+  "cobblemon.species.rotomfan.name": "Rotom-Fan",
+  "cobblemon.species.rotomfan.desc1": "This Rotom has entered an electric fan. It smirks with satisfaction over a prank well pulled after it blows away everything around it.",
+  "cobblemon.species.rotomfan.desc2": "This Rotom has possessed a lawn mower. It will mow down grass and flowers, then swagger around with pride at its accomplishments.",
+
+  "cobblemon.species.ferrothorn.name": "Ferrothorn",
+  "cobblemon.species.ferrothorn.desc1": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+  "cobblemon.species.ferrothorn.desc2": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+
+  "cobblemon.species.eronze.name": "Eronze",
+  "cobblemon.species.eronze.desc": "Eronze's body is made from an ancient metal alloy lost to modern science. It can withstand intense heat and force without the slightest bit of damage.",
+
+  "cobblemon.species.deoxys.name": "Deoxys",
+  "cobblemon.species.deoxys.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+  "cobblemon.species.deoxys.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+  "cobblemon.species.deoxysattack.name": "Deoxys-Attack",
+  "cobblemon.species.deoxysdefense.name": "Deoxys-Defense",
+  "cobblemon.species.deoxysspeed.name": "Deoxys-Speed",
+
+  "cobblemon.species.skewor.name": "Skewor",
+  "cobblemon.species.skewor.desc": "They attack in coordinated and colorful bursts of kicks. They unusually have developed the ability to fly via kicking.",
+
+  "cobblemon.species.hollowdrupe.name": "Hollow Drupe",
+  "cobblemon.species.hollowdrupe.desc": "It appears to resemble a creature in a shady magazine. Its described to be responsible for the loss of 450 explorers.",
+
+  "cobblemon.species.dragalisk.name": "Dragalisk",
+  "cobblemon.species.dragalisk.desc": "It is seemingly made of an energy source that isn't from this world. Despite its size, it can shatter planets with a single blast.",
+
+  "cobblemon.species.gnoom.name": "Gnoom",
+  "cobblemon.species.gnoom.desc": "They are known as the Forest Apprentices for their links to witchcraft. They spray spores to practice their magic.",
+
+  "cobblemon.species.levisopod.name": "Levisopod",
+  "cobblemon.species.levisopod.desc": "A tale told that a statue came to life and attacked children who vandalised it. This Pokemon never moves when observed...",
+
+  "cobblemon.species.galaxeus.name": "Galaxeus",
+  "cobblemon.species.galaxeus.desc": "It seems to be an organism mimicking Arceus. Sentience within this Pokemon has yet to be confirmed.",
+
+  "cobblemon.species.lunaseeker.name": "Lunaseeker",
+  "cobblemon.species.lunaseeker.desc": "Every movement it does causes extreme pain, so it plans each hunt with fury unseen with any other Pokemon.",
+
+  "cobblemon.species.moebilord.name": "Moebilord",
+  "cobblemon.species.moebilord.desc": "A cruel and malignant Pokemon, it cackles as it sprays scorching fire upon its victims, causing irremovable black burns.",
+
+  "cobblemon.species.raichux.name": "Raichu X",
+  "cobblemon.species.raichux.desc": "Gym Leader Surge's faithful companion, it has been brought back to life after a terrible accident. It is as fast as fragile.",
+
+  "cobblemon.species.ironmoth.name": "Iron Moth",
+  "cobblemon.species.ironmoth.desc1": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
+  "cobblemon.species.ironmoth.desc2": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.",
+
+  "cobblemon.species.tapukoko.name": "Tapu Koko",
+  "cobblemon.species.tapukoko.desc1": "This guardian deity of Melemele is brimming with curiosity.",
+  "cobblemon.species.tapukoko.desc2": "It summons thunderclouds and stores their lightning inside its body.",
+
+  "cobblemon.species.tapubulu.name": "Tapu Bulu",
+  "cobblemon.species.tapubulu.desc1": "The guardian deity of Ula’ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
+  "cobblemon.species.tapubulu.desc2": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
+
+  "cobblemon.species.tapufini.name": "Tapu Fini",
+  "cobblemon.species.tapufini.desc1": "The guardian deity of Poni, it can control water. People say it can create pure water that will wash away any uncleanness.",
+  "cobblemon.species.tapufini.desc2": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.",
+
+  "cobblemon.species.lopunnymega.name": "Lopunny-Mega",
+  "cobblemon.species.lopunnymega.desc1": "It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition.",
+  "cobblemon.species.lopunnymega.desc2": "Mega Evolution awakens its combative instincts. It has shed any fur that got in the way of its attacks.",
+
+  "cobblemon.species.shadowlugia.name": "Shadow Lugia",
+  "cobblemon.species.shadowlugia.desc1" : "It is a Lugia corrupted by the criminal organization Cipher, believed to be the ultimate Shadow Pokémon and completely immune to purification.",
+
+  "cobblemon.species.galarianfarfetchd.name": "Galarian Farfetch’d",
+  "cobblemon.species.galarianfarfetchd.desc1": "The Farfetch’d of the Galar region are brave warriors, and they wield thick, tough leeks in battle.",
+  "cobblemon.species.galarianfarfetchd.desc2": "The stalks of leeks are thicker and longer in the Galar region. Farfetch’d that adapted to these stalks took on a unique form.",
+
+  "cobblemon.species.sirfetchd.name": "Sirfetch'd",
+  "cobblemon.species.sirfetchd.desc1": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
+  "cobblemon.species.sirfetchd.desc2": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
+
+  "cobblemon.species.sneasler.name": "Sneasler",
+  "cobblemon.species.sneasler.desc": "Because of Sneasler’s virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
+
+  "cobblemon.species.geigermite.name": "Geigermite",
+  "cobblemon.species.geigermite.desc": "A Magnemite's electrical waves influenced this inert rock to spring back to life. It is friendly and feeds on radiation.",
+
+  "cobblemon.species.geigerton.name": "Geigerton",
+  "cobblemon.species.geigerton.desc": "Geigermite multiply in vast quantities when they evolve, any scrap metal they could piece together were combined into a massive shell.",
+
+  "cobblemon.species.geigertron.name": "Geigertron",
+  "cobblemon.species.geigertron.desc": "The smartest Geigermite becomes the main brain of Geigertron. The rest fuse with the shell to become living armour.",
+
+  "cobblemon.species.brittaludon.name": "Brittaludon",
+  "cobblemon.species.brittaludon.desc": "Brittaludon are savage and coarse compared to their draconic relatives. They plunder every resource with brute force.",
+
+  "cobblemon.species.f00.name": "F-00",
+  "cobblemon.species.f00.desc": "This Pokemon resembles a particular character in Everlasting Memories. It is said to possess a heart so kind and gentle, likewise to a child.",
+
+  "cobblemon.species.f00mad.name": "F-00 MAD",
+  "cobblemon.species.f00mad.desc": "Pulling itself together, it wildly throws its entire body into targets. The noises it makes unsettle even the most confident of fighters.",
+
+  "cobblemon.species.tapukokox.name": "Tapu Koko X",
+  "cobblemon.species.tapukokox.desc": "One of Dragalisk's Elite Soldiers. A single dash can create a massive draft, powerful enough to blow down skyscrapers.",
+
+  "cobblemon.species.tapubulux.name": "Tapu Bulu X",
+  "cobblemon.species.tapubulux.desc": "One of the four beasts and X Elite Soldier. With its two horns, it could pin multiple opponents and deliver a fatal suplex.",
+
+  "cobblemon.species.shambloid.name": "Shambloid",
+  "cobblemon.species.shambloid.desc": "Although its alien to this world and a danger here, its apparently a common organism in the world where it normally lives.",
+
+  "cobblemon.species.miascraft.name": "Miascraft",
+  "cobblemon.species.miascraft.desc": "One of the Ultra Beast life-forms, it commands a horde of Shambloids to attack and consume others. It is never seen eating.",
+
+  "cobblemon.species.erion.name": "Erion",
+  "cobblemon.species.erion.desc": "Erion is an industrial titan, ravenously consuming fuel and spewing it out as toxic smog. Plants and Pokémon in its wake wither and gasp for air.",
+
+  "cobblemon.species.erace.name": "Erace",
+  "cobblemon.species.erace.desc" : "Thought to be damaged beyond repair, Erace was retrofitted with state-of-the-art technology. Its new, advanced body can even withstand atmospheric re-entry.",
+
+  "cobblemon.species.regirock.name": "Regirock",
+  "cobblemon.species.regirock.desc1": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
+  "cobblemon.species.regirock.desc2": "The same rocks that form its body have been found in ground layers around the world.",
+
+  "cobblemon.species.regice.name": "Regice",
+  "cobblemon.species.regice.desc1": "It is said to have slept in a glacier for thousands of years. Its body can’t be melted, even by magma.",
+  "cobblemon.species.regice.desc2": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+
+  "cobblemon.species.registeel.name": "Registeel",
+  "cobblemon.species.registeel.desc1": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+  "cobblemon.species.registeel.desc2": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+
+  "cobblemon.species.ironhands.name": "Iron Hands",
+  "cobblemon.species.ironhands.desc1": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete.",
+  "cobblemon.species.ironhands.desc2": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.",
+
+  "cobblemon.species.latias.name": "Latias",
+  "cobblemon.species.latias.desc1": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible.",
+  "cobblemon.species.latias.desc2": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
+
+  "cobblemon.species.latios.name": "Latios",
+  "cobblemon.species.iatios.desc1": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+  "cobblemon.species.iatios.desc2": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+
+  "cobblemon.species.tyranitar.name": "Tyranitar",
+  "cobblemon.species.tyranitar.desc1": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+  "cobblemon.species.tyranitar.desc2": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+
+  "cobblemon.species.tyranitarx.name": "Tyranitar X",
+  "cobblemon.species.tyranitarx.desc": "The Tyranitar owned by Dimension General Victor. It generates a defeaning buzz by vibrating its wings.",
+
+  "cobblemon.species.primaldialga.name": "Primal Dialga",
+  "cobblemon.species.primaldialga.desc": "Destabilisation of time has caused Dialga to become uncontrollable and phase in and out of existence.",
+
+  "cobblemon.species.metagroudon.name": "Meta Groudon",
+  "cobblemon.species.metagroudon.desc": "Said to be the embodiment of evil, this Groudon imposter consumes all with tendrils expanding from its spikes.",
+
+  "cobblemon.species.mewtwox.name": "Mewtwo X",
+  "cobblemon.species.mewtwox.desc": "Further modified genetically by an unknown corporation, its psychic powers have been amplified to frightening levels.",
+
+  "cobblemon.species.shadowmewtwo.name": "Shadow Mewtwo",
+  "cobblemon.species.shadowmewtwo.desc": "This Mewtwo has been enveloped by darkness, making it much more crueler than before. A singular punch can break a 10 ton truck.",
+
+  "cobblemon.species.subspacerayquaza.name": "Subspace Rayquaza",
+  "cobblemon.species.subspacerayquaza.desc": "Fused with a Mismagius to force obedience, this Rayquaza is in agony. It fires off enchanted spells from its eyes.",
+
+  "cobblemon.species.vroombug.name": "Vroombug",
+  "cobblemon.species.vroombug.desc": "It has an excellent balance and drives around running on a tire. Once the tire is worn out, it looks for a new one.",
+
+  "cobblemon.species.skravroom.name": "Skravroom",
+  "cobblemon.species.skravroom.desc": "Rival gangs compete for territories in races so loud, that it makes anyone run away.",
+
+  "cobblemon.species.beedrillx.name": "Beedrill X",
+  "cobblemon.species.beedrillx.desc": "The Beedrill formerly owned by an unknown individual. Its sting is incredibly viscous and sticky, trapping prey from the inside.",
+
+  "cobblemon.species.noiradux.name": "Noiradux",
+  "cobblemon.species.noiradux.desc": "It controls the wind with a strange organ, where it hides in harsh snowstorms. Then it jumps out at lightning fast speeds to snatch prey.",
+
+  "cobblemon.species.voitom.name": "Voitom",
+  "cobblemon.species.voitom.desc": "A kind of Ultra Beast. It is never seen in one consistent shape, always shifting between other Pokemon.",
+
+  "cobblemon.species.voirochi.name": "Voirochi",
+  "cobblemon.species.voirochi.desc": "A fragment of an entity known as Dark Matter, it exudes extreme negative emotions. It holds the power of the Dragon type within it.",
+
+  "cobblemon.species.vakuum.name": "Vakuum",
+  "cobblemon.species.vakuum.desc": "Reality warps around its very presence. It emits a strange energy known as Fury Energy, sending all it comes across into a furious state.",
+
+  "cobblemon.species.morpeko.name": "Morpeko",
+  "cobblemon.species.morpeko.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
+  "cobblemon.species.morpeko.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+
+  "cobblemon.species.musclekarp.name": "Musclekarp",
+  "cobblemon.species.musclekarp.desc1": "This Pokémon is the result of Magikarp adapting to living on land. Grounded predators have caused it to evolve this way.",
+  "cobblemon.species.musclekarp.desc2": "It will pick up boulders and crush them with it's bare hands. Groups of Musclekarp will do this to compete for social dominance.",
+
+  "cobblemon.species.aegislashx.name": "Aegislash X",
+  "cobblemon.species.aegislashx.desc": "It's mentioned in legends as the companion of the First King. It uses its momentum to move at high speeds.",
+
+  "cobblemon.species.cacneax.name": "Cacnea X",
+  "cobblemon.species.cacneax.desc": "Because its appearance resembles a severed head, everyone who fights this Cacnea is scared to death.",
+
+  "cobblemon.species.cacturnex.name": "Cacturne X",
+  "cobblemon.species.cacturnex.desc": "Its internal body is made of a straw-like material. It shoots its needles to cast cursed spell against enemies.",
+
+  "cobblemon.species.carvanhax.name": "Carvanha X",
+  "cobblemon.species.carvanhax.desc": "It perpetually floats upside down on the surface of the water. Apparently, it doesn't feed on anything to survive.",
+
+  "cobblemon.species.sharpedox.name": "Sharpedo X",
+  "cobblemon.species.sharpedox.desc": "This Pokemon may have appeared long time ago, since very ancient sailors' tales already told of a creature used to devour ships to make them its den.",
+
+  "cobblemon.species.dittox.name": "Ditto X",
+  "cobblemon.species.dittox.desc": "Following a great number of experiments, it became extremely unstable, but it developed the ability to Transform even without seeing its target.",
+
+  "cobblemon.species.elekidx.name": "Elekid X",
+  "cobblemon.species.elekidx.desc": "The sparks it scatters from its head can easily cause fires or explosions. It is a real ticking bomb!",
+
+  "cobblemon.species.electabuzzx.name": "Electabuzz X",
+  "cobblemon.species.electabuzzx.desc": "Bumping its fists together, it creates strong explosions. It will discharge its fury around when enraged.",
+
+  "cobblemon.species.electaburst.name": "Electaburst",
+  "cobblemon.species.electaburst.desc": "The excessive energy unleashed during evolution split up its body. It combines thunders and flares to set off terrible explosions all around.",
+
+  "cobblemon.species.joltikx.name": "Joltik X",
+  "cobblemon.species.joltikx.desc": "They sneak up falling from the sky in large groups, so they can overcome their small size. Then they bring the prey to Galvantula.",
+
+  "cobblemon.species.galvantulax.name": "Galvantula X",
+  "cobblemon.species.galvantulax.desc": "It freezes the air around its nest. Then it traps prey in a thick ice web, slowly leading them to hypothermia.",
+
+  "cobblemon.species.pikachuxfemale.name": "Pikachu X",
+  "cobblemon.species.pikachuxfemale.desc": "It is a real anomaly between X Pokémon. Its nature makes it friendly even to human.",
+
+  "cobblemon.species.pikachuxmale.name": "Pikachu X",
+  "cobblemon.species.pikachuxmale.desc": "It is a real anomaly between X Pokémon. Its nature makes it friendly even to human.",
+
+  "cobblemon.species.ponytax.name": "Ponyta X",
+  "cobblemon.species.ponytax.desc": "A thick cloud mane makes it float in the air. It is still a green baby, so it can only clumsily fly around.",
+
+  "cobblemon.species.rapidashx.name": "Rapidash X",
+  "cobblemon.species.rapidashx.desc": "A peaceful tempered X Pokémon. However, if it gets furious, it wraps itself in thunderclouds and triggers raging lightning storms.",
+
+  "cobblemon.species.storm_rapidashx.name": "Rapidash X",
+  "cobblemon.species.storm_rapidashx.desc": "A peaceful tempered X Pokémon. However, if it gets furious, it wraps itself in thunderclouds and triggers raging lightning storms.",
+
+  "cobblemon.species.porygonx.name": "Porygon-X",
+  "cobblemon.species.porygonx.desc": "Porygon-X is an upgrade to Porygon, programmed by Professor Thorn. It is designed to translate quantum data between infinite realities.",
+
+  "cobblemon.species.pyukumukux.name": "Pyukumuku X",
+  "cobblemon.species.pyukumukux.desc": "It is way bigger than the actual Pyukumuku. Expelling its internal organs, it propels itself to strike its opponent.",
+
+  "cobblemon.species.spiritombx.name": "Spiritomb X",
+  "cobblemon.species.spiritombx.desc": "Some theories assert that this is Spiritomb's real appearence--it's the one we already know who comes from the Xenoverse.",
+
+  "cobblemon.species.ruspiratomb.name": "Ruspiratomb",
+  "cobblemon.species.ruspiratomb.desc": "This Pokemon seems to match the legends that detail a rusted possessed key controlling metal nearby. It does not display malice, instead playing pranks.",
+
+  "cobblemon.species.mechadexus.name": "Mechadexus",
+  "cobblemon.species.mechadexus.desc": "An unknown company constructed this Pokemon, enabling it to learn almost every move. It lacks a heart, unlike Mewtwo.",
+
+  "cobblemon.species.kiryanitar.name": "Kiryanitar",
+  "cobblemon.species.kiryanitar.desc": "It seems to have pre-dated the existence of Iron Thorns, possibly being a prototype. A fierce spark burns within it, matching Tyranitar's ferocity.",
+
+  "cobblemon.species.kiryanitarmkii.name": "Kiryanitar MKII",
+  "cobblemon.species.kiryanitarmkii.desc": "Exposure to the Star has upgraded its body with futuristic weaponry. Within its chest lies a core that can fire absolute zero beams!",
+
+  "cobblemon.species.blacktyranitar.name": "Black Tyranitar",
+  "cobblemon.species.blacktyranitar.desc": "Exposure to an unknown alien source has rendered it completely inert. It is being controlled by something else from the inside.",
+
+  "cobblemon.species.crystalonix.name": "Crystal Onix",
+  "cobblemon.species.crystalonix.desc": "Water does not phase it all, having conquered its fear thanks to its crystalised body. It even matches Steelix's body's hardness!",
+
+  "cobblemon.species.darkmiasma.name": "Dark Miasma",
+  "cobblemon.species.darkmiasma.desc": "This massive Haunter was once worshipped as a deity, with power getting into its head, it consumed all on its personal warpath.",
+
+  "cobblemon.species.excalibould.name": "Excalibould",
+  "cobblemon.species.excalibould.desc": "This rock pile came to life thanks to the combative spirits of paladins that inhabited the wedged sword.",
+
+  "cobblemon.species.madieval.name": "Madieval",
+  "cobblemon.species.madieval.desc": "It's said that the mystical energy which fills this Pokemon and makes its body float around is related to the Moon's influence.",
+
+  "cobblemon.species.corelios.name": "Corelios",
+  "cobblemon.species.corelios.desc": "Corelios drifts in warm oceans in search for lost Pokemon to care. It is always surrounded by loyal Brittaludons.",
+
+  "cobblemon.species.scarphasmo.name": "Scarphasmo",
+  "cobblemon.species.scarphasmo.desc": "Tales told of a mad scientist creating this Pokemon by combining different Pokemon parts. In reality, it is the manifestation of the fear of monsters."
+
+}

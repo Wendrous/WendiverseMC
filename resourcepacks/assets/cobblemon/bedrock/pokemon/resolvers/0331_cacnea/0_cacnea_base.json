@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:cacnea",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cacnea",
+      "model": "cobblemon:cacnea.geo",
+      "texture": "cobblemon:textures/pokemon/0331_cacnea/cacnea.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+		    "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0331_cacnea/cacnea_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}

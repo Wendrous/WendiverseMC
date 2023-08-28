@@ -1,0 +1,74 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [
+    0,
+    -0.5,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0.5,
+    0
+  ],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 20,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "bedrock(cottonee, ground_idle)"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(cottonee, blink)"
+          ]
+        }
+      ]
+    },
+    "flying": {
+      "poseName": "flying",
+      "transformTicks": 20,
+      "poseTypes": [
+        "FLY",
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(cottonee, air_fly)"
+      ],
+      "quirks": [
+        {
+          "name": "twirl",
+          "animations": [
+            "bedrock(cottonee,twirl)"
+          ]
+        }
+      ]
+    },
+    "hovering": {
+      "poseName": "hovering",
+      "transformTicks": 20,
+      "poseTypes": [
+        "HOVER"
+      ],
+      "animations": [
+        "bedrock(cottonee, air_idle)"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(cottonee, blink)"
+          ]
+        }
+      ]
+    }
+  }
+}

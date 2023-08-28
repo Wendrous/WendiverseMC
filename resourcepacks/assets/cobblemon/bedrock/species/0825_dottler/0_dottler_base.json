@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:dottler",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dottler",
+      "model": "cobblemon:dottler.geo",
+      "texture": "cobblemon:textures/pokemon/dottler/dottler.png",
+      "layers": [ 
+	  {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/dottler/dottler_emissive.png",
+          "emissive": true
+        }
+		]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/dottler/dottler_shiny.png",
+      "layers": [
+	   {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/dottler/dottler_emissive.png",
+          "emissive": true
+        }
+	  ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "species": "cobblemon:sinistea",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sinistea",
+      "model": "cobblemon:sinistea.geo",
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "is_antique"
+      ],
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_antique.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "is_antique",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_antique_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0854_sinistea/sinistea_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
