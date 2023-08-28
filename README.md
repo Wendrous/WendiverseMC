@@ -1,6 +1,10 @@
 # Devious League: Cobblemon Minecraft Server
 Resource files and setup for Devious League Cobblemon Minecraft Server.
 
+## Screenshots
+
+![](https://cdn.discordapp.com/attachments/531358001467228160/1145767704767254578/image.png)
+
 ## IP Address
 deviousleague.playmc.at
 
