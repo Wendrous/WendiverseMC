@@ -1,6 +1,8 @@
 # Devious League: Cobblemon Minecraft Server
 Resource files and setup for Devious League Cobblemon Minecraft Server.
-IP Address: deviousleague.playmc.at
+
+## IP Address
+deviousleague.playmc.at
 
 ## Features
 - Minimap.
@@ -33,3 +35,11 @@ I keep getting kicked out after downloading the resource pack! Before that I was
 
 ## Mods
 3D Skin Layers, Another Furniture Mod Pack, Anti X-ray, Appleskin, Architectury API, Botany Pots, Cloth, Cobblemon, Cobblemon: Battle HP, Cobblemon: Extras, Cobblemon: Pokeplushies, Cobblemon: Cobblepedia, Cobblemon: Griefing, Cobblemon: Where are my TMs?, Convenient Mob Griefing, Custom Skin Loader, Dismount Entity, Doggo Mod Overhauled, Double Doors, Falling Leaves, Farmer's Delight, HTM, Image2Map, Mini MOTD, More Mob Variants, Paladin's Furniture Mod, Patchouli, Set World Spawn Point, Traveler's Backpack, Voice Chat, Welcome Message, WorldEdit, Xaero's Minimap
+
+## Credits
+- TheSpoggers, The Gaben, SpiritCindy, SaltDan for custom models of unreleased Pokemon and other Fakemon.
+- piscesonu and Akipoutark for some Fakemon concepts.
+- MayTheEpicGamer for some custom models.
+- Beehive Studios for Fakemon from Xenoverse: Per Aspera Ad Astra.
+- Creators from Modrinth for additional resource packs and mods for the game.
+- The entire Cobblemon Team for making the gamemode available to everyone.
