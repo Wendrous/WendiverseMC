@@ -397,6 +397,40 @@
   "cobblemon.species.corelios.desc": "Corelios drifts in warm oceans in search for lost Pokemon to care. It is always surrounded by loyal Brittaludons.",
 
   "cobblemon.species.scarphasmo.name": "Scarphasmo",
-  "cobblemon.species.scarphasmo.desc": "Tales told of a mad scientist creating this Pokemon by combining different Pokemon parts. In reality, it is the manifestation of the fear of monsters."
+  "cobblemon.species.scarphasmo.desc": "Tales told of a mad scientist creating this Pokemon by combining different Pokemon parts. In reality, it is the manifestation of the fear of monsters.",
+
+  "cobblemon.species.ironthorns.name": "Iron Thorns",
+	"cobblemon.species.ironthorns.desc2": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+	"cobblemon.species.ironthorns.desc1": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
+
+  "cobblemon.species.megamewtwox.name": "Mega Mewtwo X",
+  "cobblemon.species.megamewtwox.desc1": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
+
+  "cobblemon.species.megamewtwoy.name": "Mega Mewtwo Y",
+  "cobblemon.species.megamewtwoy.desc1": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
+
+  "cobblemon.species.fazbear.name": "Freddy Fazbear",
+  "cobblemon.species.fazbear.desc1": "Freddy Fazbear was once a beloved animatronic performer, entertaining children and adults alike. However, when the curtains closed for the last time, a mysterious energy imbued it with spectral life.",
+	"cobblemon.species.fazbear.desc2": "It roams the shadows of its former stage, reminiscing about its past glory. Its spectral and electric powers create an unsettling atmosphere that can unnerve even the bravest trainers. Approach with care and a brave heart.",
+
+  "cobblemon.species.bonnie.name": "Bonnie the Bunny",
+  "cobblemon.species.bonnie.desc1": "Legends say Bonnie the Bunny was brought to life by the lingering emotions of an abandoned music hall. This ghostly animatronic wanders in search of those it can entertain, its performances both captivating and eerie. Its ability to channel sound into power makes its songs truly mesmerizing.",
+	"cobblemon.species.bonnie.desc2": "This creature, born from forgotten memories, can seamlessly transition between realms, leaving no footprints behind.",
+
+  "cobblemon.species.chica.name": "Chica the Chicken",
+  "cobblemon.species.chica.desc1": "Chica the Chicken roams abandoned areas, seeking to bring joy to the desolate. Its compassionate heart remains intact, and it uses its spectral powers to mend wounds and cure ailments among those it encounters.",
+	"cobblemon.species.chica.desc2": "It is a spectral presence that embodies the playful yet eerie nature of a forgotten animatronic. It wanders dimly lit places, its ethereal form illuminated by a soft, otherworldly glow.",
+
+  "cobblemon.species.foxy.name": "Foxy the Pirate",
+  "cobblemon.species.foxy.desc1": "Legends say those who dare to face Foxy the Pirate find themselves caught in a dance of shadows, where only the quickest and most strategic prevail.",
+	"cobblemon.species.foxy.desc2": "It haunts the night with its spectral presence. This mischievous spirit was once an animatronic entertainer, now returned as a ghostly enigma.",
+
+  "cobblemon.species.puppet.name": "Marionette",
+  "cobblemon.species.puppet.desc1": "It is known for its ability to manipulate and control objects with its spectral threads. Marionette's presence often brings a sense of unease, as it wanders silently, seeking solace for its tragic past.",
+	"cobblemon.species.puppet.desc2": "Legends tell of its role in a bygone entertainment establishment, where it would mesmerize audiences with its graceful movements. Its Ghost typing reflects its connection to the afterlife, and its spectral abilities continue to intrigue those who encounter this mysterious animatronic Pokemon.",
+
+  "cobblemon.species.nightmarionne.name": "Nightmarionne",
+	"cobblemon.species.nightmarionne.desc1": "Nightmarionne's ethereal form is said to emerge from the darkest corners of the mind, materializing as a nightmarish apparition. It is said that its unsettling strings are woven from the threads of fear and anxiety.",
+	"cobblemon.species.nightmarionne.desc2": "Known as a harbinger of unsettling dreams, Nightmarionne wanders the realm between dreams and reality. Its presence alone can induce a sense of unease, as it draws on the deepest fears hidden within the hearts of those it encounters."
 
 }

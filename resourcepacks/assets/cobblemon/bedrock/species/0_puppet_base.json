@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:puppet",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:puppet",
+      "model": "cobblemon:puppet.geo",
+      "texture": "cobblemon:textures/pokemon/puppet/puppet.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/puppet/puppet_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

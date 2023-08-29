@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:chica",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chica",
+      "model": "cobblemon:chica.geo",
+      "texture": "cobblemon:textures/pokemon/chica/chica.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/chica/chica_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

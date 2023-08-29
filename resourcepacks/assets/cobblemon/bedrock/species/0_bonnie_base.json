@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:bonnie",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bonnie",
+      "model": "cobblemon:bonnie.geo",
+      "texture": "cobblemon:textures/pokemon/bonnie/bonnie.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/bonnie/bonnie_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}
