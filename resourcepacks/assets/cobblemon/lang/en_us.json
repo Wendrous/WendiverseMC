@@ -436,8 +436,38 @@
   "cobblemon.species.samurotthisui.name": "Samurott-Hisui",
   "cobblemon.species.samurotthisui.desc1": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
   "cobblemon.species.samurotthisui.desc2": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
-  "cobblemon.species.mawilemega.name": "Mawile-Mega",
 
+  "cobblemon.species.mawilemega.name": "Mawile-Mega",
   "cobblemon.species.mawilemega.desc1": "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
-  "cobblemon.species.mawilemega.desc2": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
+  "cobblemon.species.mawilemega.desc2": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.",
+
+  "cobblemon.species.tsubasa.name": "Tsubasa",
+  "cobblemon.species.tsubasa.desc": "This Pokemon is the first recorded instance of gender transition to meet criteria environment. It possesses a surprisingly cruel demeanour to those it seduces.",
+
+	"cobblemon.species.solzero.name": "Solzero",
+  "cobblemon.species.solzero.desc": "United by their trust in each other, they attack in coordination. It is said that their undying bond has made them massively popular.",
+
+	"cobblemon.species.astro.name": "Astro",
+  "cobblemon.species.astro.desc": "Within is a Gallade's mind, erased of any memory. It displays a destructive urge to destroy its foes.",
+
+	"cobblemon.species.regirode.name": "Regirode",
+  "cobblemon.species.regirode.desc": "No matter how many times it tries to rebuild itself, it always falls apart.",
+
+	"cobblemon.species.regimourn.name": "Regimourn",
+  "cobblemon.species.regimourn.desc": "Seeing its own children become withered and decayed has sent it into a great depression. Some say it had learned the dark arts to revive them.",
+
+	"cobblemon.species.komura.name": "Komura",
+  "cobblemon.species.komura.desc": "A special Riolu, imbued with the power of shadows thanks to its cloak. The auras it reads are of higher concentration.",
+
+	"cobblemon.species.chorutite.name": "Chorutite",
+  "cobblemon.species.chorutite.desc": "A violent Pokemon that fires off energy balls whenever it has been seen. It is said to be highly intelligent.",
+
+	"cobblemon.species.choruton.name": "Choruton",
+  "cobblemon.species.choruton.desc": "Chorutite have fused together to create a gateway to another dimension. They forcibly drag others through that portal using their psychic powers.",
+
+	"cobblemon.species.choreudo.name": "Choreudo",
+  "cobblemon.species.choreudo.desc": "This Pokemon is made up of Chorutite colonies fused together. Within this hive mind lies a raging dragon.",
+
+	"cobblemon.species.bitterwind.name": "Bitter Wind",
+  "cobblemon.species.bitterwind.desc": "This resembles a beast from the Scarlet Book. Folklore spoke of it being a resurrected form of an unknown terror from another dimension."
 }
