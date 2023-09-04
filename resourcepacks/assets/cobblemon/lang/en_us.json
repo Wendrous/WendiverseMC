@@ -431,6 +431,13 @@
 
   "cobblemon.species.nightmarionne.name": "Nightmarionne",
 	"cobblemon.species.nightmarionne.desc1": "Nightmarionne's ethereal form is said to emerge from the darkest corners of the mind, materializing as a nightmarish apparition. It is said that its unsettling strings are woven from the threads of fear and anxiety.",
-	"cobblemon.species.nightmarionne.desc2": "Known as a harbinger of unsettling dreams, Nightmarionne wanders the realm between dreams and reality. Its presence alone can induce a sense of unease, as it draws on the deepest fears hidden within the hearts of those it encounters."
+	"cobblemon.species.nightmarionne.desc2": "Known as a harbinger of unsettling dreams, Nightmarionne wanders the realm between dreams and reality. Its presence alone can induce a sense of unease, as it draws on the deepest fears hidden within the hearts of those it encounters.",
 
+  "cobblemon.species.samurotthisui.name": "Samurott-Hisui",
+  "cobblemon.species.samurotthisui.desc1": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+  "cobblemon.species.samurotthisui.desc2": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+  "cobblemon.species.mawilemega.name": "Mawile-Mega",
+
+  "cobblemon.species.mawilemega.desc1": "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
+  "cobblemon.species.mawilemega.desc2": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
 }
