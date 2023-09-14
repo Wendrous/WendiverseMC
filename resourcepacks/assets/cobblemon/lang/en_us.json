@@ -476,5 +476,8 @@
   "cobblemon.species.bitterwind.desc": "This resembles a beast from the Scarlet Book. Folklore spoke of it being a resurrected form of an unknown terror from another dimension.",
 
 	"cobblemon.species.bongbong.name": "BongBong",
-	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means."
+	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means.",
+
+  "cobblemon.species.megalatias.name": "Mega Latias",
+	"cobblemon.species.megalatios.name": "Mega Latios"
 }

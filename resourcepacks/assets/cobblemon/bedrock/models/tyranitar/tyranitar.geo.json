@@ -12,12 +12,12 @@
 			},
 			"bones": [
 				{
-					"name": "tyranitarx",
+					"name": "tyranitar",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "body",
-					"parent": "tyranitarx",
+					"parent": "tyranitar",
 					"pivot": [0, 0, 0]
 				},
 				{

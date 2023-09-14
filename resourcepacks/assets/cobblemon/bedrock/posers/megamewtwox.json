@@ -64,7 +64,7 @@
         "poseTypes": [ "HOVER" ],
         "animations": [
           "look",
-          "bedrock(megamewtwox, air_fly)"
+          "bedrock(megamewtwoy, air_idle)"
         ],
         "quirks": [
           {
