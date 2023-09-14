@@ -436,8 +436,12 @@
   "cobblemon.species.samurotthisui.name": "Samurott-Hisui",
   "cobblemon.species.samurotthisui.desc1": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
   "cobblemon.species.samurotthisui.desc2": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+  
   "cobblemon.species.mawilemega.name": "Mawile-Mega",
-
   "cobblemon.species.mawilemega.desc1": "It has an extremely vicious disposition. It grips prey in its two sets of jaws and tears them apart with raw power.",
-  "cobblemon.species.mawilemega.desc2": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust."
+  "cobblemon.species.mawilemega.desc2": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.",
+
+  "cobblemon.species.kyurem.name": "Kyurem",
+  "cobblemon.species.kyurem.desc1": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
+  "cobblemon.species.kyurem.desc2": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
 }
