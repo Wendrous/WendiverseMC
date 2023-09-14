@@ -443,5 +443,38 @@
 
   "cobblemon.species.kyurem.name": "Kyurem",
   "cobblemon.species.kyurem.desc1": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
-  "cobblemon.species.kyurem.desc2": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
+  "cobblemon.species.kyurem.desc2": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
+
+  "cobblemon.species.tsubasa.name": "Tsubasa",
+  "cobblemon.species.tsubasa.desc": "This Pokemon is the first recorded instance of gender transition to meet criteria environment. It possesses a surprisingly cruel demeanour to those it seduces.",
+
+	"cobblemon.species.solzero.name": "Solzero",
+  "cobblemon.species.solzero.desc": "United by their trust in each other, they attack in coordination. It is said that their undying bond has made them massively popular.",
+
+	"cobblemon.species.astro.name": "Astro",
+  "cobblemon.species.astro.desc": "Within is a Gallade's mind, erased of any memory. It displays a destructive urge to destroy its foes.",
+
+	"cobblemon.species.regirode.name": "Regirode",
+  "cobblemon.species.regirode.desc": "No matter how many times it tries to rebuild itself, it always falls apart.",
+
+	"cobblemon.species.regimourn.name": "Regimourn",
+  "cobblemon.species.regimourn.desc": "Seeing its own children become withered and decayed has sent it into a great depression. Some say it had learned the dark arts to revive them.",
+
+	"cobblemon.species.komura.name": "Komura",
+  "cobblemon.species.komura.desc": "A special Riolu, imbued with the power of shadows thanks to its cloak. The auras it reads are of higher concentration.",
+
+	"cobblemon.species.chorutite.name": "Chorutite",
+  "cobblemon.species.chorutite.desc": "A violent Pokemon that fires off energy balls whenever it has been seen. It is said to be highly intelligent.",
+
+	"cobblemon.species.choruton.name": "Choruton",
+  "cobblemon.species.choruton.desc": "Chorutite have fused together to create a gateway to another dimension. They forcibly drag others through that portal using their psychic powers.",
+
+	"cobblemon.species.choreudo.name": "Choreudo",
+  "cobblemon.species.choreudo.desc": "This Pokemon is made up of Chorutite colonies fused together. Within this hive mind lies a raging dragon.",
+
+	"cobblemon.species.bitterwind.name": "Bitter Wind",
+  "cobblemon.species.bitterwind.desc": "This resembles a beast from the Scarlet Book. Folklore spoke of it being a resurrected form of an unknown terror from another dimension.",
+
+	"cobblemon.species.bongbong.name": "BongBong",
+	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means."
 }
