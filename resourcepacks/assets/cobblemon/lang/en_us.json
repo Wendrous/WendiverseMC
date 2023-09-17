@@ -479,5 +479,26 @@
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means.",
 
   "cobblemon.species.megalatias.name": "Mega Latias",
-	"cobblemon.species.megalatios.name": "Mega Latios"
+	"cobblemon.species.megalatios.name": "Mega Latios",
+
+  "cobblemon.move.hydrosteam": "Hydro Steam",
+	"cobblemon.move.hydrosteam.desc": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
+
+	"cobblemon.move.paleowave": "Paleo Wave",
+	"cobblemon.move.paleowave.desc": "By using its prehistoric power, the user shoots out a wave of energy at the opponent. This may lower the opponent's Attack.",
+
+	"cobblemon.move.psyblade": "Psyblade",
+	"cobblemon.move.psyblade.desc": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
+
+	"cobblemon.move.shadowstrike": "Shadow Strike",
+	"cobblemon.move.shadowstrike.desc": "The user cloaks itself in a black aura, and tackles the opponent. This may lower the opponent's Defense.",
+
+	"cobblemon.ability.mountaineer": "Mountaineer",
+	"cobblemon.ability.mountaineer.desc": "With its impressive climbing skills, the Pokemon avoids Rock type moves and Stealth Rock after switching in.",
+
+	"cobblemon.ability.persistent": "Persistent",
+	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
+  
+	"cobblemon.ability.rebound": "Rebound",
+	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in."
 }

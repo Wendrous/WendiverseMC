@@ -29,6 +29,22 @@
 				"look",
 				"bedrock(brittaludon, ground_walk)"
 			]
+		},
+		"swimming": {
+			"poseName": "swimming",
+			"transformTicks": 10,
+			"poseTypes": [ "SWIM" ],
+			"animations": [
+				"bedrock(brittaludon, water_idle)"
+			]
+		},
+		"floating": {
+			"poseName": "floating",
+			"transformTicks": 10,
+			"poseTypes": [ "FLOAT" ],
+			"animations": [
+				"bedrock(brittaludon, water_swim)"
+			]
 		}
 	}
 }
