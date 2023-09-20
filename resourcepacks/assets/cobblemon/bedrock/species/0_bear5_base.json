@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:bear5",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bear5",
+      "model": "cobblemon:bear5.geo",
+      "texture": "cobblemon:textures/pokemon/bear5/bear5.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/bear5/bear5_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/bear5/bear5_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/bear5/bear5_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

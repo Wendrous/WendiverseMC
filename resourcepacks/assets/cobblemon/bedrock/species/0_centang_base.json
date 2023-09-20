@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:centang",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:centang",
+      "model": "cobblemon:centang.geo",
+      "texture": "cobblemon:textures/pokemon/centang/centang.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/centang/centang_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/centang/centang_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/centang/centang_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}
