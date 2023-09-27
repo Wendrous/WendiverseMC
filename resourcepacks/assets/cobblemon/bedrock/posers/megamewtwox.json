@@ -6,7 +6,6 @@
     "profileTranslation": [ 0, 1, 0 ],
     "faint": "bedrock(megamewtwox, faint)",
     "poses": {
-
       "standing": {
         "poseName": "standing",
         "transformTicks": 10,
@@ -16,9 +15,7 @@
           "PORTRAIT",
           "PROFILE"
         ],
-        "animations": [
-          "bedrock(megamewtwox, ground_idle)"
-        ],
+        "animations": [ "bedrock(megamewtwox, ground_idle)" ],
         "quirks": [
           {
             "name": "blink",
@@ -26,14 +23,11 @@
           }
         ]
       },
-
       "walking": {
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ 
-          "bedrock(megamewtwox, ground_walk)"
-        ],
+        "animations": [ "bedrock(megamewtwox, ground_walk)" ],
         "quirks": [
           {
             "name": "blink",
@@ -41,15 +35,11 @@
           }
         ]
       },
-
       "flying": {
         "poseName": "flying",
         "transformTicks": 10,
         "poseTypes": [ "FLY" ],
-        "animations": [
-          "look",
-          "bedrock(megamewtwox, air_fly)"
-        ],
+        "animations": [ "bedrock(megamewtwox, air_fly)" ],
         "quirks": [
           {
             "name": "blink",
@@ -57,15 +47,11 @@
           }
         ]
       },
-  
       "hovering": {
         "poseName": "hovering",
         "transformTicks": 10,
         "poseTypes": [ "HOVER" ],
-        "animations": [
-          "look",
-          "bedrock(megamewtwoy, air_idle)"
-        ],
+        "animations": [ "bedrock(megamewtwoy, air_fly)" ],
         "quirks": [
           {
             "name": "blink",

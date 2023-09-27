@@ -6,7 +6,6 @@
     "profileTranslation": [ 0, 1.50, 0 ],
     "faint": "bedrock(megalatias, faint)",
     "poses": {
-
       "standing": {
         "poseName": "standing",
         "transformTicks": 10,
@@ -16,36 +15,25 @@
           "PORTRAIT",
           "PROFILE"
         ],
-        "animations": [
-          "bedrock(megalatias, ground_idle)"
-        ]
+        "animations": [ "bedrock(megalatias, ground_idle)" ]
       },
-
       "walking": {
         "poseName": "walking",
         "transformTicks": 10,
         "poseTypes": [ "WALK" ],
-        "animations": [ 
-          "bedrock(megalatias, ground_walk)"
-        ]
+        "animations": [ "bedrock(megalatias, ground_walk)" ]
       },
-
       "flying": {
         "poseName": "flying",
         "transformTicks": 10,
         "poseTypes": [ "FLY" ],
-        "animations": [
-          "bedrock(megalatias, air_fly)"
-        ]
+        "animations": [ "bedrock(megalatias, air_fly)" ]
       },
-  
       "hovering": {
         "poseName": "hovering",
         "transformTicks": 10,
         "poseTypes": [ "HOVER" ],
-        "animations": [
-          "bedrock(megalatias, air_idle)"
-        ]
+        "animations": [ "bedrock(megalatias, air_fly)" ]
       }
     }
   }
