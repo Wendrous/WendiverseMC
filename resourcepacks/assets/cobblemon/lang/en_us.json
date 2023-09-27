@@ -403,10 +403,10 @@
 	"cobblemon.species.ironthorns.desc2": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
 	"cobblemon.species.ironthorns.desc1": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
 
-  "cobblemon.species.megamewtwox.name": "Mega Mewtwo X",
+  "cobblemon.species.megamewtwox.name": "Mewtwo-Mega-X",
   "cobblemon.species.megamewtwox.desc1": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
 
-  "cobblemon.species.megamewtwoy.name": "Mega Mewtwo Y",
+  "cobblemon.species.megamewtwoy.name": "Mewtwo-Mega-Y",
   "cobblemon.species.megamewtwoy.desc1": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
 
   "cobblemon.species.fazbear.name": "Freddy Fazbear",
@@ -478,8 +478,8 @@
 	"cobblemon.species.bongbong.name": "BongBong",
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means.",
 
-  "cobblemon.species.megalatias.name": "Mega Latias",
-	"cobblemon.species.megalatios.name": "Mega Latios",
+  "cobblemon.species.megalatias.name": "Latias-Mega",
+	"cobblemon.species.megalatios.name": "Latios-Mega",
 
   "cobblemon.species.perskullsion.name": "Perskullsion",
   "cobblemon.species.perskullsion.desc": "It vibrates its whole body to create harsh noises in an effort to impress hard to please Pokemon. It is said to be a big carer of many small Pokemon.",
@@ -527,5 +527,22 @@
 	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
   
 	"cobblemon.ability.rebound": "Rebound",
-	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in."
+	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in.",
+  
+  "cobblemon.species.ironchamp.name": "Iron Champ",
+  "cobblemon.species.ironchamp.desc1": "Iron Champ possesses a massive database that encompasses all of humanity's martial arts, making it a lethal weapon in hand-to-hand combat. Its six floating arms are linked by magnetic waves emitted by its belt and can be disconnected from it at a distance of 100 meters. Each blow has the impact power of a fast bullet train.",
+
+	"cobblemon.species.megalucario.name": "Lucario-Mega",
+	"cobblemon.species.megalucario.desc1": "Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.",
+  "cobblemon.species.megalucario.desc2": "Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever.",
+  
+  "cobblemon.species.megasalamence.name": "Salamence-Mega",
+	"cobblemon.species.megasalamence.desc1": "Anyone standing in its path gets sliced right in two, while this Pokémon continues its flight without interruption.",
+	"cobblemon.species.megasalamence.desc2": "Mega Evolution fuels its brutality, and it may even turn on the Trainer who raised it. It’s been dubbed “the blood-soaked crescent.”",
+  
+  "cobblemon.species.megametagross.name": "Metagross-Mega",
+	"cobblemon.species.megametagross.desc1": "Its intellect surpasses its previous level, resulting in battles so cruel, they’ll make you want to cover your eyes.",
+	"cobblemon.species.megametagross.desc2": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
+  
+  "cobblemon.species.megaswampert.name": "Swampert-Mega"
 }
