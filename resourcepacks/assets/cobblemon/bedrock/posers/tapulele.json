@@ -1,10 +1,10 @@
 {
     "head": "head",
     "portraitScale": 1.4,
-    "portraitTranslation": [ 0, 2.4, 0 ],
+    "portraitTranslation": [ -0.2, 2.7, 0 ],
     "profileScale": 0.5,
     "profileTranslation": [ 0, 1.3, 0 ],
-    "faint": "bedrock(tapukoko, faint)",
+    "faint": "bedrock(tapulele, faint)",
     "poses": {
 
       "standing": {
@@ -18,7 +18,7 @@
         ],
         "animations": [
           "look",
-          "bedrock(tapukoko, ground_idle)"
+          "bedrock(tapulele, ground_idle)"
         ],
         "quirks": []
       },
@@ -29,7 +29,7 @@
         "poseTypes": [ "WALK" ],
         "animations": [ 
           "look",
-          "bedrock(tapukoko, ground_walk)"
+          "bedrock(tapulele, ground_walk)"
         ],
         "quirks": []
       },
@@ -41,7 +41,7 @@
         ],
         "animations": [
           "look",
-          "bedrock(tapukoko, air_fly)"
+          "bedrock(tapulele, air_fly)"
         ]
       },
       "hovering": {
@@ -52,7 +52,7 @@
         ],
         "animations": [
           "look",
-          "bedrock(tapukoko, air_idle)"
+          "bedrock(tapulele, air_idle)"
         ]
       }  
    }
