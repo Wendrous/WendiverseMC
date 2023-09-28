@@ -1,0 +1,29 @@
+{
+  "species": "cobblemon:lilligant",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+	  "hisuian"
+	  ],
+      "poser": "cobblemon:lilligant_hisui",
+      "model": "cobblemon:lilligant_hisui.geo",
+      "texture": "cobblemon:textures/pokemon/lilligant/lilligant_hisui.png",
+      "layers": [ 
+	  {
+        }
+		]
+    },
+    {
+      "aspects": [
+        "hisuian",
+		"shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/lilligant/lilligant_hisui_shiny.png",
+      "layers": [
+	   {    
+        }
+	  ]
+    }
+  ]
+}
