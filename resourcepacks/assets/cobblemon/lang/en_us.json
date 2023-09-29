@@ -175,6 +175,10 @@
   "cobblemon.species.tapukoko.desc1": "This guardian deity of Melemele is brimming with curiosity.",
   "cobblemon.species.tapukoko.desc2": "It summons thunderclouds and stores their lightning inside its body.",
 
+  "cobblemon.species.tapulele.name": "Tapu Lele",
+  "cobblemon.species.tapulele.desc1": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+	"cobblemon.species.tapulele.desc2": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+  
   "cobblemon.species.tapubulu.name": "Tapu Bulu",
   "cobblemon.species.tapubulu.desc1": "The guardian deity of Ula’ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
   "cobblemon.species.tapubulu.desc2": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
@@ -547,5 +551,6 @@
 	"cobblemon.species.megametagross.desc1": "Its intellect surpasses its previous level, resulting in battles so cruel, they’ll make you want to cover your eyes.",
 	"cobblemon.species.megametagross.desc2": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
   
-  "cobblemon.species.megaswampert.name": "Swampert-Mega"
+  "cobblemon.species.megaswampert.name": "Swampert-Mega",
+  "cobblemon.species.ultranecrozma.name": "Ultra Necrozma"
 }
