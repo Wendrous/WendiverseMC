@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:toxicroak",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:toxicroak",
+      "model": "cobblemon:toxicroak.geo",
+      "texture": "cobblemon:textures/pokemon/toxicroak/toxicroak.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/toxicroak/toxicroak_shiny.png"
+    }
+  ]
+}
