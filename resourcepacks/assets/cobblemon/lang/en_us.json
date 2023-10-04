@@ -552,5 +552,10 @@
 	"cobblemon.species.megametagross.desc2": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
   
   "cobblemon.species.megaswampert.name": "Swampert-Mega",
-  "cobblemon.species.ultranecrozma.name": "Ultra Necrozma"
+  "cobblemon.species.ultranecrozma.name": "Ultra Necrozma",
+
+  "cobblemon.species.armoredmewtwo.name": "Mewtwo-Armored",
+	"cobblemon.species.megagengar.name": "Gengar-Mega",
+  "cobblemon.species.megagengar.desc1": "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+	"cobblemon.species.megagengar.desc2": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power."
 }

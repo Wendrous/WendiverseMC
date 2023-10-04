@@ -51,7 +51,7 @@
         "poseName": "hovering",
         "transformTicks": 10,
         "poseTypes": [ "HOVER" ],
-        "animations": [ "bedrock(megamewtwoy, air_fly)" ],
+        "animations": [ "bedrock(megamewtwox, air_fly)" ],
         "quirks": [
           {
             "name": "blink",
