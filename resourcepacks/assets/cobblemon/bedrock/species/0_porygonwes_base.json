@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:porygonwes",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:porygonwes",
+      "model": "cobblemon:porygonwes.geo",
+      "texture": "cobblemon:textures/pokemon/porygonwes/porygonwes.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/porygonwes/porygonwes_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/porygonwes/porygonwes_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/porygonwes/porygonwes_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

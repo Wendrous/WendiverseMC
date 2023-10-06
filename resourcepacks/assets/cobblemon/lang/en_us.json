@@ -25,6 +25,27 @@
   "cobblemon.nature.bold": "Bold §7(§c↑Def§9↓Atk§7)§r",
   "cobblemon.nature.quiet": "Quiet §7(§c↑Sp.Atk§9↓Spd§7)§r",
 
+  "cobblemon.move.hydrosteam": "Hydro Steam",
+	"cobblemon.move.hydrosteam.desc": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
+
+	"cobblemon.move.paleowave": "Paleo Wave",
+	"cobblemon.move.paleowave.desc": "By using its prehistoric power, the user shoots out a wave of energy at the opponent. This may lower the opponent's Attack.",
+
+	"cobblemon.move.psyblade": "Psyblade",
+	"cobblemon.move.psyblade.desc": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
+
+	"cobblemon.move.shadowstrike": "Shadow Strike",
+	"cobblemon.move.shadowstrike.desc": "The user cloaks itself in a black aura, and tackles the opponent. This may lower the opponent's Defense.",
+
+	"cobblemon.ability.mountaineer": "Mountaineer",
+	"cobblemon.ability.mountaineer.desc": "With its impressive climbing skills, the Pokemon avoids Rock type moves and Stealth Rock after switching in.",
+
+	"cobblemon.ability.persistent": "Persistent",
+	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
+  
+	"cobblemon.ability.rebound": "Rebound",
+	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in.",
+
   "cobblemon.species.wimpod.name": "Wimpod",
   "cobblemon.species.wimpod.desc1": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
   "cobblemon.species.wimpod.desc2": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
@@ -515,27 +536,6 @@
   "cobblemon.species.bear5.name": "Bear5",
 	"cobblemon.species.bear5.desc": "This glitched anomaly exhales near absolute zero temperatures, distorting life around it. Approach with caution.",
 
-  "cobblemon.move.hydrosteam": "Hydro Steam",
-	"cobblemon.move.hydrosteam.desc": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
-
-	"cobblemon.move.paleowave": "Paleo Wave",
-	"cobblemon.move.paleowave.desc": "By using its prehistoric power, the user shoots out a wave of energy at the opponent. This may lower the opponent's Attack.",
-
-	"cobblemon.move.psyblade": "Psyblade",
-	"cobblemon.move.psyblade.desc": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
-
-	"cobblemon.move.shadowstrike": "Shadow Strike",
-	"cobblemon.move.shadowstrike.desc": "The user cloaks itself in a black aura, and tackles the opponent. This may lower the opponent's Defense.",
-
-	"cobblemon.ability.mountaineer": "Mountaineer",
-	"cobblemon.ability.mountaineer.desc": "With its impressive climbing skills, the Pokemon avoids Rock type moves and Stealth Rock after switching in.",
-
-	"cobblemon.ability.persistent": "Persistent",
-	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
-  
-	"cobblemon.ability.rebound": "Rebound",
-	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in.",
-  
   "cobblemon.species.ironchamp.name": "Iron Champ",
   "cobblemon.species.ironchamp.desc1": "Iron Champ possesses a massive database that encompasses all of humanity's martial arts, making it a lethal weapon in hand-to-hand combat. Its six floating arms are linked by magnetic waves emitted by its belt and can be disconnected from it at a distance of 100 meters. Each blow has the impact power of a fast bullet train.",
 
@@ -557,5 +557,17 @@
   "cobblemon.species.armoredmewtwo.name": "Mewtwo-Armored",
 	"cobblemon.species.megagengar.name": "Gengar-Mega",
   "cobblemon.species.megagengar.desc1": "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
-	"cobblemon.species.megagengar.desc2": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power."
+	"cobblemon.species.megagengar.desc2": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+
+  "cobblemon.species.badegg.name": "Bad Egg",
+  "cobblemon.species.badegg.desc": "This Pokemon takes the guise of an egg to attack unsuspecting victims. It supposedly punishes children who try to take advantage of cheats.",
+
+  "cobblemon.species.questionmark.name": "Question Mark",
+	"cobblemon.species.questionmark.desc": "This is a newly discovered Pokemon. It is currently under investigation. No detailed information is available at this time.",
+
+	"cobblemon.species.porygonwes.name": "Porygon-WES",
+	"cobblemon.species.porygonwes.desc": "It was updated with the most cutting-edge technology ever created. It was originally meant to be an assistant in PokéWES.",
+
+  "cobblemon.species.vilesla.name": "Vilesla",
+	"cobblemon.species.vilesla.desc": "Known as the Naval Mine of The Abyss, Vilesla floats at the bottom of the ocean, before suddenly lunging at prey. Nobody can escape the 4 chains of Vilesla."
 }
