@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:megaswampert",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megaswampert",
+      "model": "cobblemon:megaswampert.geo",
+      "texture": "cobblemon:textures/pokemon/megaswampert/megaswampert.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/megaswampert/megaswampert_shiny.png",
+      "layers": []
+    }
+  ]
+}

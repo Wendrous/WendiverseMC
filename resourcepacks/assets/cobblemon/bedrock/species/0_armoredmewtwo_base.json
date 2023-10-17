@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:armoredmewtwo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:armoredmewtwo",
+      "model": "cobblemon:armoredmewtwo.geo",
+      "texture": "cobblemon:textures/pokemon/armoredmewtwo/armoredmewtwo.png",
+      "layers": []
+    }
+  ]
+}

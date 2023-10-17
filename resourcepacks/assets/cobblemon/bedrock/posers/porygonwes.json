@@ -1,0 +1,33 @@
+{
+  "head": "head",
+  "portraitScale": 1.75,
+  "portraitTranslation": [ 0, 1.7, 0 ],
+  "profileScale": 0.7,
+  "profileTranslation": [ 0, 0.7, 0 ],
+  "faint": "bedrock(porygonwes, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "look",
+        "bedrock(porygonwes, ground_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [ "WALK" ],
+      "animations": [
+        "look",
+        "bedrock(porygonwes, ground_idle)"
+      ]
+    }
+  }
+}

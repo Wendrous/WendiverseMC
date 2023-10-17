@@ -32,6 +32,28 @@
           "bedrock(tapukoko, ground_walk)"
         ],
         "quirks": []
-      }
-    }
-  }
+      },
+      "flying": {
+        "poseName": "flying",
+        "transformTicks": 10,
+        "poseTypes": [
+          "FLY"
+        ],
+        "animations": [
+          "look",
+          "bedrock(tapukoko, air_fly)"
+        ]
+      },
+      "hovering": {
+        "poseName": "hovering",
+        "transformTicks": 10,
+        "poseTypes": [
+          "HOVER"
+        ],
+        "animations": [
+          "look",
+          "bedrock(tapukoko, air_idle)"
+        ]
+      }  
+   }
+}

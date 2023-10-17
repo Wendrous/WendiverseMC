@@ -32,6 +32,28 @@
           "bedrock(cosmoem, ground_walk)"
         ],
         "quirks": []
+      },
+      "shoulder_left": {
+        "poseName": "shoulder_left",
+        "transformTicks": 10,
+        "poseTypes": [
+          "SHOULDER_LEFT"
+        ],
+        "animations": [
+          "look",
+          "bedrock(cosmoem, shoulder_left)"
+        ]
+      },
+      "shoulder_right": {
+        "poseName": "shoulder_right",
+        "transformTicks": 10,
+        "poseTypes": [
+          "SHOULDER_RIGHT"
+        ],
+        "animations": [
+          "look",
+          "bedrock(cosmoem, shoulder_right)"
+        ]
       }
     }
   }

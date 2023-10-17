@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:celdum",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:celdum",
+      "model": "cobblemon:celdum.geo",
+      "texture": "cobblemon:textures/pokemon/celdum/celdum.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/celdum/celdum_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/celdum/celdum_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/celdum/celdum_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

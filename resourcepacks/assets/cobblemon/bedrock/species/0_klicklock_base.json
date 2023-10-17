@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:klicklock",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:klicklock",
+      "model": "cobblemon:klicklock.geo",
+      "texture": "cobblemon:textures/pokemon/klicklock/klicklock.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/klicklock/klicklock_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/klicklock/klicklock_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/klicklock/klicklock_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

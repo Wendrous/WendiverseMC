@@ -25,6 +25,27 @@
   "cobblemon.nature.bold": "Bold §7(§c↑Def§9↓Atk§7)§r",
   "cobblemon.nature.quiet": "Quiet §7(§c↑Sp.Atk§9↓Spd§7)§r",
 
+  "cobblemon.move.hydrosteam": "Hydro Steam",
+	"cobblemon.move.hydrosteam.desc": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
+
+	"cobblemon.move.paleowave": "Paleo Wave",
+	"cobblemon.move.paleowave.desc": "By using its prehistoric power, the user shoots out a wave of energy at the opponent. This may lower the opponent's Attack.",
+
+	"cobblemon.move.psyblade": "Psyblade",
+	"cobblemon.move.psyblade.desc": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
+
+	"cobblemon.move.shadowstrike": "Shadow Strike",
+	"cobblemon.move.shadowstrike.desc": "The user cloaks itself in a black aura, and tackles the opponent. This may lower the opponent's Defense.",
+
+	"cobblemon.ability.mountaineer": "Mountaineer",
+	"cobblemon.ability.mountaineer.desc": "With its impressive climbing skills, the Pokemon avoids Rock type moves and Stealth Rock after switching in.",
+
+	"cobblemon.ability.persistent": "Persistent",
+	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
+  
+	"cobblemon.ability.rebound": "Rebound",
+	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in.",
+
   "cobblemon.species.wimpod.name": "Wimpod",
   "cobblemon.species.wimpod.desc1": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake.",
   "cobblemon.species.wimpod.desc2": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it.",
@@ -161,6 +182,9 @@
   "cobblemon.species.moebilord.name": "Moebilord",
   "cobblemon.species.moebilord.desc": "A cruel and malignant Pokemon, it cackles as it sprays scorching fire upon its victims, causing irremovable black burns.",
 
+  "cobblemon.species.gengarx.name": "Gengar X",
+  "cobblemon.species.gengarx.desc1": "Because its intelligence is exceptional, Gengar can communicate with any form of life. However, it uses this gift for not-so-ethical purposes.",
+	
   "cobblemon.species.raichux.name": "Raichu X",
   "cobblemon.species.raichux.desc": "Gym Leader Surge's faithful companion, it has been brought back to life after a terrible accident. It is as fast as fragile.",
 
@@ -172,6 +196,10 @@
   "cobblemon.species.tapukoko.desc1": "This guardian deity of Melemele is brimming with curiosity.",
   "cobblemon.species.tapukoko.desc2": "It summons thunderclouds and stores their lightning inside its body.",
 
+  "cobblemon.species.tapulele.name": "Tapu Lele",
+  "cobblemon.species.tapulele.desc1": "It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.",
+	"cobblemon.species.tapulele.desc2": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+  
   "cobblemon.species.tapubulu.name": "Tapu Bulu",
   "cobblemon.species.tapubulu.desc1": "The guardian deity of Ula’ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns.",
   "cobblemon.species.tapubulu.desc2": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.",
@@ -255,8 +283,8 @@
   "cobblemon.species.latias.desc2": "It can telepathically communicate with people. It changes its appearance using its down that refracts light.",
 
   "cobblemon.species.latios.name": "Latios",
-  "cobblemon.species.iatios.desc1": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
-  "cobblemon.species.iatios.desc2": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+  "cobblemon.species.latios.desc1": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+  "cobblemon.species.latios.desc2": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
 
   "cobblemon.species.tyranitar.name": "Tyranitar",
   "cobblemon.species.tyranitar.desc1": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
@@ -403,10 +431,10 @@
 	"cobblemon.species.ironthorns.desc2": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
 	"cobblemon.species.ironthorns.desc1": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
 
-  "cobblemon.species.megamewtwox.name": "Mega Mewtwo X",
+  "cobblemon.species.megamewtwox.name": "Mewtwo-Mega-X",
   "cobblemon.species.megamewtwox.desc1": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
 
-  "cobblemon.species.megamewtwoy.name": "Mega Mewtwo Y",
+  "cobblemon.species.megamewtwoy.name": "Mewtwo-Mega-Y",
   "cobblemon.species.megamewtwoy.desc1": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
 
   "cobblemon.species.fazbear.name": "Freddy Fazbear",
@@ -478,27 +506,68 @@
 	"cobblemon.species.bongbong.name": "BongBong",
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means.",
 
-  "cobblemon.species.megalatias.name": "Mega Latias",
-	"cobblemon.species.megalatios.name": "Mega Latios",
+  "cobblemon.species.megalatias.name": "Latias-Mega",
+	"cobblemon.species.megalatios.name": "Latios-Mega",
 
-  "cobblemon.move.hydrosteam": "Hydro Steam",
-	"cobblemon.move.hydrosteam.desc": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent.",
+  "cobblemon.species.perskullsion.name": "Perskullsion",
+  "cobblemon.species.perskullsion.desc": "It vibrates its whole body to create harsh noises in an effort to impress hard to please Pokemon. It is said to be a big carer of many small Pokemon.",
 
-	"cobblemon.move.paleowave": "Paleo Wave",
-	"cobblemon.move.paleowave.desc": "By using its prehistoric power, the user shoots out a wave of energy at the opponent. This may lower the opponent's Attack.",
+  "cobblemon.species.reginalous.name": "Reginalous",
+	"cobblemon.species.reginalous.desc": "Its body is formed by Anomalous energy from various dimensions. It creates strong winds of bright pink color that changes the alterations of each dimension.",
 
-	"cobblemon.move.psyblade": "Psyblade",
-	"cobblemon.move.psyblade.desc": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain.",
+  "cobblemon.species.klick.name": "Klick",
+	"cobblemon.species.klick.desc": "Klick were said to be created by Dialga to stabilise time whenever it was absent. Klink appears to be its modern relative.",
 
-	"cobblemon.move.shadowstrike": "Shadow Strike",
-	"cobblemon.move.shadowstrike.desc": "The user cloaks itself in a black aura, and tackles the opponent. This may lower the opponent's Defense.",
+  "cobblemon.species.klock.name": "Klock",
+	"cobblemon.species.klock.desc": "Klock's dial forever keeps time. Many say that the dial only stops when reality finally ends.",
 
-	"cobblemon.ability.mountaineer": "Mountaineer",
-	"cobblemon.ability.mountaineer.desc": "With its impressive climbing skills, the Pokemon avoids Rock type moves and Stealth Rock after switching in.",
+  "cobblemon.species.klicklock.name": "Klicklock",
+	"cobblemon.species.klicklock.desc": "Named the Emissary of Time, it summons Paradox Pokemon to do its bidding. All Paradox Pokemon are forced to obey it, no matter what.",
 
-	"cobblemon.ability.persistent": "Persistent",
-	"cobblemon.ability.persistent.desc": "By using its strange powers, the Pokemon extends the effects of Room moves.",
+  "cobblemon.species.celdum.name": "Celdum",
+	"cobblemon.species.celdum.desc": "A creation of Giratina, said to be the first inhabitant of the Distortion World. It observes our world with interest.",
+
+  "cobblemon.species.centang.name": "Centang",
+	"cobblemon.species.centang.desc": "Centang often escorts a small swarm of Celdum, providing some muscle. Despite its appearance, it is a caring Pokemon.",
+
+  "cobblemon.species.centigross.name": "Centigross",
+	"cobblemon.species.centigross.desc": "Nicknamed 'The Shadowy Duke,' Centigross only appear when a distortion of space or time has occured, usually to fix it.",
+
+  "cobblemon.species.bear5.name": "Bear5",
+	"cobblemon.species.bear5.desc": "This glitched anomaly exhales near absolute zero temperatures, distorting life around it. Approach with caution.",
+
+  "cobblemon.species.ironchamp.name": "Iron Champ",
+  "cobblemon.species.ironchamp.desc1": "Iron Champ possesses a massive database that encompasses all of humanity's martial arts, making it a lethal weapon in hand-to-hand combat. Its six floating arms are linked by magnetic waves emitted by its belt and can be disconnected from it at a distance of 100 meters. Each blow has the impact power of a fast bullet train.",
+
+	"cobblemon.species.megalucario.name": "Lucario-Mega",
+	"cobblemon.species.megalucario.desc1": "Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.",
+  "cobblemon.species.megalucario.desc2": "Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever.",
   
-	"cobblemon.ability.rebound": "Rebound",
-	"cobblemon.ability.rebound.desc": "The Pokemon bounces certain status moves back to the opposing Pokemon after switching in."
+  "cobblemon.species.megasalamence.name": "Salamence-Mega",
+	"cobblemon.species.megasalamence.desc1": "Anyone standing in its path gets sliced right in two, while this Pokémon continues its flight without interruption.",
+	"cobblemon.species.megasalamence.desc2": "Mega Evolution fuels its brutality, and it may even turn on the Trainer who raised it. It’s been dubbed “the blood-soaked crescent.”",
+  
+  "cobblemon.species.megametagross.name": "Metagross-Mega",
+	"cobblemon.species.megametagross.desc1": "Its intellect surpasses its previous level, resulting in battles so cruel, they’ll make you want to cover your eyes.",
+	"cobblemon.species.megametagross.desc2": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
+  
+  "cobblemon.species.megaswampert.name": "Swampert-Mega",
+  "cobblemon.species.ultranecrozma.name": "Ultra Necrozma",
+
+  "cobblemon.species.armoredmewtwo.name": "Mewtwo-Armored",
+	"cobblemon.species.megagengar.name": "Gengar-Mega",
+  "cobblemon.species.megagengar.desc1": "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+	"cobblemon.species.megagengar.desc2": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+
+  "cobblemon.species.badegg.name": "Bad Egg",
+  "cobblemon.species.badegg.desc": "This Pokemon takes the guise of an egg to attack unsuspecting victims. It supposedly punishes children who try to take advantage of cheats.",
+
+  "cobblemon.species.questionmark.name": "Question Mark",
+	"cobblemon.species.questionmark.desc": "This is a newly discovered Pokemon. It is currently under investigation. No detailed information is available at this time.",
+
+	"cobblemon.species.porygonwes.name": "Porygon-WES",
+	"cobblemon.species.porygonwes.desc": "It was updated with the most cutting-edge technology ever created. It was originally meant to be an assistant in PokéWES.",
+
+  "cobblemon.species.vilesla.name": "Vilesla",
+	"cobblemon.species.vilesla.desc": "Known as the Naval Mine of The Abyss, Vilesla floats at the bottom of the ocean, before suddenly lunging at prey. Nobody can escape the 4 chains of Vilesla."
 }

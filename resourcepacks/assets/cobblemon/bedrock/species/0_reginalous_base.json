@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:reginalous",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:reginalous",
+      "model": "cobblemon:reginalous.geo",
+      "texture": "cobblemon:textures/pokemon/reginalous/reginalous.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/reginalous/reginalous_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/reginalous/reginalous_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/reginalous/reginalous_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

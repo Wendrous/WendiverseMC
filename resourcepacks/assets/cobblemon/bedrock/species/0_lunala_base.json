@@ -11,7 +11,7 @@
     },
     {
       "aspects": [ "shiny" ],
-      "texture": "cobblemon:textures/pokemon/lunala/lunala.png"
+      "texture": "cobblemon:textures/pokemon/lunala/lunala_shiny.png"
     }
   ]
 }
