@@ -1,0 +1,131 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.litwick",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "all",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "litwick",
+					"parent": "all",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "litwick",
+					"pivot": [0, 7, 0],
+					"cubes": [
+						{"origin": [-2.5, 0, -2.5], "size": [5, 7, 5], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "hat",
+					"parent": "body",
+					"pivot": [0, 4.5, 0],
+					"cubes": [
+						{"origin": [-3.5, 3, -3.5], "size": [7, 3, 7], "uv": [4, 22]}
+					]
+				},
+				{
+					"name": "wax_right",
+					"parent": "body",
+					"pivot": [-2.5, 0.01, 0],
+					"cubes": [
+						{"origin": [-3.5, 0.01, -2.5], "size": [1, 0, 5], "uv": [10, 9]}
+					]
+				},
+				{
+					"name": "wax_back",
+					"parent": "body",
+					"pivot": [0, 0.01, 2.5],
+					"cubes": [
+						{"origin": [-1.5, 0.01, 2.5], "size": [3, 0, 1], "uv": [17, 0]}
+					]
+				},
+				{
+					"name": "wax_left",
+					"parent": "body",
+					"pivot": [2.5, 0.01, 0],
+					"cubes": [
+						{"origin": [2.5, 0.01, -2.5], "size": [1, 0, 5], "uv": [12, 9]}
+					]
+				},
+				{
+					"name": "wax_front",
+					"parent": "body",
+					"pivot": [0, 0.01, -2.5],
+					"cubes": [
+						{"origin": [-1.5, 0.01, -3.5], "size": [3, 0, 1], "uv": [17, 1]}
+					]
+				},
+				{
+					"name": "mouth",
+					"parent": "body",
+					"pivot": [0, 2, -2.5],
+					"cubes": [
+						{"origin": [-0.5, 2, -3.5], "size": [1, 0, 1], "uv": [2, 9]}
+					]
+				},
+				{
+					"name": "arm_right",
+					"parent": "body",
+					"pivot": [-2.5, 3, 0],
+					"cubes": [
+						{"origin": [-4.5, 2.5, -0.5], "size": [2, 1, 1], "uv": [26, 0]}
+					]
+				},
+				{
+					"name": "arm_left",
+					"parent": "body",
+					"pivot": [2.5, 3, 0],
+					"cubes": [
+						{"origin": [2.5, 2.5, -0.5], "size": [2, 1, 1], "uv": [26, 2]}
+					]
+				},
+				{
+					"name": "eye_left",
+					"parent": "body",
+					"pivot": [1.25, 3.25, -2.51],
+					"cubes": [
+						{"origin": [0.75, 2.25, -2.51], "size": [1, 2, 0], "uv": [18, 2]}
+					]
+				},
+				{
+					"name": "eye_right",
+					"parent": "body",
+					"pivot": [-1.25, 3.25, -2.51],
+					"cubes": [
+						{"origin": [-1.75, 2.25, -2.51], "size": [1, 2, 0], "uv": [18, 4]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "body",
+					"pivot": [0, 3, 0],
+					"cubes": [
+						{"origin": [-1, 2, -1], "size": [2, 2, 2], "uv": [24, 25]}
+					]
+				},
+				{
+					"name": "flame",
+					"parent": "litwick",
+					"pivot": [0, 7, 0],
+					"cubes": [
+						{"origin": [0, 7, -1.5], "size": [0, 6, 3], "uv": [0, 18]},
+						{"origin": [-1.5, 7, 0], "size": [3, 6, 0], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:chandelure",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:chandelure",
+      "model": "cobblemon:chandelure.geo",
+      "texture": "cobblemon:textures/pokemon/chandelure/chandelure.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/chandelure/chandelure_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/chandelure/chandelure_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/chandelure/chandelure_emissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
