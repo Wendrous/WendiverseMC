@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:lampent",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lampent",
+      "model": "cobblemon:lampent.geo",
+      "texture": "cobblemon:textures/pokemon/lampent/lampent.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/lampent/lampent_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/lampent/lampent_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/lampent/lampent_emissive_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

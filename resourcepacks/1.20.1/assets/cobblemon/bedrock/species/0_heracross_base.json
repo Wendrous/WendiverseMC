@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:heracross",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:heracross",
+      "model": "cobblemon:heracross.geo",
+      "texture": "cobblemon:textures/pokemon/heracross/heracross.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/heracross/heracross_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:dreepy",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dreepy",
+      "model": "cobblemon:dreepy.geo",
+      "texture": "cobblemon:textures/pokemon/dreepy/dreepy.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/dreepy/dreepy_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/dreepy/dreepy_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/dreepy/dreepy_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
