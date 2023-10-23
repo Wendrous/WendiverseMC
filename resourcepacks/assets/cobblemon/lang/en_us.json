@@ -561,5 +561,13 @@
 	"cobblemon.species.porygonwes.desc": "It was updated with the most cutting-edge technology ever created. It was originally meant to be an assistant in PokéWES.",
 
   "cobblemon.species.vilesla.name": "Vilesla",
-	"cobblemon.species.vilesla.desc": "Known as the Naval Mine of The Abyss, Vilesla floats at the bottom of the ocean, before suddenly lunging at prey. Nobody can escape the 4 chains of Vilesla."
+	"cobblemon.species.vilesla.desc": "Known as the Naval Mine of The Abyss, Vilesla floats at the bottom of the ocean, before suddenly lunging at prey. Nobody can escape the 4 chains of Vilesla.",
+
+  "cobblemon.species.meltan.name": "Meltan",
+  "cobblemon.species.meltan.desc1": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+  "cobblemon.species.meltan.desc2": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
+  
+  "cobblemon.species.melmetal.name": "Melmetal",
+  "cobblemon.species.melmetal.desc1": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+  "cobblemon.species.melmetal.desc2": "entrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
 }
