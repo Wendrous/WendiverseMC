@@ -1,10 +1,10 @@
 {
 	
 	"head": "head",
-	"portraitScale": 0.8,
-	"portraitTranslation": [-0.6, 0.8, 0],
-	"profileScale": 0.3,
-	"profileTranslation": [0, 1.2, 0],
+	"portraitScale": 2,
+	"portraitTranslation": [0., 0.1, 0],
+	"profileScale": 0.8,
+	"profileTranslation": [0, 0.6, -0.3],
 	"poses": {
 		"standing": {
 			"poseName": "standing",
@@ -16,7 +16,7 @@
 				"PROFILE"
 			],
 			"animations": [
-				"bedrock(greattusk, ground_idle)"
+				"bedrock(brutebonnet, ground_idle)"
 			]
 		}
 	}
