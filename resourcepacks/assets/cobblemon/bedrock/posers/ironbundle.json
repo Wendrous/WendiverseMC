@@ -21,6 +21,18 @@
 				"bedrock(ironbundle, ground_idle)"
 			]
 		},
+		"battle-idle": {
+			"poseName": "battle-idle",
+			"transformTicks": 20,
+			"isBattle": true,
+			"poseTypes": [ 
+				"STAND"
+			],
+			"animations": [
+				"look",
+				"bedrock(ironbundle, battle_idle)"
+			]
+		},
 		"walking": {
 			"poseName": "walking",
 			"transformTicks": 10,
