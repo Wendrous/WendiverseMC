@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:dragapult",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dragapult",
+      "model": "cobblemon:dragapult.geo",
+      "texture": "cobblemon:textures/pokemon/dragapult/dragapult.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/dragapult/dragapult_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/dragapult/dragapult_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/dragapult/dragapult_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

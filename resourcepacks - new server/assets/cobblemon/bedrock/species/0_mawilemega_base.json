@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:mawilemega",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mawilemega",
+      "model": "cobblemon:mawilemega.geo",
+      "texture": "cobblemon:textures/pokemon/mawilemega/mawilemega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:mawilemega",
+      "model": "cobblemon:mawilemega.geo",
+      "texture": "cobblemon:textures/pokemon/mawilemega/mawilemega_shiny.png",
+      "layers": []
+    }
+  ]
+}

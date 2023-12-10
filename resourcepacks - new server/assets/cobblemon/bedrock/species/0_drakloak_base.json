@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:drakloak",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:drakloak",
+      "model": "cobblemon:drakloak.geo",
+      "texture": "cobblemon:textures/pokemon/drakloak/drakloak.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/drakloak/drakloak_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/drakloak/drakloak_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/drakloak/drakloak_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}
