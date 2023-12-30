@@ -1,0 +1,185 @@
+{
+  "head": "head",
+  "portraitScale": 1.8,
+  "portraitTranslation": [ 0.1, -0.5, 0 ],
+  "profileScale": 1.1,
+  "profileTranslation": [ 0, 0.1, 0 ],
+  "faint": "bedrock(fomantis, faint, true)",
+  "cry": "bedrock(fomantis, cry)",
+  "poses": {
+	"battle-idle":{
+	  "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+	  "isBattle": true,
+	  "animations": ["bedrock(fomantis, battle_idle)","bedrock(fomantis, eyes_angry)"],
+	  "quirks":[
+		{
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+	  },
+	  {
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+	  },
+	  {
+		  "name": "quirk",
+		  "minSecondsBetweenOccurrences": 30,
+          "maxSecondsBetweenOccurrences": 60,
+          "animations": ["bedrock(fomantis, quirk)"]
+	  }
+	]
+	},
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND","PORTRAIT","PROFILE","NONE"],
+	  "isBattle": false,
+      "animations": [
+		"look",
+		"bedrock(fomantis, eyes_default)",
+        "bedrock(fomantis, ground_idle)"
+      ],
+	  "quirks":[
+	  {
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+	  },
+	  {
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+		  
+	  },
+	  {
+		  "name": "quirk",
+		  "minSecondsBetweenOccurrences": 30,
+          "maxSecondsBetweenOccurrences": 60,
+          "animations": ["bedrock(fomantis, quirk)"]
+	  }
+	 ]
+  },
+  	 "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+		"look",
+		"bedrock(fomantis, eyes_default)",
+        "bedrock(fomantis, ground_walk)"
+      ],
+	  "quirks":[
+	  {
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+	  },
+	  {
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+		  
+	  }
+	  ]
+    },
+	"swim":{
+	  "poseName": "swim",
+      "transformTicks": 10,
+      "poseTypes": ["SWIM","FLOAT"],
+	  "isBattle": false,
+      "isTouchingWater": true,
+	   "animations": [
+		"look",
+		"bedrock(fomantis, eyes_sad)",
+        "bedrock(fomantis, swim)"
+      ],
+	  "quirks":[
+		{
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+	  },
+	  {
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+	  }
+	]
+	},
+	"sleep":{
+	  "poseName": "sleep",
+      "transformTicks": 10,
+      "poseTypes": ["SLEEP"],
+	  "isBattle": false,
+      "isTouchingWater": false,
+	   "animations": ["bedrock(fomantis, sleep, true)"]
+	},
+	"shoulder_left": {
+        "poseName": "shoulder_left",
+        "transformTicks": 10,
+        "poseTypes": [ "SHOULDER_LEFT" ],
+        "animations": [ "look", "bedrock(fomantis, eyes_default)", "bedrock(fomantis, shoulder_left)"],
+		"quirks":[
+		{
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+		  
+		},
+		{
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+		}
+	]
+ },
+    "shoulder_right": {
+        "poseName": "shoulder_right",
+        "transformTicks": 10,
+        "poseTypes": [ "SHOULDER_RIGHT" ],
+        "animations": [ "look", "bedrock(fomantis, eyes_default)", "bedrock(fomantis, shoulder_right)"],
+	    "quirks":[
+		{
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(fomantis, blink)"]
+	  },
+	  {
+		 "name": "looking",
+		 "loopTimes": 1,
+		 "minSecondsBetweenOccurrences": 4,
+         "maxSecondsBetweenOccurrences": 15,
+         "animations": ["bedrock(fomantis, eyes_quirk)"]
+		
+	  }
+     ]
+	 }
+}
+}

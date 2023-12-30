@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:togepi",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:togepi",
+			"model": "cobblemon:togepi.geo",
+			"texture": "cobblemon:textures/pokemon/0175_togepi/togepi.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/0175_togepi/togepi_shiny.png"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:volcanion",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:volcanion",
+      "model": "cobblemon:volcanion.geo",
+      "texture": "cobblemon:textures/pokemon/volcanion/volcanion.png",
+      "layers": [ 
+	  {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/volcanion/volcanion_emissive.png",
+          "emissive": true
+        }
+		]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/volcanion/volcanion_shiny.png",
+      "layers": [
+	   {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/volcanion/volcanion_emissive.png",
+          "emissive": true
+        }
+	  ]
+    }
+  ]
+}

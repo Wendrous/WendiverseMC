@@ -1,0 +1,42 @@
+{
+    "portraitScale": 3.5,
+    "portraitTranslation": [ -0.2, -2.75, 0 ],
+    "profileScale": 1.25,
+    "profileTranslation": [ 0, -0.1, 0 ],
+    "faint": "bedrock(sinistea, sleep)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(sinistea, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(sinistea, blink)"]
+          }
+        ]
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(sinistea, ground_walk)" ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(sinistea, blink)"]
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,42 @@
+{
+    "portraitScale": 3.0,
+    "portraitTranslation": [ 0, -1.6, 0 ],
+    "profileScale": 1.25,
+    "profileTranslation": [ 0, -0.15, 0 ],
+    "faint": "bedrock(togepi, sleep)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(togepi, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(togepi, blink)"]
+          }
+        ]
+      },
+      
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(togepi, ground_walk)"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(togepi, blink)"]
+          }
+        ]
+      }
+    }
+  }

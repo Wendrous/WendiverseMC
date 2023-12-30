@@ -1,0 +1,72 @@
+{
+  "head": "head",
+  "portraitScale": 2.2,
+  "portraitTranslation": [ 0.1, 1, 0 ],
+  "profileScale": 0.75,
+  "profileTranslation": [ 0, 0.75, 0 ],
+  "faint": "bedrock(lurantis, faint, true)",
+  "cry": "bedrock(lurantis, cry, true)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND","PORTRAIT","PROFILE"],
+	  "isBattle": false,
+      "animations": ["look","bedrock(lurantis, eyes)","bedrock(lurantis, ground_idle)"],
+	  "quirks":[
+	  {
+		  "name": "blink",
+		  "loopTimes": 2,
+		  "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(lurantis, blink)"]
+	  }
+	  ]
+	},
+  "battle_idle": {
+    "poseName": "battle_idle",
+    "transformTicks": 10,
+    "poseTypes": ["STAND"],
+  "isBattle": true,
+    "animations": ["look","bedrock(lurantis, eyes)","bedrock(lurantis, ground_idle)"],
+  "quirks":[
+  {
+    "name": "blink",
+    "loopTimes": 2,
+    "minSecondsBetweenOccurrences": 8,
+        "maxSecondsBetweenOccurrences": 20,
+        "animations": ["bedrock(lurantis, blink)"]
+  }
+  ]
+},
+  "walking": {
+    "poseName": "walking",
+    "transformTicks": 10,
+    "poseTypes": ["WALK"],
+    "animations": ["look","bedrock(lurantis, eyes)","bedrock(lurantis, ground_walk)"],
+    "quirks":[
+      {
+        "name": "blink",
+        "loopTimes": 2,
+        "minSecondsBetweenOccurrences": 8,
+            "maxSecondsBetweenOccurrences": 20,
+            "animations": ["bedrock(lurantis, blink)"]
+      }
+    ]
+  },
+  "floating": {
+    "poseName": "floating",
+    "transformTicks": 10,
+    "poseTypes": ["FLOAT", "SWIM"],
+    "animations": ["look","bedrock(lurantis, eyes)","bedrock(lurantis, float)"]
+  },
+  "sleep":{
+	  "poseName": "sleep",
+      "transformTicks": 10,
+      "poseTypes": ["SLEEP"],
+	    "isBattle": false,
+      "isTouchingWater": false,
+	   "animations": ["bedrock(lurantis, sleep, true)"]
+	}
+}
+}

@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:bagon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bagon",
+      "model": "cobblemon:bagon.geo",
+      "texture": "cobblemon:textures/pokemon/0371_bagon/bagon.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0371_bagon/bagon_shiny.png",
+      "layers": [
+      ]
+    }
+  ]
+}
