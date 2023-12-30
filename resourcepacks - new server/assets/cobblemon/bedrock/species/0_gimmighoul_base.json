@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gimmighoul",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gimmighoul",
+      "model": "cobblemon:gimmighoul.geo",
+      "texture": "cobblemon:textures/pokemon/gimmighoul/gimmighoul.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/gimmighoul/gimmighoul.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:sentret",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sentret",
+      "model": "cobblemon:sentret.geo",
+      "texture": "cobblemon:textures/pokemon/sentret/sentret.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/sentret/sentret_shiny.png"
+    }
+  ]
+}

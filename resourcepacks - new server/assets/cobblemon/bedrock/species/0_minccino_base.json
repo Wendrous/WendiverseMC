@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:minccino",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:minccino",
+      "model": "cobblemon:minccino.geo",
+      "texture": "cobblemon:textures/pokemon/minccino/minccino.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/minccino/minccino_shiny.png"
+    }
+  ]
+}

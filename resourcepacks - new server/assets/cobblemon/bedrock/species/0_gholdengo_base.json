@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:gholdengo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gholdengo",
+      "model": "cobblemon:gholdengo.geo",
+      "texture": "cobblemon:textures/pokemon/gholdengo/gholdengo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/gholdengo/gholdengo.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:palossand",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:palossand",
+      "model": "cobblemon:palossand.geo",
+      "texture": "cobblemon:textures/pokemon/palossand/palossand.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palossand/palossand_shiny.png"
+    }
+  ]
+}

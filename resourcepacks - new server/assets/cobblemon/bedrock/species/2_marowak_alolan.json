@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:marowak",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["alolan"],
+      "poser": "cobblemon:marowak_alolan",
+      "model": "cobblemon:marowak_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/marowak/marowak_alolan.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/marowak/marowak_alolan_shiny.png"
+    }
+  ]
+}

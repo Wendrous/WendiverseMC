@@ -1,0 +1,57 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gimmighoul.ground_idle": {
+			"loop": true,
+			"bones": {
+				"top_chest": {
+					"rotation": ["(math.sin(q.anim_time*90*2)*2)", 0, 0]
+				},
+				"bone3": {
+					"rotation": ["0+math.sin(q.anim_time*90*1)*2", 0, 0]
+				},
+				"bone5": {
+					"rotation": ["0+math.sin(q.anim_time*90*2)*5", 0, 0]
+				},
+				"bone6": {
+					"rotation": ["0+math.sin(q.anim_time*90*2)*5", 0, 0]
+				},
+				"bone8": {
+					"rotation": ["0+math.sin(q.anim_time*90*1)*2", 0, 0]
+				},
+				"head": {
+					"rotation": [3.5, 0, "(math.sin(q.anim_time*90*2)*3)"]
+				},
+				"hand_motion": {
+					"rotation": ["-1+math.sin(q.anim_time*90*2-20)*3", 0, 0],
+					"position": [0, 0, 0]
+				},
+				"body_all": {
+					"rotation": [0, 0, "(math.sin(q.anim_time*90*2)*4)"],
+					"position": ["math.sin(q.anim_time*90*2)*0.5", "0.125+math.abs(math.sin(q.anim_time*90*2)*0.2)", 0]
+				}
+			}
+		},
+		"animation.gimmighoul.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body_all": {
+					"rotation": ["(q.anim_time*90*5.05)", 0, "math.sin(q.anim_time*90*5)*3"],
+					"position": [
+						"math.sin(q.anim_time*90*2.5)*0.5",
+						"math.clamp((math.sin(q.anim_time*90*4*2.5-90)*1+1)*5,0,2.5)+math.clamp((math.sin(q.anim_time*90*4*2.5-90)*1+1)*0.5,0,2)",
+						0
+					]
+				},
+				"top_chest": {
+					"rotation": [50, 0, 0],
+					"position": [0, 0, 0]
+				},
+				"pokemon": {
+					"rotation": [0, 0, 0],
+					"position": [0, -3.55, 0]
+				}
+			}
+		}
+	}
+}
