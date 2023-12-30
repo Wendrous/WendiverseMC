@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:charjabug",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:charjabug",
+      "model": "cobblemon:charjabug.geo",
+      "texture": "cobblemon:textures/pokemon/charjabug/charjabug.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/charjabug/charjabug.png"
+    }
+  ]
+}

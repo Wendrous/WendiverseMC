@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:yungoos",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:yungoos",
+      "model": "cobblemon:yungoos.geo",
+      "texture": "cobblemon:textures/pokemon/yungoos/yungoos.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/yungoos/yungoos.png"
+    }
+  ]
+}
