@@ -1,0 +1,8 @@
+{
+  "pokemon.brutebonnet.cry": {
+    "sounds": [ "cobblemon:pokemon/brutebonnet/brutebonnet_cry" ]
+  },
+  "pokemon.greattusk.cry": {
+    "sounds": [ "cobblemon:pokemon/greattusk/greattusk_cry" ]
+  }
+}
