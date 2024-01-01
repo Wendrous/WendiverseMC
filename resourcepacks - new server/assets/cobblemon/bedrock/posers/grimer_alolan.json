@@ -1,0 +1,29 @@
+{
+  "portraitScale": 1.6,
+  "portraitTranslation": [ -0.25, 0, 0 ],
+  "profileScale": 0.75,
+  "profileTranslation": [ -0.05, 0.5, 0 ],
+    "faint": "bedrock(grimer_alolan, faint)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": ["WALK",
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(grimer_alolan, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(grimer_alolan, blink)"]
+          }
+        ]
+      }
+    }
+  }

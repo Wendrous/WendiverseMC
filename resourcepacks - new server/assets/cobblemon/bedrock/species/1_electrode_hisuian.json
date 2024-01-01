@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:electrode",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:electrode_hisuian",
+      "model": "cobblemon:electrode_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/electrode/electrode_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "shiny"
+      ],
+      "poser": "cobblemon:electrode_hisuian",
+      "model": "cobblemon:electrode_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/electrode/electrode_hisuian_shiny.png",
+      "layers": []
+    }
+  ]
+}
