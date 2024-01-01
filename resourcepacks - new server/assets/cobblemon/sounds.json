@@ -1,11 +1,13 @@
 {
   "pokemon.brutebonnet.cry": {
     "sounds": [ "cobblemon:pokemon/brutebonnet/brutebonnet_cry" ]
+  },
   "pokemon.wugtrio.ambient": {
   "sounds": [ "cobblemon:pokemon/wugtrio/wugtrio_ambient" ]
   },
   "pokemon.greattusk.cry": {
     "sounds": [ "cobblemon:pokemon/greattusk/greattusk_cry" ]
+  },
   "pokemon.wiglett.ambient": {
     "sounds": [ "cobblemon:pokemon/wiglett/wiglett_ambient" ]
   },
