@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hippopotas",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:hippopotas",
+      "model": "cobblemon:hippopotas.geo",
+      "texture": "cobblemon:textures/pokemon/hippopotas/hippopotas_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hippopotas/hippopotas_male_shiny.png"
+    }
+  ]
+}

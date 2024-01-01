@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:swirlix",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:swirlix",
+      "model": "cobblemon:swirlix.geo",
+      "texture": "cobblemon:textures/pokemon/swirlix/swirlix.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/swirlix/swirlix_shiny.png"
+    }
+  ]
+}

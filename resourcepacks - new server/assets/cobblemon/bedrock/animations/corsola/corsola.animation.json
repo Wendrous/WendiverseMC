@@ -1,0 +1,120 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.corsola.ground_idle": {
+			"loop": true,
+			"animation_length": 2.5,
+			"bones": {
+				"corsola": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"0.5833": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"1.5833": [0, 0, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"0.5833": [0, 1.5, 0],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 1.5, 0],
+						"1.5833": [0, 1.5, 0],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					}
+				},
+				"eyes": {
+					"position": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 1],
+						"1.25": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.corsola.ground_walk": {
+			"loop": true,
+			"animation_length": 2.08333,
+			"bones": {
+				"corsola": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 10, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"0.5833": [0, 10, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, -10, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"1.5833": [0, -10, "Math.cos((query.anim_time - .1) * 180) *20"],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"0.5833": [0, 1.5, 0],
+						"1.0": [0, 0, 0],
+						"1.0833": [0, 0, 0],
+						"1.5": [0, 1.5, 0],
+						"1.5833": [0, 1.5, 0],
+						"2.0": [0, 0, 0],
+						"2.0833": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.corsola.faint": {
+			"animation_length": 2.885,
+			"bones": {
+				"corsola": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-20"],
+						"1.0": [0, 0, "Math.cos((query.anim_time - .1) * 180) *-87.5"],
+						"1.125": [0, 2.5, 89]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.5": [0, 1.5, 0],
+						"1.0": [0, 4.5, 0]
+					}
+				},
+				"eyes": {
+					"rotation": [0, 0, 0],
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.75": [0, 0, 0],
+						"0.8333": [0, 0, 1]
+					}
+				}
+			}
+		},
+		"animation.corsola.sleep": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"eyes": {
+					"position": [0, 0, 1]
+				}
+			}
+		},
+		"animation.corsola.blink": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"eyes": {
+					"position": {
+						"0.0": [0, 0, 1],
+						"0.125": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}

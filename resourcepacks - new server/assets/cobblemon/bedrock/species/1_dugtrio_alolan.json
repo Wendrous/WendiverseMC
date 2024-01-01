@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:dugtrio",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:dugtrio_alolan",
+      "model": "cobblemon:dugtrio_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/dugtrio/dugtrio_alolan.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "poser": "cobblemon:dugtrio_alolan",
+      "model": "cobblemon:dugtrio_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/dugtrio/dugtrio_alolan_shiny.png",
+      "layers": []
+    }
+  ]
+}

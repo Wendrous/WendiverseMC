@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hippowdon",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:hippowdon",
+      "model": "cobblemon:hippowdon.geo",
+      "texture": "cobblemon:textures/pokemon/hippowdon/hippowdon_male.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hippowdon/hippowdon_male_shiny.png"
+    }
+  ]
+}

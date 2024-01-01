@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:hippowdon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:hippowdon.geo",
+      "texture": "cobblemon:textures/pokemon/hippowdon/hippowdon_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hippowdon/hippowdon_female_shiny.png"
+    }
+  ]
+}

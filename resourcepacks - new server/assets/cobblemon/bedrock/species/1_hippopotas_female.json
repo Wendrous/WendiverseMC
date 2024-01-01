@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:hippopotas",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:hippopotas.geo",
+      "texture": "cobblemon:textures/pokemon/hippopotas/hippopotas_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hippopotas/hippopotas_female_shiny.png"
+    }
+  ]
+}

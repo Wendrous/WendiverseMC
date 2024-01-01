@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:diglett",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:diglett_alolan",
+      "model": "cobblemon:diglett_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/diglett/diglett_alolan.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "poser": "cobblemon:diglett_alolan",
+      "model": "cobblemon:diglett_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/diglett/diglett_alolan_shiny.png",
+      "layers": []
+    }
+  ]
+}

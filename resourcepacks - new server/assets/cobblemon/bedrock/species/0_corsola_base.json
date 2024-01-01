@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:corsola",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:corsola",
+      "model": "cobblemon:corsola.geo",
+      "texture": "cobblemon:textures/pokemon/corsola/corsola.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/corsola/corsola_shiny.png"
+    }
+  ]
+}
