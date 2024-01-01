@@ -1,0 +1,86 @@
+{
+    "head": "head",
+    "portraitScale": 2,
+    "portraitTranslation": [0, -0.4, 0],
+    "profileScale": 0.7,
+    "profileTranslation": [0, 0.7, 0],
+    "faint": "bedrock(wiglett, faint)",
+    "poses": {
+      
+      "battle-standing": {
+      "poseName": "battle-standing",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "transformedParts": [],
+      "animations": [
+        "bedrock(wiglett, battle_idle, true)"
+        ]
+      },
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": ["STAND","PORTRAIT","PROFILE"],
+        "isBattle": false,
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(wiglett, blink)"]
+          }
+        ],
+        "animations": [
+          "bedrock(wiglett, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(wiglett, blink)"]
+          }
+        ],
+        "animations": [
+          "bedrock(wiglett, ground_walk)"
+        ]
+      },
+      "sleeping": {
+        "poseName": "sleeping",
+        "transformTicks": 10,
+        "poseTypes": ["SLEEP"],
+        "animations": [
+          "bedrock(wiglett, sleep)"
+        ]
+      },
+      "floating": {
+        "poseName": "floating",
+        "transformTicks": 10,
+        "poseTypes": ["FLOAT"],
+        "isBattle": false,
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(wiglett, blink)"]
+          }
+        ],
+        "animations": [
+          "bedrock(wiglett, water_idle)"
+        ]
+      },
+      "swimming": {
+        "poseName": "swimming",
+        "transformTicks": 10,
+        "poseTypes": ["SWIM"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(wiglett, blink)"]
+          }
+        ],
+        "animations": [
+          "bedrock(wiglett, water_swim)"
+        ]
+      }
+    }
+  }

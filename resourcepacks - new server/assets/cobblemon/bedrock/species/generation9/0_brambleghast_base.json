@@ -1,0 +1,19 @@
+{
+    "species": "cobblemon:brambleghast",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:brambleghast",
+        "model": "cobblemon:brambleghast.geo",
+        "texture": "cobblemon:textures/pokemon/0947_brambleghast/brambleghast.png",
+        "layers": []
+      },
+      {
+        "aspects": [
+          "shiny"
+        ],
+        "texture": "cobblemon:textures/pokemon/0947_brambleghast/brambleghast_shiny.png"
+      }
+    ]
+  }

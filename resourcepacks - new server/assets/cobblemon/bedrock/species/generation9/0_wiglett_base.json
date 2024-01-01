@@ -1,0 +1,17 @@
+{
+    "species": "cobblemon:wiglett",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:wiglett",
+        "model": "cobblemon:wiglett.geo",
+        "texture": "cobblemon:textures/pokemon/0960_wiglett/wiglett.png",
+        "layers": []
+      },
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/0960_wiglett/wiglett_shiny.png"
+      }
+    ]
+  }

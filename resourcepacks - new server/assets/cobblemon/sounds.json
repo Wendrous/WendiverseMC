@@ -1,8 +1,24 @@
 {
   "pokemon.brutebonnet.cry": {
     "sounds": [ "cobblemon:pokemon/brutebonnet/brutebonnet_cry" ]
+  "pokemon.wugtrio.ambient": {
+  "sounds": [ "cobblemon:pokemon/wugtrio/wugtrio_ambient" ]
   },
   "pokemon.greattusk.cry": {
     "sounds": [ "cobblemon:pokemon/greattusk/greattusk_cry" ]
+  "pokemon.wiglett.ambient": {
+    "sounds": [ "cobblemon:pokemon/wiglett/wiglett_ambient" ]
+  },
+  "pokemon.slitherwing.ambient": {
+    "sounds": [ "cobblemon:pokemon/slitherwing/slitherwing_ambient" ]
+  },
+  "pokemon.bramblin.ambient": {
+    "sounds": [ "cobblemon:pokemon/bramblin/bramblin_ambient" ]
+  },
+  "pokemon.brambleghast.ambient": {
+    "sounds": [ "cobblemon:pokemon/brambleghast/brambleghast_ambient" ]
+  },
+  "pokemon.dondozo.ambient": {
+    "sounds": [ "cobblemon:pokemon/dondozo/dondozo_ambient" ]
   }
 }
