@@ -2,7 +2,6 @@
 	"cobblemon.species.palafinhero.name": "Palafin",
 	"cobblemon.species.palafinhero.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
 	"cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
-	"cobblemon.species.bongbong.name": "BongBong",
 
 	"cobblemon.species.bloodmoonursaluna.name": "Ursaluna",
 	"cobblemon.species.bloodmoonursaluna.desc1": "It crossed the sea and drifted ashore in a new land. Surviving in this place led it to take on a unique appearance and gain special powers.",
@@ -84,6 +83,8 @@
 
 	"cobblemon.species.melmetal.name": "Melmetal",
 	"cobblemon.species.melmetal.desc1": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
-	"cobblemon.species.melmetal.desc2": "entrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
+	"cobblemon.species.melmetal.desc2": "entrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
+
+	"cobblemon.species.bongbong.name": "BongBong",
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means."
 }
