@@ -1,26 +1,20 @@
 {
-  "pokemon.brutebonnet.cry": {
-    "sounds": [ "cobblemon:pokemon/brutebonnet/brutebonnet_cry" ]
+	"pokemon.bongbong.ambient": {
+    "sounds": [ "cobblemon:pokemon/bongbong/bongbong_ambient" ]
   },
-  "pokemon.wugtrio.ambient": {
-  "sounds": [ "cobblemon:pokemon/wugtrio/wugtrio_ambient" ]
+  "pokemon.bongbong.cry": {
+    "sounds": [ "cobblemon:pokemon/bongbong/bongbong_cry" ]
   },
-  "pokemon.greattusk.cry": {
-    "sounds": [ "cobblemon:pokemon/greattusk/greattusk_cry" ]
+	"pokemon.chienpao.ambient": {
+    "sounds": [ "cobblemon:pokemon/chienpao/chienpao_ambient" ]
   },
-  "pokemon.wiglett.ambient": {
-    "sounds": [ "cobblemon:pokemon/wiglett/wiglett_ambient" ]
+  "pokemon.chienpao.cry": {
+    "sounds": [ "cobblemon:pokemon/chienpao/chienpao_cry" ]
   },
-  "pokemon.slitherwing.ambient": {
-    "sounds": [ "cobblemon:pokemon/slitherwing/slitherwing_ambient" ]
+  "pokemon.koraidon.cry": {
+    "sounds": [ "cobblemon:pokemon/koraidon/koraidon_cry" ]
   },
-  "pokemon.bramblin.ambient": {
-    "sounds": [ "cobblemon:pokemon/bramblin/bramblin_ambient" ]
-  },
-  "pokemon.brambleghast.ambient": {
-    "sounds": [ "cobblemon:pokemon/brambleghast/brambleghast_ambient" ]
-  },
-  "pokemon.dondozo.ambient": {
-    "sounds": [ "cobblemon:pokemon/dondozo/dondozo_ambient" ]
+  "pokemon.keldeo.cry": {
+    "sounds": [ "cobblemon:pokemon/keldeo/keldeo_cry" ]
   }
 }

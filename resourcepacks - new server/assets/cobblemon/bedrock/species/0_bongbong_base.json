@@ -1,0 +1,20 @@
+{
+    "species": "cobblemon:bongbong",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:bongbong",
+        "model": "cobblemon:bongbong.geo",
+        "texture": "cobblemon:textures/pokemon/bongbong/bongbong.png",
+        "layers": []
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/bongbong/bongbong.png",
+        "layers": []
+      }
+    ]
+  }
+  
