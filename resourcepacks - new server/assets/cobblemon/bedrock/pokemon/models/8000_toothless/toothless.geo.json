@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.dancing_toothless",
+				"texture_width": 498,
+				"texture_height": 391,
+				"visible_bounds_width": 126,
+				"visible_bounds_height": 48,
+				"visible_bounds_offset": [0, 22, 0]
+			},
+			"bones": [
+				{
+					"name": "dragon",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "dragon",
+					"pivot": [33, 160.5, 1],
+					"cubes": [
+						{"origin": [-216, -35, 1], "size": [498, 391, 0], "uv": [2, 2]}
+					]
+				}
+			]
+		}
+	]
+}
