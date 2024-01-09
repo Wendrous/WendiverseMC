@@ -1,0 +1,77 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.regirock.ground_idle": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"rotation": ["Math.sin(query.anim_time * 60) ", 0, 0]
+				},
+				"right_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * 180)", "0+Math.sin(query.anim_time * 90)", "12.5+Math.sin(query.anim_time * 90)"]
+				},
+				"right_arm": {
+					"rotation": [0, 0, -90],
+					"position": [7, -7, 0]
+				},
+				"left_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * -180)", "0+Math.sin(query.anim_time * -90)", "-12.5+Math.sin(query.anim_time * -90)"]
+				},
+				"left_arm": {
+					"rotation": [0, 0, 90],
+					"position": [-7, -7, 0]
+				}
+			}
+		},
+		"animation.regirock.ground_walk": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"rotation": ["Math.sin(query.anim_time * 60) ", 0, 0]
+				},
+				"right_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * 90)", "0+Math.sin(query.anim_time * 90)", "12.5+Math.sin(query.anim_time * 90)"]
+				},
+				"right_arm": {
+					"rotation": [0, 0, -90],
+					"position": [7, -7, 0]
+				},
+				"left_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * -90)", "0+Math.sin(query.anim_time * -90)", "-12.5+Math.sin(query.anim_time * -90)"]
+				},
+				"left_arm": {
+					"rotation": [0, 0, 90],
+					"position": [-7, -7, 0]
+				},
+				"right_leg": {
+					"rotation": ["Math.sin(query.anim_time * 90) * -5", 0, 0]
+				},
+				"left_leg": {
+					"rotation": ["Math.sin(query.anim_time * 90) * 5", 0, 0]
+				}
+			}
+		},
+		"animation.regirock.faint": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"rotation": ["Math.sin(query.anim_time * 60) ", 0, 0]
+				},
+				"right_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * 180)", "0+Math.sin(query.anim_time * 90)", "12.5+Math.sin(query.anim_time * 90)"]
+				},
+				"right_arm": {
+					"rotation": [0, 0, -90],
+					"position": [7, -7, 0]
+				},
+				"left_shoulder": {
+					"rotation": ["0+Math.sin(query.anim_time * -180)", "0+Math.sin(query.anim_time * -90)", "-12.5+Math.sin(query.anim_time * -90)"]
+				},
+				"left_arm": {
+					"rotation": [0, 0, 90],
+					"position": [-7, -7, 0]
+				}
+			}
+		}
+	}
+}

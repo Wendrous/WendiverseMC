@@ -1,0 +1,41 @@
+{
+  "species": "cobblemon:arceus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:arceus",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-bug"],
+      "poser": "cobblemon:arceus",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_bug.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-grass"],
+      "poser": "cobblemon:arceus",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_grass.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-ground"],
+      "poser": "cobblemon:arceus",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_ground.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-steel"],
+      "poser": "cobblemon:arceus",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_steel.png",
+      "layers": []
+    }
+  ]
+}

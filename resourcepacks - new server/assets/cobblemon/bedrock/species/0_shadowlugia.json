@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:shadowlugia",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shadowlugia",
+      "model": "cobblemon:shadowlugia.geo",
+      "texture": "cobblemon:textures/pokemon/shadowlugia/shadowlugia.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/shadowlugia/shadowlugia_emissive.png",
+          "translucent": true
+    }
+      ]
+    }
+  ]
+}

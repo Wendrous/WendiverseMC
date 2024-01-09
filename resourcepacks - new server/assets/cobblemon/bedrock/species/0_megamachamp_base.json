@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:megamachamp",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megamachamp",
+      "model": "cobblemon:megamachamp.geo",
+      "texture": "cobblemon:textures/pokemon/megamachamp/megamachamp.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/megamachamp/megamachamp_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/megamachamp/megamachamp_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/megamachamp/megamachamp_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

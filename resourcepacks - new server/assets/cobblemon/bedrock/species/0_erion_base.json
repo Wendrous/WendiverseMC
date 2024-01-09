@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:erion",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:erion",
+      "model": "cobblemon:erion.geo",
+      "texture": "cobblemon:textures/pokemon/erion/erion.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture":"cobblemon:textures/pokemon/erion/erion_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:megabeedrill",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megabeedrill",
+      "model": "cobblemon:megabeedrill.geo",
+      "texture": "cobblemon:textures/pokemon/megabeedrill/megabeedrill.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/megabeedrill/megabeedrill_shiny.png",
+      "layers": []
+    }
+  ]
+}

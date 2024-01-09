@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:megablastoise",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megablastoise",
+      "model": "cobblemon:megablastoise.geo",
+      "texture": "cobblemon:textures/pokemon/megablastoise/megablastoise.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/megablastoise/megablastoise_shiny.png",
+      "layers": []
+    }
+  ]
+}

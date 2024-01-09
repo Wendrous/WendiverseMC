@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:arceus",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["plate_forms-flying"],
+      "poser": "cobblemon:arceus_battleidle3",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_flying.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-ghost"],
+      "poser": "cobblemon:arceus_battleidle3",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_ghost.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-psychic"],
+      "poser": "cobblemon:arceus_battleidle3",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_psychic.png",
+      "layers": []
+    },
+    {
+      "aspects": ["plate_forms-fairy"],
+      "poser": "cobblemon:arceus_battleidle3",
+      "model": "cobblemon:arceus.geo",
+      "texture": "cobblemon:textures/pokemon/arceus/arceus_fairy.png",
+      "layers": []
+    }
+  ]
+}
