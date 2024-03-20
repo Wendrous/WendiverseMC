@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:megablaziken",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:megablaziken",
+      "model": "cobblemon:megablaziken.geo",
+      "texture": "cobblemon:textures/pokemon/megablaziken/megablaziken.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/megablaziken/megablaziken_shiny.png",
+      "layers": []
+    }
+  ]
+}

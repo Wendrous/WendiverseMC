@@ -1,0 +1,158 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.fazbear.ground_idle": {
+			"loop": true,
+			"bones": {
+				"fazbear": {
+					"position": [0, -1, 0]
+				},
+				"torso": {
+					"rotation": ["12.5+Math.sin(query.anim_time * 90) * 1 * 2", "0+Math.sin(query.anim_time * 90) * 1 * 2", "-5+Math.sin(query.anim_time * 90) * 1 * 1"]
+				},
+				"head": {
+					"rotation": ["0+Math.sin(query.anim_time * 90) * 2 * 2  ", 0, "0+Math.sin(query.anim_time * 90) * 2 * 2 "]
+				},
+				"right_arm": {
+					"rotation": [0, 0, "-35+Math.sin(query.anim_time * -90) * 2 * 2 "]
+				},
+				"bone": {
+					"rotation": [
+						"-40+Math.sin(query.anim_time * 90) * 2 * 2 ",
+						"-37.5+Math.sin(query.anim_time * 90) * 2 * 2 ",
+						"0+Math.sin(query.anim_time * 90) * 2 * 2 "
+					]
+				},
+				"bone2": {
+					"rotation": [0, 0, -42.5]
+				},
+				"left_arm": {
+					"rotation": [0, 0, "20+Math.sin(query.anim_time * 90) * 2 * 2 "]
+				},
+				"bone3": {
+					"rotation": [0, "42.5+Math.sin(query.anim_time * 90) * 2 * 2 ", "0+Math.sin(query.anim_time * 90) * 3 * 3 "]
+				},
+				"bone4": {
+					"rotation": [-29.76014, 3.76847, 6.49755]
+				},
+				"right_leg": {
+					"rotation": [-10, 0, 10]
+				},
+				"right_leg2": {
+					"rotation": [10, 0, -10]
+				},
+				"left_leg": {
+					"rotation": [0, 0, -7.5]
+				},
+				"left_leg2": {
+					"rotation": [0, 0, 7.5]
+				},
+				"jaw": {
+					"rotation": ["0+Math.sin(query.anim_time * 90) * 1 * 1", 0, 0]
+				}
+			}
+		},
+		"animation.fazbear.ground_walk": {
+			"loop": true,
+			"bones": {
+				"fazbear": {
+					"position": [0, -1, 0]
+				},
+				"torso": {
+					"rotation": ["12.5+Math.sin(query.anim_time * 180)* 2 * 3", "0+Math.sin(query.anim_time * 180)* 1 * 2", "-5+Math.sin(query.anim_time * 180)* 1 * 1"]
+				},
+				"head": {
+					"rotation": ["0+Math.sin(query.anim_time * 180)* 2 * 2  ", 0, "0+Math.sin(query.anim_time * 180)* 2 * 2 "]
+				},
+				"right_arm": {
+					"rotation": [0, 0, "-35+Math.sin(query.anim_time * -180) * 2 * 2 "]
+				},
+				"bone": {
+					"rotation": [
+						"-40+Math.sin(query.anim_time * 180)* 2 * 2 ",
+						"-37.5+Math.sin(query.anim_time * 180)* 2 * 2 ",
+						"0+Math.sin(query.anim_time * 180)* 2 * 2 "
+					]
+				},
+				"bone2": {
+					"rotation": [0, 0, -42.5]
+				},
+				"left_arm": {
+					"rotation": [0, 0, "20+Math.sin(query.anim_time * 180) * 2 * 2 "]
+				},
+				"bone3": {
+					"rotation": [0, "42.5+Math.sin(query.anim_time * 180) * 2 * 2 ", "0+Math.sin(query.anim_time * 180) * 3 * 3 "]
+				},
+				"bone4": {
+					"rotation": [-29.76014, 3.76847, 6.49755]
+				},
+				"right_leg": {
+					"rotation": ["-10+Math.sin(query.anim_time * -180) * 4 * 4", 0, 10]
+				},
+				"right_leg2": {
+					"rotation": ["10+Math.sin(query.anim_time * -180) * 2 * 3", 0, -10]
+				},
+				"left_leg": {
+					"rotation": ["0+Math.sin(query.anim_time * 180) * 4 * 4", 0, -7.5]
+				},
+				"left_leg2": {
+					"rotation": ["0+Math.sin(query.anim_time * 180) * 2 * 3", 0, 7.5]
+				},
+				"jaw": {
+					"rotation": ["0+Math.sin(query.anim_time * 90) * 1 * 1", 0, 0]
+				}
+			}
+		},
+		"animation.fazbear.faint": {
+			"loop": true,
+			"bones": {
+				"fazbear": {
+					"position": [0, -1, 0]
+				},
+				"torso": {
+					"rotation": ["12.5+Math.sin(query.anim_time * 90) * 1 * 2", "0+Math.sin(query.anim_time * 90) * 1 * 2", "-5+Math.sin(query.anim_time * 90) * 1 * 1"]
+				},
+				"head": {
+					"rotation": ["0+Math.sin(query.anim_time * 90) * 2 * 2  ", 0, "0+Math.sin(query.anim_time * 90) * 2 * 2 "]
+				},
+				"right_arm": {
+					"rotation": [0, 0, "-35+Math.sin(query.anim_time * -90) * 2 * 2 "]
+				},
+				"bone": {
+					"rotation": [
+						"-40+Math.sin(query.anim_time * 90) * 2 * 2 ",
+						"-37.5+Math.sin(query.anim_time * 90) * 2 * 2 ",
+						"0+Math.sin(query.anim_time * 90) * 2 * 2 "
+					]
+				},
+				"bone2": {
+					"rotation": [0, 0, -42.5]
+				},
+				"left_arm": {
+					"rotation": [0, 0, "20+Math.sin(query.anim_time * 90) * 2 * 2 "]
+				},
+				"bone3": {
+					"rotation": [0, "42.5+Math.sin(query.anim_time * 90) * 2 * 2 ", "0+Math.sin(query.anim_time * 90) * 3 * 3 "]
+				},
+				"bone4": {
+					"rotation": [-29.76014, 3.76847, 6.49755]
+				},
+				"right_leg": {
+					"rotation": [-10, 0, 10]
+				},
+				"right_leg2": {
+					"rotation": [10, 0, -10]
+				},
+				"left_leg": {
+					"rotation": [0, 0, -7.5]
+				},
+				"left_leg2": {
+					"rotation": [0, 0, 7.5]
+				},
+				"jaw": {
+					"rotation": ["0+Math.sin(query.anim_time * 90) * 1 * 1", 0, 0]
+				}
+			}
+		}
+	}
+}

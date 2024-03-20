@@ -1,0 +1,67 @@
+{
+  "head": "head",
+  "portraitScale": 1.2,
+  "portraitTranslation": [ -0.4, 3.5, 0 ],
+  "profileScale": 0.5,
+  "profileTranslation": [ 0, 1.7, 0 ],
+  "faint": "bedrock(diancie, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "bedrock(diancie, ground_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(diancie, blink)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [ "WALK" ],
+      "animations": [   
+        "bedrock(diancie, ground_walk)" ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(diancie, blink)"]
+        }
+      ]
+    },
+    "hovering": {
+      "poseName": "hovering",
+      "transformTicks": 10,
+      "poseTypes": [ "HOVER" ],
+      "animations": [   
+        "bedrock(diancie, ground_idle)" ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(diancie, blink)"]
+        }
+      ]
+    },
+    "flying": {
+      "poseName": "flying",
+      "transformTicks": 10,
+      "poseTypes": [ "FLY" ],
+      "animations": [   
+        "bedrock(diancie, ground_walk)" ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(diancie, blink)"]
+        }
+      ]
+    }
+  }
+}

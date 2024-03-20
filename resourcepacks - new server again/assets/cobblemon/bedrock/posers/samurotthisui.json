@@ -1,0 +1,42 @@
+{
+  "head": "head",
+  "portraitScale": 1.2,
+  "portraitTranslation": [
+    -0.5,
+    1,
+    0
+  ],
+  "profileScale": 0.57,
+  "profileTranslation": [
+    0,
+    0.8,
+    0
+  ],
+  "faint": "bedrock(samurotthisui, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "look",
+        "bedrock(samurotthisui, ground_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(samurotthisui, ground_walk)"
+      ]
+    }
+  }
+}

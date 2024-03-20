@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:rotom",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:rotom",
+      "model": "cobblemon:rotom.geo",
+      "texture": "cobblemon:textures/pokemon/rotom/rotom.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:rotom",
+      "model": "cobblemon:rotom.geo",
+      "texture": "cobblemon:textures/pokemon/rotom/rotom_shiny.png",
+      "layers": []
+    }
+  ]
+}

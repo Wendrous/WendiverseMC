@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:registeel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:registeel",
+      "model": "cobblemon:registeel.geo",
+      "texture": "cobblemon:textures/pokemon/registeel/registeel.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/registeel/registeel_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/registeel/registeel_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/registeel/registeel_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

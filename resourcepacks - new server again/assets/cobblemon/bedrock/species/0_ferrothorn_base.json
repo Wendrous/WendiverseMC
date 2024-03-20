@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:ferrothorn",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ferrothorn",
+      "model": "cobblemon:ferrothorn.geo",
+      "texture": "cobblemon:textures/pokemon/ferrothorn/ferrothorn.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/ferrothorn/ferrothorn_shiny.png"
+    }
+  ]
+}

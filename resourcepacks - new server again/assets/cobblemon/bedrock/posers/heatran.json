@@ -1,0 +1,39 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [ 
+    0,
+    0,
+    0
+  ],
+  "profileScale": 1,
+  "profileTranslation": [
+    0,
+    0,
+    0 
+  ],
+  "faint": "bedrock(heatran, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "bedrock(heatran, ground_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+    "WALK"
+      ],
+      "animations": [ "bedrock(heatran, ground_walk)"
+      ]
+    }
+  }
+}

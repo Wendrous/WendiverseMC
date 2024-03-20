@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:deoxysdefense",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:deoxysdefense",
+      "model": "cobblemon:deoxysdefense.geo",
+      "texture": "cobblemon:textures/pokemon/deoxysdefense/deoxysdefense.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/deoxysdefense/deoxysdefense_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/deoxysdefense/deoxysdefense_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/deoxysdefense/deoxysdefense_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

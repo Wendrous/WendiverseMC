@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:landorustherian",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:landorustherian",
+      "model": "cobblemon:landorustherian.geo",
+      "texture": "cobblemon:textures/pokemon/landorustherian/landorustherian.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "poser": "cobblemon:landorustherian",
+      "model": "cobblemon:landorustherian.geo",
+      "texture": "cobblemon:textures/pokemon/landorustherian/landorustherian_shiny.png",
+      "layers": []
+    }
+  ]
+}

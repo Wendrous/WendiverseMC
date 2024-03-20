@@ -1,0 +1,39 @@
+{
+  "portraitScale": 0.7,
+  "portraitTranslation": [ 
+    0,
+    1.8,
+    0
+  ],
+  "profileScale": 0.4,
+  "profileTranslation": [
+    0,
+    1.2,
+    0 
+  ],
+  "faint": "bedrock(melmetal, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "bedrock(melmetal, ground_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+    "WALK"
+      ],
+      "animations": [ "bedrock(melmetal, ground_walk)"
+      ]
+    }
+  }
+}
