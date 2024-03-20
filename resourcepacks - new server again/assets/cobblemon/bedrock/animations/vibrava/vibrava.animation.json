@@ -1,0 +1,178 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.vibrava.air_idle": {
+			"loop": true,
+			"bones": {
+				"Vibrava": {
+					"rotation": ["math.sin(q.anim_time*90*2)*2+5", 0, 0],
+					"position": [
+						"math.clamp(math.sin(q.anim_time*90*4)*0.6,-0.5,0)+math.clamp(math.sin(q.anim_time*90*4)*0.6,0,0.5)",
+						"(math.clamp(math.sin(q.anim_time*90*4)*2,-1.5,0)+math.clamp(math.sin(q.anim_time*90*4)*2,0,1.5)+math.sin(q.anim_time*90*4)*10)*0.1",
+						"math.sin(q.anim_time*90*2)*1"
+					]
+				},
+				"LTopWing": {
+					"rotation": [-10.73052, 81.55847, "-59.6277+30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"LBottomWing": {
+					"rotation": [0, 12.5, "0-45+30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"RTopWing": {
+					"rotation": [0, -80, "45-30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"RBottomWing": {
+					"rotation": [0, 0, "45-30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"LFrontThigh": {
+					"rotation": [0, 0, 57.5]
+				},
+				"LFrontCalf": {
+					"rotation": [-8.3564, 6.32362, "-31.7527-math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"LBackThigh": {
+					"rotation": [0, 0, 62.5]
+				},
+				"LBackCalf": {
+					"rotation": [0, 0, "-25-math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"RFrontThigh": {
+					"rotation": [0, 0, -57.5]
+				},
+				"RFrontCalf": {
+					"rotation": [0, 0, "30+math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"RBackThigh": {
+					"rotation": [0, 0, -57.5]
+				},
+				"RBackCalf": {
+					"rotation": [0, 0, "25+math.sin(q.anim_time*90*2-45)*5"]
+				}
+			}
+		},
+		"animation.vibrava.air_fly": {
+			"loop": true,
+			"bones": {
+				"Vibrava": {
+					"rotation": ["math.sin(q.anim_time*90*2)*2+17.5", 0, 0],
+					"position": [
+						"math.clamp(math.sin(q.anim_time*90*4)*0.6,-0.5,0)+math.clamp(math.sin(q.anim_time*90*4)*0.6,0,0.5)",
+						"(math.clamp(math.sin(q.anim_time*90*4)*2,-1.5,0)+math.clamp(math.sin(q.anim_time*90*4)*2,0,1.5)+math.sin(q.anim_time*90*4)*10)*0.1",
+						"math.sin(q.anim_time*90*2)*1"
+					]
+				},
+				"LTopWing": {
+					"rotation": [-10.73052, 81.55847, "-59.6277+30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"LBottomWing": {
+					"rotation": [0, 12.5, "0-45+30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"RTopWing": {
+					"rotation": [0, -80, "45-30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"RBottomWing": {
+					"rotation": [0, 0, "45-30*(math.sin(q.anim_time*90*4*6)*1+1)"]
+				},
+				"LFrontThigh": {
+					"rotation": [0, 0, 57.5]
+				},
+				"LFrontCalf": {
+					"rotation": [-8.3564, 6.32362, "-31.7527-math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"LBackThigh": {
+					"rotation": [0, 0, 62.5]
+				},
+				"LBackCalf": {
+					"rotation": [0, 0, "-25-math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"RFrontThigh": {
+					"rotation": [0, 0, -57.5]
+				},
+				"RFrontCalf": {
+					"rotation": [0, 0, "30+math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"RBackThigh": {
+					"rotation": [0, 0, -57.5]
+				},
+				"RBackCalf": {
+					"rotation": [0, 0, "25+math.sin(q.anim_time*90*2-45)*5"]
+				},
+				"RWing": {
+					"position": [0, 0, 0]
+				}
+			}
+		},
+		"animation.vibrava.ground_walk": {
+			"loop": true,
+			"animation_length": 1.95833,
+			"bones": {
+				"Vibrava": {
+					"rotation": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "-2.5*Math.sin((query.anim_time * 180))"],
+					"position": [0, "0.3*Math.sin((query.anim_time * 360)-90)-0.1", 0]
+				},
+				"Head": {
+					"rotation": ["3.75*Math.sin((query.anim_time * 360)-90)+3.75", "5*Math.sin((query.anim_time * 180))", "-2.5*Math.sin((query.anim_time * 180))"]
+				},
+				"LFrontThigh": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, -35, 0],
+						"1.9583": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "-Math.sin((query.anim_time * 180)-180)"],
+						"0.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "-1-Math.sin((query.anim_time * 180)-180)"],
+						"1.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "-Math.sin((query.anim_time * 180)-180)"],
+						"1.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "1-Math.sin((query.anim_time * 180)-180)"],
+						"1.9583": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "-Math.sin((query.anim_time * 180)-180)"]
+					}
+				},
+				"LBackThigh": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"1.0": [0, 35, 0],
+						"1.9583": [0, 0, 0]
+					},
+					"position": {
+						"0.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "2+Math.sin((query.anim_time * 180)-180)"],
+						"0.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", 3],
+						"1.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "3+Math.sin((query.anim_time * 180)-180)"],
+						"1.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", 2.48],
+						"1.9583": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "2+Math.sin((query.anim_time * 180)-180)"]
+					}
+				},
+				"RFrontThigh": {
+					"rotation": {
+						"0.0": [0, 30, 0],
+						"1.0": [0, 0, 0],
+						"1.9583": [0, 30, 0]
+					},
+					"position": {
+						"0.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "Math.sin((query.anim_time * 180)-180)"],
+						"0.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", 0],
+						"1.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "Math.sin((query.anim_time * 180)-180)"],
+						"1.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", -0.38],
+						"1.9583": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "Math.sin((query.anim_time * 180)-180)"]
+					}
+				},
+				"RBackThigh": {
+					"rotation": {
+						"0.0": [0, -30, 0],
+						"1.0": [0, 0, 0],
+						"1.9583": [0, -27.5, 0]
+					},
+					"position": {
+						"0.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "2-Math.sin((query.anim_time * 180)-180)"],
+						"0.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "2-Math.sin((query.anim_time * 180)-180)"],
+						"1.0": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "3-Math.sin((query.anim_time * 180)-180)"],
+						"1.5": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", 2.77],
+						"1.9583": [0, "0.4*Math.sin((query.anim_time * 180))+0.4", "2-Math.sin((query.anim_time * 180)-180)"]
+					}
+				}
+			}
+		},
+		"animation.vibrava.ground_idle": {
+			"loop": true
+		}
+	}
+}

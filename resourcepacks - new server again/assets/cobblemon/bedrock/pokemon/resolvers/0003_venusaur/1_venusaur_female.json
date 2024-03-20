@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:venusaur",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": ["female"],
+      "poser": "cobblemon:venusaur2",
+      "model": "cobblemon:venusaur2_female.geo",
+      "texture": "cobblemon:textures/pokemon/0003_venusaur2/venusaur2_female.png",
+      "layers": []
+    },
+    {
+      "aspects": [ 
+      "female",
+      "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0003_venusaur2/venusaur2_shiny_female.png"
+    }
+  ]
+}

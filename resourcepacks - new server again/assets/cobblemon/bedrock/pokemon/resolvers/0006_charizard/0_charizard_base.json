@@ -1,0 +1,33 @@
+{
+  "species": "cobblemon:charizard",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:charizard2",
+      "model": "cobblemon:charizard2.geo",
+      "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

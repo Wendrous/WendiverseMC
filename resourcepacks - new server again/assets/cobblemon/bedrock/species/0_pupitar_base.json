@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:pupitar",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:pupitar",
+			"model": "cobblemon:pupitar.geo",
+			"texture": "cobblemon:textures/pokemon/pupitar/pupitar.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/pupitar/pupitar_shiny.png"
+		}
+	]
+}

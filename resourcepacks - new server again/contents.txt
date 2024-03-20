@@ -5,3 +5,4 @@
 - Gen 9 Type Icons
 - Enhanced UI
 - Alphabet Soup
+- GenoMons

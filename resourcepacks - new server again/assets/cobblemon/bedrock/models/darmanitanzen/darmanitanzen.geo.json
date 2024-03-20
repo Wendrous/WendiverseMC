@@ -1,0 +1,97 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "darmanitan",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-10.5, 0, -10.5], "size": [21, 24, 21], "uv": [0, 0]},
+						{"origin": [3, 17.5, -10.51], "size": [3, 3, 0], "uv": [15, 48]},
+						{"origin": [-6, 17.5, -10.51], "size": [3, 3, 0], "uv": [7, 12]},
+						{"origin": [-7.5, 0.01, 5.8], "size": [15, 9, 5], "pivot": [0, 0, 11], "rotation": [-42.5, 0, 0], "uv": [64, 6]}
+					]
+				},
+				{
+					"name": "eyebrow_left",
+					"parent": "darmanitan",
+					"pivot": [1.5, 20, 0],
+					"rotation": [0, 0, -10],
+					"cubes": [
+						{"origin": [1.67365, 20.98481, -10.53], "size": [7, 3, 0], "uv": [41, 45]}
+					]
+				},
+				{
+					"name": "eyebrow_right",
+					"parent": "darmanitan",
+					"pivot": [-1.5, 20, 0],
+					"rotation": [0, 0, 10],
+					"cubes": [
+						{"origin": [-8.67365, 20.98481, -10.53], "size": [7, 3, 0], "uv": [15, 45]}
+					]
+				},
+				{
+					"name": "hand_left",
+					"parent": "darmanitan",
+					"pivot": [11, 10, 1],
+					"cubes": [
+						{"origin": [10.5, 5, -7], "size": [2, 9, 11], "uv": [26, 45]}
+					]
+				},
+				{
+					"name": "thumb_left",
+					"parent": "hand_left",
+					"pivot": [11, 15, 0],
+					"cubes": [
+						{"origin": [10.49, 12.7, 3.5], "size": [2, 5, 3], "pivot": [11, 9, 3], "rotation": [32.5, 0, 0], "uv": [10, 12]}
+					]
+				},
+				{
+					"name": "hand_right",
+					"parent": "darmanitan",
+					"pivot": [-11, 10, 1],
+					"cubes": [
+						{"origin": [-12.5, 5, -7], "size": [2, 9, 11], "uv": [0, 45]}
+					]
+				},
+				{
+					"name": "thumb_right",
+					"parent": "hand_right",
+					"pivot": [-12, 15, 0],
+					"cubes": [
+						{"origin": [-12.49, 12.7, 3.5], "size": [2, 5, 3], "pivot": [-12, 9, 3], "rotation": [32.5, 0, 0], "uv": [0, 12]}
+					]
+				},
+				{
+					"name": "foot_left",
+					"parent": "darmanitan",
+					"pivot": [10.5, 2, -10.2],
+					"rotation": [0, -12.5, 0],
+					"cubes": [
+						{"origin": [4.5, 0, -11.2], "size": [6, 4, 2], "uv": [0, 6]},
+						{"origin": [1.5, 0, -10.2], "size": [3, 4, 1], "pivot": [4.5, 2, -10.2], "rotation": [0, 12.5, 0], "uv": [29, 45]}
+					]
+				},
+				{
+					"name": "foot_right",
+					"parent": "darmanitan",
+					"pivot": [-10.5, 2, -10.2],
+					"rotation": [0, 12.5, 0],
+					"cubes": [
+						{"origin": [-10.5, 0, -11.2], "size": [6, 4, 2], "uv": [0, 0]},
+						{"origin": [-4.5, 0, -10.2], "size": [3, 4, 1], "pivot": [-4.5, 2, -10.2], "rotation": [0, -12.5, 0], "uv": [0, 45]}
+					]
+				}
+			]
+		}
+	]
+}

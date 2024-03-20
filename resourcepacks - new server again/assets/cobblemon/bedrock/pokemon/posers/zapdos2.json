@@ -1,0 +1,80 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [ -1, 1, 0 ],
+  "profileScale": 0.6,
+  "profileTranslation": [ 0, 0.85, 0 ],
+  "cry": "bedrock(zapdos2, cry)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+       "poseTypes": [
+        "STAND",
+		    "PROFILE",
+		    "NONE"
+      ],
+    "animations": [
+		"look",
+    "bedrock(zapdos2, ground_idle)"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(zapdos2, blink)"]
+        }
+      ]
+  },
+  	 "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+		  "look",
+      "bedrock(zapdos2, ground_walk)"
+    ],
+    "quirks": [
+      {
+        "name": "blink",
+        "animations": ["bedrock(zapdos2, blink)"]
+      }
+    ]
+  },
+  "hovering": {
+    "poseName": "hovering",
+    "transformTicks": 10,
+    "poseTypes": [
+      "HOVER"
+    ],
+    "animations": [
+    "look",
+    "bedrock(zapdos2, air_idle)"
+  ],
+  "quirks": [
+    {
+      "name": "blink",
+      "animations": ["bedrock(zapdos2, blink)"]
+    }
+  ]
+},
+"flying": {
+  "poseName": "flying",
+  "transformTicks": 10,
+  "poseTypes": [
+    "FLY"
+  ],
+  "animations": [
+  "look",
+  "bedrock(zapdos2, air_fly)"
+],
+"quirks": [
+  {
+    "name": "blink",
+    "animations": ["bedrock(zapdos2, blink)"]
+  }
+]
+}
+}
+}

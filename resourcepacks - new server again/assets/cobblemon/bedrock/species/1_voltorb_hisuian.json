@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:voltorb",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "hisuian"
+      ],
+      "poser": "cobblemon:voltorb_hisuian",
+      "model": "cobblemon:voltorb_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/voltorb/voltorb_hisuian.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "hisuian",
+        "shiny"
+      ],
+      "poser": "cobblemon:voltorb_hisuian",
+      "model": "cobblemon:voltorb_hisuian.geo",
+      "texture": "cobblemon:textures/pokemon/voltorb/voltorb_hisuian_shiny.png",
+      "layers": []
+    }
+  ]
+}

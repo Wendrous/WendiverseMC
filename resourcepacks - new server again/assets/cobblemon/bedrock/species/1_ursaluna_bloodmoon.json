@@ -1,0 +1,22 @@
+{
+	"species": "cobblemon:ursaluna",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": ["bloodmoon"],
+			"poser": "cobblemon:ursaluna_bloodmoon",
+			"model": "cobblemon:ursaluna_bloodmoon.geo",
+			"texture": "cobblemon:textures/pokemon/ursaluna_bloodmoon/ursaluna_bloodmoon.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [
+				"bloodmoon",
+				"shiny"
+			],
+			"texture": "cobblemon:textures/pokemon/ursaluna_bloodmoon/ursaluna_bloodmoon_shiny.png"
+		}
+	]
+}

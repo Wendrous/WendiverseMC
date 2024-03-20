@@ -1,0 +1,30 @@
+{
+  "portraitScale": 2.5,
+  "portraitTranslation": [0.25, -0.85, 0.0],
+  "profileScale": 1.1,
+  "profileTranslation": [0, 0.2, 0.0],
+  "cry":  "bedrock(larvitar, cry)",
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(larvitar, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "bedrock(larvitar, ground_walk)"
+        ]
+      }
+    }
+  }

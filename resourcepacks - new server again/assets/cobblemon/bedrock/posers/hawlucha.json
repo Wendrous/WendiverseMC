@@ -1,0 +1,33 @@
+{
+    "head": "neck",
+    "portraitScale": 2.0,
+    "portraitTranslation": [ 0, 1.5, 0 ],
+    "profileScale": 0.7,
+    "profileTranslation": [ 0.05, 0.75, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "look",
+          "bedrock(hawlucha, ground_idle)"
+        ],
+        "quirks": []
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "look",
+          "bedrock(hawlucha, ground_walk)"
+        ]
+      }
+    }
+  }

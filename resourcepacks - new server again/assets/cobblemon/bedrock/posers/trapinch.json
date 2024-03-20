@@ -1,0 +1,30 @@
+{
+    "portraitScale": 2.0,
+    "portraitTranslation": [ -0.25, -1.5, 0 ],
+    "profileScale": 1,
+    "profileTranslation": [ 0.05, 0, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(trapinch, ground_idle)"
+        ],
+        "quirks": []
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "bedrock(trapinch, ground_walk)"
+        ]
+      }
+    }
+  }

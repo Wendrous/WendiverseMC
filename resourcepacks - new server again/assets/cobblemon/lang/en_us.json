@@ -14,6 +14,9 @@
 	"cobblemon.species.tapufini.name": "Tapu Fini",
 	"cobblemon.species.shadowlugia.name": "Shadow Lugia",
 	"cobblemon.species.sneasler.name": "Sneasler",
+    "cobblemon.species.darmanitanzen.name": "Darmanitan",
+    "cobblemon.species.darmanitanzen.desc1": "Through meditation, it calms its raging spirit and hones its psychic powers.",
+    "cobblemon.species.darmanitanzen.desc2": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
 
 	"cobblemon.species.erion.name": "Erion",
 	"cobblemon.species.erace.name": "Erace",
@@ -169,4 +172,7 @@
 	"cobblemon.species.bongbong.name": "BongBong",
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means."
 	
+    "cobblemon.species.galardarmanitanzen.name": "Darmanitan",
+    "cobblemon.species.galardarmanitanzen.desc1": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
+    "cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt."
 }
