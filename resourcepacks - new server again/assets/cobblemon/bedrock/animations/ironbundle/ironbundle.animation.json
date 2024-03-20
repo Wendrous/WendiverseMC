@@ -1,0 +1,94 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ironbundle.ground_idle": {
+			"loop": true,
+			"bones": {
+				"left_hand": {
+					"rotation": [0, 0, "7.5-math.cos(q.anim_time*90*1.5-60)*5"]
+				},
+				"right_hand": {
+					"rotation": [0, 0, "0+math.cos(q.anim_time*90*1.5-120)*6"]
+				},
+				"torso": {
+					"rotation": ["2.5+math.cos(q.anim_time*90*1.5)*1", 0, 0],
+					"position": [0, "0+math.sin(q.anim_time*90*1.5)*0.2", 0]
+				},
+				"tail_01": {
+					"position": [0, 0, -8]
+				},
+				"tail_02": {
+					"position": [0, 0, -9]
+				},
+				"tail_03": {
+					"position": [0, 0, -9]
+				},
+				"tail_04": {
+					"position": [0, 0, -9]
+				}
+			}
+		},
+		"animation.ironbundle.battle_idle": {
+			"loop": true,
+			"bones": {
+				"torso": {
+					"position": [0, "0+math.sin(q.anim_time*90*1.5)*0.2", 0]
+				},
+				"left_hand": {
+					"rotation": [0, 0, "7.5-math.cos(q.anim_time*90*1.5-60)*5"]
+				},
+				"right_hand": {
+					"rotation": [0, 0, 50]
+				},
+				"tail_01": {
+					"rotation": [2.06754, -22.40972, -5.40961]
+				},
+				"tail_02": {
+					"rotation": [0, -30, 0]
+				},
+				"tail_03": {
+					"rotation": [0, -60, 0]
+				},
+				"tail_04": {
+					"rotation": [0, -60, 0]
+				},
+				"tail_bundle": {
+					"rotation": [0, -10, 0]
+				}
+			}
+		},
+		"animation.ironbundle.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [42.5, 0, 0],
+					"position": [0, "10+math.clamp(math.sin(q.anim_time*90*2)*1.2,-1,0)+math.clamp(math.sin(q.anim_time*90*2)*1.2,0,1)+math.sin(q.anim_time*90*3)*1", 0]
+				},
+				"left_hand": {
+					"rotation": [0, 0, "7.5-math.cos(q.anim_time*90*1.5-60)*5"]
+				},
+				"right_hand": {
+					"rotation": [0, 0, "0+math.cos(q.anim_time*90*1.5-120)*6"]
+				},
+				"tail_01": {
+					"position": [0, 0, -8]
+				},
+				"tail_02": {
+					"position": [0, 0, -9]
+				},
+				"tail_03": {
+					"position": [0, 0, -9]
+				},
+				"tail_04": {
+					"position": [0, 0, -9]
+				},
+				"right_leg": {
+					"rotation": ["39.5-25*(math.sin(q.anim_time*90*8*1)*0.2+1)", 0, 0]
+				},
+				"left_leg": {
+					"rotation": ["39.5-25*(math.sin(q.anim_time*90*8*1)*0.2+1)", 0, 0]
+				}
+			}
+		}
+	}
+}
