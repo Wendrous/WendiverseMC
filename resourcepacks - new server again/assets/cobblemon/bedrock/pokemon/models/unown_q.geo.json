@@ -1,0 +1,50 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unown",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "unown",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "bone",
+					"parent": "unown",
+					"pivot": [-1.10607, 1, 0],
+					"cubes": [
+						{"origin": [0.39393, 0.6, -0.9], "size": [1, 5, 1], "pivot": [0.89393, 4.1, -0.4], "rotation": [0, 0, -45], "uv": [0, 8]},
+						{"origin": [1.39393, 1.6, -0.9], "size": [1, 1, 1], "pivot": [0.89393, 4.1, -0.4], "rotation": [0, 0, -45], "uv": [8, 0]}
+					]
+				},
+				{
+					"name": "body",
+					"parent": "unown",
+					"pivot": [-1.10607, -2, 0],
+					"cubes": [
+						{"origin": [-2.60607, 4.6, -0.1], "size": [3, 3, 1], "inflate": 0.001, "uv": [0, 0]},
+						{"origin": [0.39393, 4.6, -0.9], "size": [1, 3, 1], "inflate": 0.01, "uv": [8, 9]},
+						{"origin": [-3.60607, 4.6, -0.9], "size": [1, 3, 1], "inflate": 0.001, "uv": [4, 8]},
+						{"origin": [-2.60607, 3.6, -0.9], "size": [3, 1, 1], "inflate": 0.01, "uv": [7, 7]},
+						{"origin": [-2.60607, 7.6, -0.9], "size": [3, 1, 1], "inflate": 0.001, "uv": [7, 3]}
+					]
+				},
+				{
+					"name": "eye",
+					"parent": "unown",
+					"pivot": [-1.10607, -2, 0.1],
+					"cubes": [
+						{"origin": [-2.60607, 4.6, -0.9], "size": [3, 3, 1], "inflate": 0.01, "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

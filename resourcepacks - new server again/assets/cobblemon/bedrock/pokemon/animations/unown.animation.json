@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.unown.ground_idle": {
+			"loop": true,
+			"bones": {
+				"unown": {
+					"position": ["0+math.sin(q.anim_time*90*2)*3", "3-math.clamp(math.sin(q.anim_time*90*4-90)*1+1,0,2)", 0]
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
