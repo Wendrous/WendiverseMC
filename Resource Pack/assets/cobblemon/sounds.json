@@ -16,5 +16,14 @@
   },
   "pokemon.keldeo.cry": {
     "sounds": [ "cobblemon:pokemon/keldeo/keldeo_cry" ]
+  },
+  "pokemon.cobalion.cry": {
+    "sounds": [ "cobblemon:pokemon/cobalion/cobalion_cry" ]
+  },
+  "pokemon.terrakion.cry": {
+    "sounds": [ "cobblemon:pokemon/terrakion/terrakion_cry" ]
+  },
+  "pokemon.virizion.cry": {
+    "sounds": [ "cobblemon:pokemon/terrakion/virizion_cry" ]
   }
 }
