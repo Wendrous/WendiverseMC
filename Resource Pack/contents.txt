@@ -6,4 +6,5 @@
 - Enhanced UI
 - Alphabet Soup
 - GenoMons
-- Allone's Pokemon Pack
+- Allone's NotSoMons
+- MoreMons
