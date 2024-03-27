@@ -1,0 +1,48 @@
+{
+  "head": "head",
+  "portraitScale": 1.85,
+  "portraitTranslation": [ 0, 0.85, 0 ],
+  "profileScale": 0.75,
+  "profileTranslation": [ 0.15, 0.7, 0 ],
+  "faint": "bedrock(volcarona, faint)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "animations": [
+        "look",
+        "bedrock(volcarona, ground_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [ "WALK" ],
+      "animations": [ "bedrock(volcarona, ground_walk)" ]
+    },
+	 "sleeping": {
+      "poseName": "sleeping",
+      "transformTicks": 10,
+      "poseTypes": [ "SLEEP" ],
+      "animations": [ "bedrock(volcarona, sleep)" ]
+    },
+	"flying": {
+      "poseName": "flying",
+      "transformTicks": 10,
+      "poseTypes": [ "FLY" ],
+      "animations": [ "bedrock(volcarona, air_fly)" ]
+    },
+	"hovering": {
+      "poseName": "hovering",
+      "transformTicks": 10,
+      "poseTypes": [ "HOVER" ],
+      "animations": [ "bedrock(volcarona, air_idle)" ]
+    }
+  }
+}

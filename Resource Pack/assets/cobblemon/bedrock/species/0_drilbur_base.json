@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:drilbur",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:drilbur",
+      "model": "cobblemon:drilbur.geo",
+      "texture": "cobblemon:textures/pokemon/drilbur/drilbur.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/drilbur/drilbur_shiny.png"
+    }
+  ]
+}
