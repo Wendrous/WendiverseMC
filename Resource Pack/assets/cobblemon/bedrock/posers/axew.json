@@ -1,0 +1,78 @@
+{
+    "head": "head",
+    "portraitScale": 2.6,
+    "portraitTranslation": [ 0.35, -1.4, 0 ],
+    "profileScale": 1,
+    "profileTranslation": [ 0, 0.3, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE",
+          "FLOAT",
+          "SWIM"
+        ],
+        "animations": [
+          "look",
+          "bedrock(axew, ground_idle)"
+        ],
+        "quirks": [
+            {
+              "name": "blink",
+              "animations": ["bedrock(axew, blink)"],
+              "maxSecondsBetweenOccurrences": 60
+            }
+          ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(axew, ground_walk)" ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(axew, blink)"]
+          }
+        ]
+        
+      },
+      "sleeping": {
+        "poseName": "sleeping",
+        "transformTicks": 10,
+        "poseTypes": ["SLEEP"],
+        "animations": ["bedrock(axew, sleep)"]
+      },
+
+      "leftshoulder": {
+        "poseName": "leftshoulder",
+        "transformTicks": 10,
+        "poseTypes": ["SHOULDER_LEFT"],
+        "animations": ["bedrock(axew, shoulder_left)"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(axew, blink)"]
+          }
+        ]
+      },
+
+      "rightshoulder": {
+        "poseName": "rightshoulder",
+        "transformTicks": 10,
+        "poseTypes": ["SHOULDER_RIGHT"],
+        "animations": ["bedrock(axew, shoulder_right)"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(axew, blink)"]
+          }
+        ]
+      }
+
+    }
+}

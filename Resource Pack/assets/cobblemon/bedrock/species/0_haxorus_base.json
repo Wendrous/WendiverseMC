@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:haxorus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:haxorus",
+      "model": "cobblemon:haxorus.geo",
+      "texture": "cobblemon:textures/pokemon/haxorus/haxorus.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/haxorus/haxorus_shiny.png"
+    }
+  ]
+}
