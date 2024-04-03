@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:tyrantrum",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:tyrantrum",
+      "model": "cobblemon:tyrantrum.geo",
+      "texture": "cobblemon:textures/pokemon/tyrantrum/tyrantrum.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/tyrantrum/tyrantrum_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.aurorus.ground_idle": {
+			"loop": true,
+			"bones": {
+				"leg_back_left1": {
+					"rotation": [5, 0, 0]
+				},
+				"leg_back_left2": {
+					"rotation": [-12.5, 0, 0]
+				},
+				"foot_back_left": {
+					"rotation": [7.5, 0, 0]
+				},
+				"leg_front_left1": {
+					"rotation": [2.5, 0, 0]
+				},
+				"leg_front_left2": {
+					"rotation": [-12.5, 0, 0]
+				},
+				"foot_front_left": {
+					"rotation": [10, 0, 0]
+				},
+				"leg_back_right1": {
+					"rotation": [5, 0, 0]
+				},
+				"leg_back_right2": {
+					"rotation": [-12.5, 0, 0]
+				},
+				"foot_back_right": {
+					"rotation": [7.5, 0, 0]
+				},
+				"leg_front_right1": {
+					"rotation": [2.5, 0, 0]
+				},
+				"leg_front_right2": {
+					"rotation": [-12.5, 0, 0]
+				},
+				"foot_front_right": {
+					"rotation": [10, 0, 0]
+				},
+				"tail1": {
+					"rotation": [-2.5, 0, 0]
+				},
+				"tail2": {
+					"rotation": [2.5, 0, 0]
+				},
+				"tail3": {
+					"rotation": [7.5, 0, 0]
+				},
+				"tail4": {
+					"rotation": [7.5, 0, 0]
+				},
+				"tail5": {
+					"rotation": [10, 0, 0]
+				},
+				"tail6": {
+					"rotation": [20, 0, 0]
+				},
+				"tail7": {
+					"rotation": [22.5, 0, 0]
+				},
+				"tail8": {
+					"rotation": [27.5, 0, 0]
+				},
+				"tail9": {
+					"rotation": [12.5, 0, 0]
+				},
+				"tail10": {
+					"rotation": [44.97461, -0.34107, 0.09288]
+				},
+				"tail12": {
+					"rotation": [42.5, 0, 0]
+				},
+				"thumb_front_left": {
+					"rotation": [0, -42.5, 0]
+				},
+				"thumb_front_right": {
+					"rotation": [0, 42.5, 0]
+				},
+				"neck1": {
+					"rotation": [12.5, 0, 0]
+				},
+				"neck2": {
+					"rotation": [-2.5, 0, 0]
+				},
+				"neck3": {
+					"rotation": [-2.5, 0, 0]
+				},
+				"neck4": {
+					"rotation": [-2.5, 0, 0]
+				},
+				"neck5": {
+					"rotation": [0, 0, 0]
+				},
+				"head": {
+					"rotation": [5, 0, 0]
+				},
+				"tail11": {
+					"rotation": [32.5, 0, 0]
+				},
+				"head_sail_left1": {
+					"rotation": [0, 2.5, 7.5]
+				},
+				"head_sail_left3": {
+					"rotation": [0, 7.5, 0]
+				},
+				"head_sail_left4": {
+					"rotation": [0, 27.5, 7.5]
+				},
+				"head_sail_left6": {
+					"rotation": [0, 22.5, 5]
+				},
+				"head_sail_left8": {
+					"rotation": [0, 15, 5]
+				},
+				"head_sail_left10": {
+					"rotation": [0, 10, 2.5]
+				},
+				"head_sail_left12": {
+					"rotation": [0, 7.5, 0]
+				},
+				"head_sail_left2": {
+					"rotation": [-2.75806, 24.97457, -1.16524]
+				},
+				"head_sail_left5": {
+					"rotation": [0, 10, 0]
+				},
+				"head_sail_left7": {
+					"rotation": [0, 12.5, 0]
+				},
+				"head_sail_left9": {
+					"rotation": [0, 15, 0]
+				},
+				"head_sail_left11": {
+					"rotation": [0, 5, 0]
+				},
+				"head_sail_right4": {
+					"rotation": [0, -27.5, -7.5]
+				},
+				"head_sail_right5": {
+					"rotation": [0, -10, 0]
+				},
+				"head_sail_right1": {
+					"rotation": [0, -2.5, -7.5]
+				},
+				"head_sail_right2": {
+					"rotation": [-2.75806, -24.97457, 1.16524]
+				},
+				"head_sail_right3": {
+					"rotation": [0, -7.5, 0]
+				},
+				"head_sail_right6": {
+					"rotation": [0, -22.5, -5]
+				},
+				"head_sail_right7": {
+					"rotation": [0, -12.5, 0]
+				},
+				"head_sail_right8": {
+					"rotation": [0, -15, -5]
+				},
+				"head_sail_right9": {
+					"rotation": [0, -15, 0]
+				},
+				"head_sail_right10": {
+					"rotation": [0, -10, -2.5]
+				},
+				"head_sail_right11": {
+					"rotation": [0, -5, 0]
+				},
+				"head_sail_right12": {
+					"rotation": [0, -7.5, 0]
+				},
+				"tail14": {
+					"rotation": [44.97764, 0.25733, -0.20687]
+				},
+				"tail15": {
+					"rotation": [32.5, 0, 0]
+				},
+				"tail16": {
+					"rotation": [45, 0, 0]
+				}
+			}
+		},
+		"animation.aurorus.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0, 0],
+						"0.125": [-0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_left": {
+					"position": {
+						"0.0": [0.1, 0, 0],
+						"0.125": [0.1, 0, 0],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.aurorus.scale": {
+			"loop": true,
+			"bones": {
+				"aurorus": {
+					"scale": 1.25
+				}
+			}
+		}
+	}
+}

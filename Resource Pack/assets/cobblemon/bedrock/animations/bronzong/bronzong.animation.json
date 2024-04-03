@@ -1,0 +1,90 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.bronzong.faint": {
+			"loop": true
+		},
+		"animation.bronzong.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["math.sin(q.anim_time*90*1+90)*-2", "math.sin(q.anim_time*90*1+0)*2", "math.sin(q.anim_time*90*1+0)*-3"]
+				},
+				"arm_right": {
+					"rotation": [0, 0, "-65+math.sin(q.anim_time*90*1+90)*2"]
+				},
+				"arm_right2": {
+					"rotation": [0, 0, "2+math.sin(q.anim_time*90*1+30)*3"]
+				},
+				"arm_right3": {
+					"rotation": [0, 0, "2+math.sin(q.anim_time*90*1-30)*3"]
+				},
+				"arm_left": {
+					"rotation": [0, 0, "65+math.sin(q.anim_time*90*1+-90)*2"]
+				},
+				"arm_left2": {
+					"rotation": [0, 0, "-2+math.sin(q.anim_time*90*1-150)*3"]
+				},
+				"arm_left3": {
+					"rotation": [0, 0, "-2+math.sin(q.anim_time*90*1+150)*3"]
+				}
+			}
+		},
+		"animation.bronzong.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": ["7.5+math.sin(q.anim_time*90*1.5+90)*-4", 0, 0],
+					"position": [0, "0.5+math.sin(q.anim_time*90*1.5+0)*0.5", "-2+math.sin(q.anim_time*90*1.5+90)*0.5"]
+				},
+				"arm_right": {
+					"rotation": [0, 0, 3]
+				},
+				"arm_right2": {
+					"rotation": ["-8+math.sin(q.anim_time*90*2+90)*3", 0, 3]
+				},
+				"arm_right3": {
+					"rotation": ["-8+math.sin(q.anim_time*90*2+90)*3", 0, 3]
+				},
+				"arm_left": {
+					"rotation": [0, 0, -3]
+				},
+				"arm_left2": {
+					"rotation": ["-8+math.sin(q.anim_time*90*2+90)*3", 0, -3]
+				},
+				"arm_left3": {
+					"rotation": ["-8+math.sin(q.anim_time*90*2+90)*3", 0, -3]
+				}
+			}
+		},
+		"animation.bronzong.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"eyes": {
+					"position": {
+						"0.0": [0, 0, -2],
+						"0.125": [0, 0, -2],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.bronzong.sleep": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"position": [0, -5.5, 0]
+				},
+				"eyes": {
+					"position": [0, 0, -2]
+				},
+				"arm_right": {
+					"rotation": [0, 0, -73]
+				},
+				"arm_left": {
+					"rotation": [0, 0, 73]
+				}
+			}
+		}
+	}
+}

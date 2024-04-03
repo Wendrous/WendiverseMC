@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:cranidos",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cranidos",
+      "model": "cobblemon:cranidos.geo",
+      "texture": "cobblemon:textures/pokemon/cranidos/cranidos.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/cranidos/cranidos_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.amaura.ground_idle": {
+			"loop": true,
+			"bones": {
+				"tail1": {
+					"rotation": [10, 0, 0]
+				},
+				"tail2": {
+					"rotation": [12.5, 0, 0]
+				},
+				"tail3": {
+					"rotation": [22.5, 0, 0]
+				},
+				"neck": {
+					"rotation": [5, 0, 0]
+				},
+				"neck2": {
+					"rotation": [-5, 0, 0]
+				},
+				"neck3": {
+					"rotation": [2.5, 0, 0]
+				},
+				"head": {
+					"rotation": [0, 0, 0]
+				},
+				"neck4": {
+					"rotation": [5, 0, 0]
+				}
+			}
+		},
+		"animation.amaura.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"eyelid_right": {
+					"position": {
+						"0.0": [-0.1, 0.1, -0.1],
+						"0.125": [-0.1, 0.1, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				},
+				"eyelid_left": {
+					"position": {
+						"0.0": [0.1, 0.1, -0.1],
+						"0.125": [0.1, 0.1, -0.1],
+						"0.1667": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.amaura.scale": {
+			"loop": true,
+			"bones": {
+				"amaura": {
+					"scale": 1.2
+				}
+			}
+		}
+	}
+}

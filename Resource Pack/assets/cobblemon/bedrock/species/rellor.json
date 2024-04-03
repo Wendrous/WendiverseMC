@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:rellor",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:rellor",
+      "model": "cobblemon:rellor.geo",
+      "texture": "cobblemon:textures/pokemon/rellor/rellor.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/rellor/rellor_shiny.png"
+    }
+  ]
+}

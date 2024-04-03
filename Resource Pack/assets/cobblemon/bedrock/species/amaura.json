@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:amaura",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amaura",
+      "model": "cobblemon:amaura.geo",
+      "texture": "cobblemon:textures/pokemon/amaura/amaura.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amaura/amaura_shiny.png"
+    }
+  ]
+}

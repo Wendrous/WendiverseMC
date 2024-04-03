@@ -1,6 +1,6 @@
 {
   "species": "cobblemon:tapukoko",
-  "order": 1,
+  "order": 0,
   "variations": [
     {
       "aspects": [],
@@ -10,8 +10,8 @@
       "layers": []
     },
     {
-      "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/tapukoko/tapukoko_shiny.png"
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/tapukoko/tapukoko.png"
     }
   ]
 }

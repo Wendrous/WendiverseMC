@@ -9,10 +9,10 @@
       "texture": "cobblemon:textures/pokemon/registeel/registeel.png",
       "layers": [
         {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/registeel/registeel_emissive.png",
-              "translucent": true
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/registeel/registeel_e.png",
+          "translucent": false
         }
       ]
     },
@@ -23,10 +23,10 @@
       "texture": "cobblemon:textures/pokemon/registeel/registeel_shiny.png",
       "layers": [
         {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/registeel/registeel_shiny_emissive.png",
-              "translucent": true
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/registeel/registeel_e.png",
+          "translucent": false
         }
       ]
     }

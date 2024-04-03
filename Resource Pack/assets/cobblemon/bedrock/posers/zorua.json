@@ -1,0 +1,50 @@
+{
+  "head": "head",
+  "portraitScale": 1.5,
+  "portraitTranslation": [0, 0, 0],
+  "profileScale": 1,
+  "profileTranslation": [0, 0.3, 0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": [
+        "look",
+        "bedrock(zorua, ground_idle)"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(zorua, blink)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": [
+        "bedrock(zorua, ground_walk)"
+      ]
+    } ,
+    "shoulder_left": {
+      "poseName": "shoulder_left",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_LEFT"],
+      "animations": [
+        "look",
+        "bedrock(zorua, shoulder_left)"
+      ]
+    },
+    "shoulder_right": {
+      "poseName": "shoulder_right",
+      "transformTicks": 10,
+      "poseTypes": ["SHOULDER_RIGHT"],
+      "animations": [
+        "look",
+        "bedrock(zorua, shoulder_right)"
+      ]
+    }
+  }
+}

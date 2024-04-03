@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:buzzwole",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:buzzwole",
+      "model": "cobblemon:buzzwole.geo",
+      "texture": "cobblemon:textures/pokemon/buzzwole/buzzwole.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/buzzwole/buzzwole_shiny.png"
+    }
+  ]
+}

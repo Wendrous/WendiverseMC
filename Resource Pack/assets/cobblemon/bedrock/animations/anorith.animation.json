@@ -1,0 +1,197 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.anorith.ground_idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": [7.5, 0, 0]
+				},
+				"mandible_arm_left": {
+					"rotation": [-130.06928, -34.22348, 16.36452],
+					"position": [0.5, 0.25, -1.25]
+				},
+				"mandible_arm_left2": {
+					"rotation": [2.53852, 9.99038, 0.44067]
+				},
+				"mandible_arm_left3": {
+					"rotation": [27.5, 0, 0]
+				},
+				"mandible_claw_left": {
+					"rotation": [30, 0, 0]
+				},
+				"mandible_arm_right": {
+					"rotation": [-130.06928, 34.2235, -16.3645],
+					"position": [-0.5, 0.25, -1.25]
+				},
+				"mandible_arm_right2": {
+					"rotation": [2.53852, -9.9904, -0.4407]
+				},
+				"mandible_arm_right3": {
+					"rotation": [27.5, 0, 0]
+				},
+				"mandible_claw_right": {
+					"rotation": [30, 0, 0]
+				},
+				"eye_stem_right": {
+					"rotation": [1.30962, 7.38542, 10.08453]
+				},
+				"eye_stem_left": {
+					"rotation": [1.30962, -7.3854, -10.0845]
+				},
+				"abdomen": {
+					"rotation": [0, 0, 0]
+				},
+				"wing_right": {
+					"rotation": [3.0921, -14.52561, -18.02627]
+				},
+				"wing_left": {
+					"rotation": [3.0921, 14.5256, 18.0263]
+				},
+				"abdomen2": {
+					"rotation": [-5, 0, 0]
+				},
+				"wing_right2": {
+					"rotation": [0, 0, -20]
+				},
+				"wing_left2": {
+					"rotation": [0, 0, 20]
+				},
+				"abdomen3": {
+					"rotation": [2.5, 0, 0]
+				},
+				"wing_right3": {
+					"rotation": [0, 10, -20]
+				},
+				"wing_left3": {
+					"rotation": [0, -10, 20]
+				},
+				"abdomen4": {
+					"rotation": [-7.5, 0, 0]
+				},
+				"wing_right4": {
+					"rotation": [6.21451, 19.66942, -13.03949]
+				},
+				"wing_left4": {
+					"rotation": [6.21451, -19.6694, 13.0395]
+				},
+				"tail": {
+					"rotation": [7.5, 0, 0]
+				},
+				"right_tail_fin": {
+					"rotation": [6.12673, 7.9185, 37.9244]
+				},
+				"left_tail_fin": {
+					"rotation": [6.12673, -7.9185, -37.92445]
+				}
+			}
+		},
+		"animation.anorith.render": {
+			"loop": true,
+			"bones": {
+				"anorith": {
+					"rotation": [0, "0-query.anim_time*90*0.2", 0]
+				},
+				"body": {
+					"rotation": [38.25563, -12.70001, 15.57939],
+					"position": [0, 5, 0]
+				},
+				"head": {
+					"rotation": [17.25481, 10.30055, -0.29332],
+					"position": [0, 0.25, 0]
+				},
+				"eye_stem_left": {
+					"rotation": [-1.75378, 9.8466, -10.1511]
+				},
+				"abdomen": {
+					"rotation": [0, 10, 0]
+				},
+				"wing_right": {
+					"rotation": [-7.99147, -4.2012, 39.8405]
+				},
+				"wing_left": {
+					"rotation": [-7.99147, 4.20121, -39.84049]
+				},
+				"abdomen2": {
+					"rotation": [-22.85767, -10.18743, 1.5583]
+				},
+				"wing_right2": {
+					"rotation": [5.07013, -20.4083, 9.8031]
+				},
+				"wing_left2": {
+					"rotation": [5.07013, 20.40832, -9.80312]
+				},
+				"abdomen3": {
+					"rotation": [-27.59344, -6.74201, -2.12191]
+				},
+				"wing_right3": {
+					"rotation": [0, 0, -20]
+				},
+				"wing_left3": {
+					"rotation": [0, 0, 20]
+				},
+				"abdomen4": {
+					"rotation": [-21.64658, -4.39114, 4.30386]
+				},
+				"wing_right4": {
+					"rotation": [-3.48645, 34.7767, -8.9251]
+				},
+				"wing_left4": {
+					"rotation": [-3.48645, -34.77674, 8.92514]
+				},
+				"tail": {
+					"rotation": [-28.32159, -13.27207, 7.05309]
+				},
+				"right_tail_fin": {
+					"rotation": [0, 0, 62.5]
+				},
+				"left_tail_fin": {
+					"rotation": [0, 0, -52.5]
+				},
+				"mandible_arm_right": {
+					"rotation": [-15.07507, 60.7544, 25.7822]
+				},
+				"mandible_arm_right2": {
+					"rotation": [25, 0, 0]
+				},
+				"mandible_arm_right3": {
+					"rotation": [30, 0, 0]
+				},
+				"mandible_claw_right": {
+					"rotation": [42.5, 0, 0]
+				},
+				"mandible_arm_left": {
+					"rotation": [-15.07507, -60.7544, -25.7822]
+				},
+				"mandible_arm_left2": {
+					"rotation": [25, 0, 0]
+				},
+				"mandible_arm_left3": {
+					"rotation": [30, 0, 0]
+				},
+				"mandible_claw_left": {
+					"rotation": [42.5, 0, 0]
+				}
+			}
+		},
+		"animation.anorith.blink": {
+			"animation_length": 0.16667,
+			"bones": {
+				"right_pupil": {
+					"scale": {
+						"0.0": [1.7, 0.5, 1],
+						"0.125": [1.7, 0.5, 1],
+						"0.1667": [1, 1, 1]
+					}
+				},
+				"left_pupil": {
+					"scale": {
+						"0.0": [1.7, 0.5, 1],
+						"0.125": [1.7, 0.5, 1],
+						"0.1667": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

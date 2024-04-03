@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:anorith",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:anorith",
+      "model": "cobblemon:anorith.geo",
+      "texture": "cobblemon:textures/pokemon/anorith/anorith.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/anorith/anorith_shiny.png"
+    }
+  ]
+}

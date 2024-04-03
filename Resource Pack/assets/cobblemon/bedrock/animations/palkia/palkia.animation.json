@@ -1,0 +1,101 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.palkia.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [5, 0, 0],
+					"position": [0, "-0.1*(math.sin(q.anim_time*90*2)*3+1)", 0]
+				},
+				"tail1": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)*2", 0, 0]
+				},
+				"tail2": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"tail3": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"tail4": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"shoulder": {
+					"rotation": [10, 0, "(math.sin(q.anim_time*90*3)*1+1)"]
+				},
+				"arm": {
+					"rotation": [0, 0, 0]
+				},
+				"shoulder2": {
+					"rotation": [10, 0, "-(math.sin(q.anim_time*90*3)*1+1)"]
+				},
+				"left_leg": {
+					"rotation": ["-math.sin(q.anim_time*90*2)", 0, 0]
+				},
+				"right_leg": {
+					"rotation": ["math.sin(q.anim_time*90*2)", 0, 0]
+				},
+				"tail5": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)*4+12", 0, 0]
+				},
+				"left_wing": {
+					"rotation": [0, "math.sin(query.anim_time*90*2)", 0]
+				},
+				"right_wing": {
+					"rotation": [0, "-math.sin(query.anim_time*90*2)", 0]
+				}
+			}
+		},
+		"animation.palkia.ground_walk": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [5, 0, 0],
+					"position": [0, "-0.1*(math.sin(q.anim_time*90*2)*3+1)", 0]
+				},
+				"tail1": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)*2", 0, 0]
+				},
+				"tail2": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"tail3": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"tail4": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)", 0, 0]
+				},
+				"shoulder": {
+					"rotation": [10, 0, "(math.sin(q.anim_time*90*3)*1+1)"]
+				},
+				"arm": {
+					"rotation": [0, 0, 0]
+				},
+				"shoulder2": {
+					"rotation": [10, 0, "-(math.sin(q.anim_time*90*3)*1+1)"]
+				},
+				"left_leg": {
+					"rotation": ["-math.sin(q.anim_time*90*2)", 0, 0]
+				},
+				"right_leg": {
+					"rotation": ["math.sin(q.anim_time*90*2)", 0, 0]
+				},
+				"tail5": {
+					"rotation": ["math.sin(query.anim_time*90*1.5)*4+12", 0, 0]
+				},
+				"left_wing": {
+					"rotation": [0, "math.sin(query.anim_time*90*2)", 0]
+				},
+				"right_wing": {
+					"rotation": [0, "-math.sin(query.anim_time*90*2)", 0]
+				}
+			}
+		},
+		"animation.palkia.faint": {
+			"loop": true
+		},
+		"animation.palkia.blink": {
+			"loop": true
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:armaldo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:armaldo",
+      "model": "cobblemon:armaldo.geo",
+      "texture": "cobblemon:textures/pokemon/armaldo/armaldo.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/armaldo/armaldo_shiny.png"
+    }
+  ]
+}

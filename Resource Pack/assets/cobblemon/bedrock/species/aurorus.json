@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:aurorus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:aurorus",
+      "model": "cobblemon:aurorus.geo",
+      "texture": "cobblemon:textures/pokemon/aurorus/aurorus.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/aurorus/aurorus_shiny.png"
+    }
+  ]
+}
