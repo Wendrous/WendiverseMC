@@ -24,6 +24,9 @@
     "sounds": [ "cobblemon:pokemon/terrakion/terrakion_cry" ]
   },
   "pokemon.virizion.cry": {
-    "sounds": [ "cobblemon:pokemon/terrakion/virizion_cry" ]
+    "sounds": [ "cobblemon:pokemon/virizion/virizion_cry" ]
+  },
+  "pokemon.sneasler.cry": {
+    "sounds": [ "cobblemon:pokemon/sneasler/sneasler_cry" ]
   }
 }

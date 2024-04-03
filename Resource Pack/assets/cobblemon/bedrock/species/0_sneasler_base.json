@@ -7,28 +7,13 @@
       "poser": "cobblemon:sneasler",
       "model": "cobblemon:sneasler.geo",
       "texture": "cobblemon:textures/pokemon/sneasler/sneasler.png",
-      "layers": [
-        {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/sneasler/sneasler_emissive.png",
-              "translucent": true
-        }
-      ]
+      "layers": []
     },
+
     {
-      "aspects": [
-        "shiny"
-      ],
+      "aspects": [ "shiny" ],
       "texture": "cobblemon:textures/pokemon/sneasler/sneasler_shiny.png",
-      "layers": [
-        {
-              "name": "emissive",
-              "emissive": true,
-              "texture": "cobblemon:textures/pokemon/sneasler/sneasler_shiny_emissive.png",
-              "translucent": true
-        }
-      ]
+      "layers": []
     }
   ]
 }
