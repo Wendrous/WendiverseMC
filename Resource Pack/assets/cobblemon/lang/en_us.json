@@ -1,10 +1,6 @@
 {
 	"cobblemon.species.regigigas.name": "Regigigas",
 	"cobblemon.species.eronze.name": "Eronze",
-	"cobblemon.species.deoxys.name": "Deoxys",
-	"cobblemon.species.deoxysattack.name": "Deoxys-Attack",	
-	"cobblemon.species.deoxysdefense.name": "Deoxys-Defense",
-	"cobblemon.species.deoxysspeed.name": "Deoxys-Speed",
 	"cobblemon.species.gengarx.name": "Gengar X",
 	"cobblemon.species.ironmoth.name": "Iron Moth",
 	"cobblemon.species.tapukoko.name": "Tapu Koko",
@@ -57,8 +53,6 @@
 	"cobblemon.species.regigigas.desc2": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
 
 	"cobblemon.species.eronze.desc1": "Eronze's body is made from an ancient metal alloy lost to modern science. It can withstand intense heat and force without the slightest bit of damage.",
-	"cobblemon.species.deoxys.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
-	"cobblemon.species.deoxys.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
 	"cobblemon.species.gengarx.desc1": "Because its intelligence is exceptional, Gengar can communicate with any form of life. However, it uses this gift for not-so-ethical purposes.",
 	"cobblemon.species.ironmoth.desc1": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity.",
 	"cobblemon.species.ironmoth.desc2": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.",
@@ -161,10 +155,24 @@
 	"cobblemon.species.bongbong.desc": "A special agent from Lobotomy Corporation. It's said that it joined the company in search of the hot Fixer, but hardly anyone knows what that means.",
 
 	"cobblemon.species.buzzwole.name": "Buzzwole",
-	"cobblemon.species.buzzwole.desc1": "Although it’s alien to this world and a danger here",
-	"cobblemon.species.buzzwole.desc2": "it’s apparently a common organism in the world where it normally lives.",
+	"cobblemon.species.buzzwole.desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
 
 	"cobblemon.species.yveltal.name": "Yveltal",
-	"cobblemon.species.yveltal.desc1": "When its life comes to an end, it absorbs the life energy of ",
-	"cobblemon.species.yveltal.desc2": "every living thing and turns into a cocoon once more."
+	"cobblemon.species.yveltal.desc": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+
+	"cobblemon.species.deoxys.name": "Deoxys",
+	"cobblemon.species.deoxys.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+	"cobblemon.species.deoxys.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+	"cobblemon.species.deoxysattack.name": "Deoxys",
+	"cobblemon.species.deoxysattack.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+	"cobblemon.species.deoxysattack.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+	"cobblemon.species.deoxysdefense.name": "Deoxys",
+	"cobblemon.species.deoxysdefense.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+	"cobblemon.species.deoxysdefense.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+	"cobblemon.species.deoxysspeed.name": "Deoxys",
+	"cobblemon.species.deoxysspeed.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+	"cobblemon.species.deoxysspeed.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
 }

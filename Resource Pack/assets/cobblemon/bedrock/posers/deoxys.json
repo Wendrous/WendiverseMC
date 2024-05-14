@@ -1,53 +1,44 @@
 {
   "head": "head",
-  "portraitScale": 0.7,
-  "portraitTranslation": [ 
-	0,
-	2.35,
-	0
-  ],
-  "profileScale": 0.3,
-  "profileTranslation": [
-	0,
-	1.50,
-	0 
-  ],
+  "portraitScale": 1.5,
+  "portraitTranslation": [0, 3.5, 0],
+  "profileScale": 0.4,
+  "profileTranslation": [0, 1.2, 0],
   "faint": "bedrock(deoxys, faint)",
   "poses": {
+      "battle-idle": {
+      "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [ "look", "bedrock(deoxys, battle_stance)" ]
+    },
+    "hover": {
+      "poseName": "hover",
+      "transformTicks": 5,
+      "poseTypes": [ "FLY", "HOVER", "FLOAT" ],
+      "animations": [ "look", "bedrock(deoxys, ground_walk)" ]
+},
     "standing": {
       "poseName": "standing",
       "transformTicks": 10,
-      "poseTypes": [
-        "STAND",
-        "NONE",
-        "PORTRAIT",
-        "PROFILE"
-      ],
-      "animations": [
-        "bedrock(deoxys, ground_idle)"
-      ]
+      "poseTypes": [ "STAND", "NONE", "PORTRAIT", "PROFILE" ],
+      "isBattle": false,
+      "animations": [ "look", "bedrock(deoxys, ground_idle)" ]
     },
     "walking": {
       "poseName": "walking",
-      "transformTicks": 10,
-      "poseTypes": [ "WALK" ],
-      "animations": [ 
-        "bedrock(deoxys, ground_walk)"
+      "transformTicks": 8,
+      "poseTypes": [ "WALK", "SWIM", "FLOAT" ],
+      "isBattle": false,
+      "animations": ["look", "bedrock(deoxys, ground_walk)"
       ]
     },
-    "hovering": {
-      "poseName": "hovering",
+    "sleeping": {
+      "poseName": "sleeping",
       "transformTicks": 10,
-      "poseTypes": [ "HOVER" ],
-      "animations": [   
-        "bedrock(deoxys, ground_idle)" ]
-    },
-    "flying": {
-      "poseName": "flying",
-      "transformTicks": 10,
-      "poseTypes": [ "FLY" ],
-      "animations": [   
-        "bedrock(deoxys, ground_walk)" ]
+      "poseTypes": [ "SLEEP" ],
+      "animations": ["bedrock(deoxys, sleep)"]
     }
   }
-}
+} 
