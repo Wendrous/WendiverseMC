@@ -1,0 +1,85 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [-0.7, 0, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0, 0.8, 0],
+  "faint": "bedrock(mareanie, faint)",
+  "poses": {
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "isTouchingWater": false,
+      "transformedParts": [],
+      "animations": ["bedrock(mareanie, battle_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "loopTimes": 5,
+          "minSecondsBetweenOccurrences": 8,
+          "maxSecondsBetweenOccurrences": 20,
+          "animations": ["bedrock(mareanie, blink)"]
+        }
+      ]
+    },
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["look", "bedrock(mareanie, ground_idle)"]
+    ,
+    "quirks": [
+      {
+        "name": "blink",
+        "animations": ["bedrock(mareanie, blink)"]
+      }
+    ]
+  },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": ["bedrock(mareanie, ground_walk)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(mareanie, blink)"]
+        }
+      ]
+    },
+  "sleeping": {
+      "poseName": "sleeping",
+      "transformTicks": 10,
+      "poseTypes": ["SLEEP"],
+      "animations": [
+        "bedrock(mareanie, sleep)"
+      ]
+     },
+	     "floating": {
+      "poseName": "floating",
+      "transformTicks": 10,
+      "poseTypes": ["FLOAT"],
+      "animations": ["bedrock(mareanie, ground_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(mareanie, blink)"]
+        }
+      ]
+    },
+    "swimming": {
+      "poseName": "swimming",
+      "transformTicks": 10,
+      "poseTypes": ["SWIM"],
+      "animations": ["bedrock(mareanie, ground_walk)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(mareanie, blink)"]
+        }
+      ]
+    }
+  }
+}

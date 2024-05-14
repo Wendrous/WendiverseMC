@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:mareanie",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:mareanie",
+      "model": "cobblemon:mareanie.geo",
+      "texture": "cobblemon:textures/pokemon/mareanie/mareanie.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/mareanie/mareanie_emissive.png",
+              "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/mareanie/mareanie_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/mareanie/mareanie_shiny_emissive.png",
+              "translucent": false
+        }
+      ]
+    }
+  ]
+}
