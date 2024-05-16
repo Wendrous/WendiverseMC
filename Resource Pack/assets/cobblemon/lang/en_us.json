@@ -174,47 +174,47 @@
 
 	"cobblemon.species.deoxysspeed.name": "Deoxys",
 	"cobblemon.species.deoxysspeed.desc1": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
-	"cobblemon.species.deoxysspeed.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen."
-    "cobblemon.species.palafinhero.name": "Palafin",
-    "cobblemon.species.palafinhero.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
-    "cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+	"cobblemon.species.deoxysspeed.desc2": "DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.",
+
+	"cobblemon.species.palafinhero.name": "Palafin",
+	cobblemon.species.palafinhero.desc1": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",
+	"cobblemon.species.palafinhero.desc2": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
 	
 	"cobblemon.species.poltchageist.name": "Poltchageist",
-    "cobblemon.species.poltchageist.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
-    "cobblemon.species.poltchageist.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+	"cobblemon.species.poltchageist.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
+	"cobblemon.species.poltchageist.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
 	
 	"cobblemon.species.dipplin.name": "Dipplin",
-    "cobblemon.species.dipplin.desc1": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
-    "cobblemon.species.dipplin.desc2": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+	"cobblemon.species.dipplin.desc1": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",
+	"cobblemon.species.dipplin.desc2": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
 	
 	"cobblemon.species.sinistcha.name": "Sinistcha",
-    "cobblemon.species.sinistcha.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
-    "cobblemon.species.sinistcha.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+	"cobblemon.species.sinistcha.desc1": "Trainers poltchageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its green tea.",
+	"cobblemon.species.sinistcha.desc2": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
 	
 	"cobblemon.species.pecharunt.name": "Pecharunt",
-    "cobblemon.species.pecharunt.desc1": "Undiscovered",
-    "cobblemon.species.pecharunt.desc2": "Undiscovered",
+	"cobblemon.species.pecharunt.desc1": "Undiscovered",
+	"cobblemon.species.pecharunt.desc2": "Undiscovered",
 	
-		
 	"cobblemon.species.ogerpon.name": "Ogerpon",
-    "cobblemon.species.ogerpon.desc1": "Undiscovered",
-    "cobblemon.species.ogerpon.desc2": "Undiscovered",
+	"cobblemon.species.ogerpon.desc1": "Undiscovered",
+	"cobblemon.species.ogerpon.desc2": "Undiscovered",
 	
 	"cobblemon.species.ogerponteal.name": "Ogerpon",
-    "cobblemon.species.ogerponteal.desc1": "Undiscovered",
-    "cobblemon.species.ogerponteal.desc2": "Undiscovered",
+	"cobblemon.species.ogerponteal.desc1": "Undiscovered",
+	"cobblemon.species.ogerponteal.desc2": "Undiscovered",
 	
 	"cobblemon.species.ogerponfire.name": "Ogerpon",
-    "cobblemon.species.ogerponfire.desc1": "Undiscovered",
-    "cobblemon.species.ogerponfire.desc2": "Undiscovered",
+	"cobblemon.species.ogerponfire.desc1": "Undiscovered",
+	"cobblemon.species.ogerponfire.desc2": "Undiscovered",
 	
 	"cobblemon.species.ogerponwater.name": "Ogerpon",
-    "cobblemon.species.ogerponwater.desc1": "Undiscovered",
-    "cobblemon.species.ogerponwater.desc2": "Undiscovered",
+	"cobblemon.species.ogerponwater.desc1": "Undiscovered",
+	"cobblemon.species.ogerponwater.desc2": "Undiscovered",
 	
 	"cobblemon.species.ogerponrock.name": "Ogerpon",
-    "cobblemon.species.ogerponrock.desc1": "Undiscovered",
-    "cobblemon.species.ogerponeock.desc2": "Undiscovered",
+	"cobblemon.species.ogerponrock.desc1": "Undiscovered",
+	"cobblemon.species.ogerponeock.desc2": "Undiscovered",
 	
 	"cobblemon.move.ivycudgel": "Ivy Cudgel"
 }
