@@ -9,9 +9,25 @@
       "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2.png",
       "layers": [
         {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame1.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame2.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame3.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        },
+        {
           "name": "glow",
           "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_emissive.png",
-          "emissive": true
+          "emissive": true,
+          "translucent": true
         }
       ]
     },
@@ -21,6 +37,21 @@
       ],
       "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_shiny.png",
       "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame1.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame2.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame3.png",
+              "cobblemon:textures/pokemon/0006_charizard2/yflame/charizard2_flame4.png"
+            ],
+            "fps": 10,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        },
         {
           "name": "glow",
           "texture": "cobblemon:textures/pokemon/0006_charizard2/charizard2_emissive.png",
