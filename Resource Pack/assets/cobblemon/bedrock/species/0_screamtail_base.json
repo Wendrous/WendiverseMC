@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:screamtail",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:screamtail",
+      "model": "cobblemon:screamtail.geo",
+      "texture": "cobblemon:textures/pokemon/screamtail/screamtail.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/screamtail/screamtail_shiny.png"
+    }
+  ]
+}
