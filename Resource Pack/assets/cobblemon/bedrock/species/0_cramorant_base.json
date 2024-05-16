@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:cramorant",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cramorant",
+      "model": "cobblemon:cramorant.geo",
+      "texture": "cobblemon:textures/pokemon/cramorant/cramorant.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/cramorant/cramorant_shiny.png"
+    }
+  ]
+}

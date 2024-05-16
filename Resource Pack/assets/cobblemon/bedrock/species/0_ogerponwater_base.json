@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:ogerponwater",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ogerpon_water",
+      "model": "cobblemon:ogerpon_water.geo",
+      "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_water.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_emissive_water.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_water.png"
+    }
+  ]
+}

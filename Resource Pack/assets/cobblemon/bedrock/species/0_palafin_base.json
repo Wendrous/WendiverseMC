@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:palafin",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:palafin",
+      "model": "cobblemon:palafin.geo",
+      "texture": "cobblemon:textures/pokemon/palafin/palafin.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/palafin/palafin_shiny.png"
+    }
+  ]
+}

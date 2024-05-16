@@ -10,11 +10,10 @@
       "layers": []
     },
     {
-      "aspects": ["shiny"],
-      "poser": "cobblemon:melmetal",
-      "model": "cobblemon:melmetal.geo",
-      "texture": "cobblemon:textures/pokemon/melmetal/melmetal_shiny.png",
-      "layers": []
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/melmetal/melmetal_shiny.png"
     }
   ]
 }

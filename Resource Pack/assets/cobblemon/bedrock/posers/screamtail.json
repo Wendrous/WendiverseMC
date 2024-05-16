@@ -1,46 +1,44 @@
 {
-	"portraitScale": 1.5,
-	"portraitTranslation": [0, -0.5, 0],
-	"profileScale": 1,
-	"profileTranslation": [0, 0.3, 0],
-	"faint": "bedrock(screamtail, ground_idle)",
-	"poses": {
-		"standing": {
-			"poseName": "standing",
-			"transformTicks": 10,
-			"poseTypes": [
-				"STAND",
-				"NONE",
-				"PORTRAIT",
-				"PROFILE"
-			],
-			"animations": [
-				"bedrock(screamtail, ground_idle)"
-			]
+    "head": "head",
+	"portraitScale": 2.1,
+    "portraitTranslation": [ 0, -1.4, 0 ],
+    "profileScale": 1.0,
+    "profileTranslation": [ 0, 0.3, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(screamtail, ground_idle)"
+        ],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(screamtail, blink)"]
+          }
+		]		  
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(screamtail, ground_walk)" ]
 		},
-		"walking": {
-			"poseName": "walking",
-			"transformTicks": 10,
-			"poseTypes": [ "WALK" ],
-			"animations": [ "bedrock(screamtail, ground_walk)" ]
-		},
-		"hovering": {
-			"poseName": "hovering",
-			"transformTicks": 10,
-			"poseTypes": [ "HOVER" ],
-			"animations": [ "bedrock(screamtail, air_idle)" ]
-		  },
-		  "flying": {
-			"poseName": "flying",
-			"transformTicks": 10,
-			"poseTypes": [ "FLY" ],
-			"animations": [ "bedrock(screamtail, air_fly)" ]
-		  },
-		  "sleeping": {
-			"poseName": "sleeping",
-			"transformTicks": 10,
-			"poseTypes": [ "SLEEP" ],
-			"animations": [ "bedrock(screamtail, sleep)" ]
-		  }
-	}
-}
+    "sleeping": {
+      "poseName": "sleeping",
+      "transformTicks": 10,
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "bedrock(screamtail, sleep)"
+      ]
+		}
+      }
+    }

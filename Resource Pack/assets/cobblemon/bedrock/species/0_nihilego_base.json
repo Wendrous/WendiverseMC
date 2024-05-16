@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:nihilego",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:nihilego",
+      "model": "cobblemon:nihilego.geo",
+      "texture": "cobblemon:textures/pokemon/nihilego/nihilego.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/nihilego/nihilego_emissive.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/nihilego/nihilego_shiny.png"
+    }
+  ]
+}

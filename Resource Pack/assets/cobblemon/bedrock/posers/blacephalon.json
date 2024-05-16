@@ -1,0 +1,28 @@
+{
+    "head": "head",
+	"portraitScale": 1.8,
+    "portraitTranslation": [ 0, 8.6, 0 ],
+    "profileScale": 0.3,
+    "profileTranslation": [ 0, 1.4, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(blacephalon, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(blacephalon, ground_walk)" ]
+		}
+      }
+    }
