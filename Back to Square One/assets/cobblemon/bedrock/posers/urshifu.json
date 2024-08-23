@@ -1,0 +1,69 @@
+
+{
+  "head":"head",
+  "portraitScale": 1,
+  "portraitTranslation": [
+    0.1,
+    2.9,
+    0
+  ],
+  "profileScale": 0.5,
+  "profileTranslation": [
+    -0.05,
+    1,
+    0
+  ],
+  "cry": "bedrock(urshifu, cry)",
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": [
+        "STAND",
+        "NONE"
+      ],
+      "animations": [
+        "bedrock(urshifu, ground_idle)"
+      ],
+      "isBattle": false,
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(urshifu, blink)"
+          ]
+        }
+      ]
+    },
+    "battle-standing": {
+      "poseName": "battle-standing",
+      "poseTypes": [
+        "STAND",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": true,
+      "animations": [
+        "bedrock(urshifu, battle_idle)"
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "bedrock(urshifu, ground_walk)"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": [
+            "bedrock(urshifu, blink)"
+          ]
+        }
+      ]
+    }
+  }
+}

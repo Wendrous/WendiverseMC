@@ -1,0 +1,34 @@
+{
+    "species": "cobblemon:ironboulder",
+    "order": 0,
+    "variations": [
+      {
+        "aspects": [],
+        "poser": "cobblemon:ironboulder",
+        "model": "cobblemon:ironboulder.geo",
+        "texture": "cobblemon:textures/pokemon/ironboulder/ironboulder.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/ironboulder/ironboulder_emissive.png",
+            "translucent": true
+          }
+        ]
+      },
+
+      {
+        "aspects": [ "shiny" ],
+        "texture": "cobblemon:textures/pokemon/ironboulder/ironboulder.png",
+        "layers": [
+          {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/ironboulder/ironboulder_emissive.png",
+            "translucent": true
+         }
+        ]
+      }
+    ]
+  }
+  
