@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "By Mr.Ultra",
-        "pack_format": 15
-    }
+  "pack": {
+    "pack_format": 15,
+    "description": "Adds various mons into Cobblemon. Made by The Gaben"
+  }
 }
