@@ -7,6 +7,5 @@
 - Vivillon Pride Patterns
 - E19 Cobblemon Minimap Icons
 
-- Fresh Animations
 - Better Dogs
-- Stained Glass Ultra
+- Better Cats
