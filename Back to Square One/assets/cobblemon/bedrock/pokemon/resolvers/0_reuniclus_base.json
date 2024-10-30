@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:reuniclus",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "wavimons:reuniclus",
+      "model": "wavimons:reuniclus.geo",
+      "texture": "wavimons:textures/pokemon/reuniclus/reuniclus.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "wavimons:textures/pokemon/reuniclus/reuniclus_shiny.png"
+    }
+  ]
+}

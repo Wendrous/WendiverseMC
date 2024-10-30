@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:hoppip",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "wavimons:hoppip",
+      "model": "wavimons:hoppip.geo",
+      "texture": "wavimons:textures/pokemon/hoppip/hoppip.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "wavimons:textures/pokemon/hoppip/hoppip_shiny.png"
+    }
+  ]
+}

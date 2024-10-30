@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gothitelle",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "wavimons:gothitelle",
+      "model": "wavimons:gothitelle.geo",
+      "texture": "wavimons:textures/pokemon/gothitelle/gothitelle.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "wavimons:textures/pokemon/gothitelle/gothitelle_shiny.png"
+    }
+  ]
+}
