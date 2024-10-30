@@ -2,9 +2,9 @@
 - SaltMons
 - CloudMons
 - MoreMons
-
 - WaviMons
 - GenoMons
+
 - Vivillon Pride Patterns
 - E19 Cobblemon Minimap Icons
 
