@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:onix",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["crystal"],
+      "poser": "cobblemon:onix",
+      "model": "cobblemon:onix.geo",
+      "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal.png",
+      "layers": [
+        {
+          "name": "translucent",
+          "texture": "cobblemon:textures/pokemon/0095_onix/onix_crystal_translucent.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

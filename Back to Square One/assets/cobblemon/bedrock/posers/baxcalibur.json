@@ -1,0 +1,30 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [ -0.5, 3.25, 0.0],
+  "profileScale": 0.5,
+  "profileTranslation": [0, 1.1, 0.0],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": ["WALK",
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(baxcalibur, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "look",
+          "bedrock(baxcalibur, ground_walk)"
+        ]
+      }
+    }
+  }

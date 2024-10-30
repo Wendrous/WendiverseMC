@@ -1,0 +1,37 @@
+{
+    "head": "head",
+    "portraitScale": 0.5,
+    "portraitTranslation": [ 0, 3, 0 ],
+    "profileScale": 0.2,
+    "profileTranslation": [ 0, 1.5, 0 ],
+    "cry": "bedrock(necrozma, cry)",
+    "poses": {
+
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "look",
+          "bedrock(necrozma, ground_idle)"
+        ],
+        "quirks": []
+      },
+
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ 
+          "look",
+          "bedrock(necrozma, ground_walk)"
+        ],
+        "quirks": []
+      }
+    }
+  }

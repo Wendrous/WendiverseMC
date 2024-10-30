@@ -1,0 +1,63 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.chiyu.ground_idle": {
+			"loop": true,
+			"bones": {
+				"bone3": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.5) * 180) * 4", 0]
+				},
+				"bone5": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.8) * 180) * 4", 0]
+				},
+				"bone6": {
+					"rotation": [0, "0-Math.cos((query.anim_time - 0.8) * 180) * 4", 0]
+				},
+				"bone10": {
+					"rotation": ["0+Math.cos((query.anim_time - 0.2) * 180) * 2", "0+Math.cos((query.anim_time - 0.2) * 90) * 2", 0]
+				},
+				"bone14": {
+					"rotation": [0, 0, "0-Math.cos((query.anim_time - 0.8) * 180) * 4"]
+				},
+				"bone13": {
+					"rotation": [0, 0, "0+Math.cos((query.anim_time - 0.8) * 180) * 4"]
+				},
+				"bone11": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.2) * 90) * 2", 0]
+				},
+				"bone15": {
+					"rotation": [0, "0-Math.cos((query.anim_time - 0.5) * 180) * 4", 0]
+				}
+			}
+		},
+		"animation.chiyu.ground_walk": {
+			"loop": true,
+			"bones": {
+				"bone3": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.8) * 270) * 8", 0]
+				},
+				"bone5": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.8) * 270) * 8", 0]
+				},
+				"bone6": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.8) * 270) * 8", 0]
+				},
+				"bone10": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.2) * 270) * 8", 0]
+				},
+				"bone14": {
+					"rotation": [0, 0, "0-Math.cos((query.anim_time - 0.8) * 180) * 4"]
+				},
+				"bone13": {
+					"rotation": [0, 0, "0+Math.cos((query.anim_time - 0.8) * 180) * 4"]
+				},
+				"bone11": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.5) * 270) * 8", 0]
+				},
+				"bone15": {
+					"rotation": [0, "0+Math.cos((query.anim_time - 0.8) * 270) * 8", 0]
+				}
+			}
+		}
+	}
+}

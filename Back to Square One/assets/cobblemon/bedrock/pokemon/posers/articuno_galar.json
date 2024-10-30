@@ -1,0 +1,55 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [ 0, 3.5, 0 ],
+  "profileScale": 0.55,
+  "profileTranslation": [ 0, 1.25, 0 ],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+       "poseTypes": [
+        "STAND",
+		    "PROFILE",
+		    "NONE"
+      ],
+    "animations": [
+		"look",
+    "bedrock(articunogalar, air_idle)"
+      ]
+  },
+  	 "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+		  "look",
+      "bedrock(articunogalar, air_idle)"
+      ]
+  },
+  "hovering": {
+    "poseName": "hovering",
+    "transformTicks": 10,
+    "poseTypes": [
+      "HOVER"
+    ],
+    "animations": [
+    "look",
+    "bedrock(articunogalar, air_idle)"
+    ]
+},
+"flying": {
+  "poseName": "flying",
+  "transformTicks": 10,
+  "poseTypes": [
+    "FLY"
+  ],
+  "animations": [
+  "look",
+  "bedrock(articunogalar, air_idle)"
+  ]
+}
+}
+}

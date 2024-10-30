@@ -1,0 +1,33 @@
+{
+    "head": "head",
+    "portraitScale": 1.25,
+    "portraitTranslation": [ -0.5, 2.5, 0 ],
+    "profileScale": 0.5,
+    "profileTranslation": [ 0.05, 1.25, 0 ],
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "look",
+          "bedrock(ursaluna_bloodmoon, ground_idle)"
+        ],
+        "quirks": []
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "look",
+          "bedrock(ursaluna_bloodmoon, ground_walk)"
+        ]
+      }
+    }
+  }

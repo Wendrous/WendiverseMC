@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:cresselia",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:cresselia",
+			"model": "cobblemon:cresselia.geo",
+			"texture": "cobblemon:textures/pokemon/cresselia/cresselia.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/cresselia/cresselia_shiny.png"
+		}
+	]
+}

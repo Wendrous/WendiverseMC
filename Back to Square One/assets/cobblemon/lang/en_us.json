@@ -46,5 +46,12 @@
 	"cobblemon.species.meltan.desc2": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
 	"cobblemon.species.melmetal.name": "Melmetal",
 	"cobblemon.species.melmetal.desc1": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
-	"cobblemon.species.melmetal.desc2": "entrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon."
+	"cobblemon.species.melmetal.desc2": "entrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
+
+	"cobblemon.species.darmanitanzen.name": "Darmanitan",
+	"cobblemon.species.darmanitanzen.desc1": "Through meditation, it calms its raging spirit and hones its psychic powers.",
+	"cobblemon.species.darmanitanzen.desc2": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
+	"cobblemon.species.galardarmanitanzen.name": "Darmanitan",
+	"cobblemon.species.galardarmanitanzen.desc1": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
+	"cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt."
 }

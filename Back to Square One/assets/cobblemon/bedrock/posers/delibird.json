@@ -1,0 +1,22 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [0.15, 0, 0],
+  "profileScale": 1,
+  "profileTranslation": [0, 0.45, 0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["bedrock(delibird, ground_idle)"]
+    },
+    "walking": {
+      "poseName": "walking",
+      "poseTypes": ["WALK"],
+      "animations": [
+        "bedrock(delibird, ground_walk)"
+      ]
+    }
+  }
+}

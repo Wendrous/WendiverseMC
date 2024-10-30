@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:moltres",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:moltres2",
+      "model": "cobblemon:moltres2.geo",
+      "texture": "cobblemon:textures/pokemon/moltres/moltres2.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/moltres/moltres2_emissive.png",
+              "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/moltres/moltres2_shiny.png",
+      "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/moltres/moltres2_shiny_emissive.png",
+              "translucent": true
+        }
+      ]
+    }
+  ]
+}

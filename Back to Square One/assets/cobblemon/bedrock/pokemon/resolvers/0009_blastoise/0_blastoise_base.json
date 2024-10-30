@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:blastoise2",
+      "model": "cobblemon:blastoise2.geo",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise2/blastoise2.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise2/blastoise2_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.darkrai.ground_idle": {
+			"loop": true,
+			"bones": {
+				"bone5": {
+					"rotation": [0, 0, 75]
+				},
+				"bone6": {
+					"rotation": [36.25873, 58.39167, 40.73592],
+					"position": [0, 0, -1]
+				},
+				"bone27": {
+					"rotation": [0, 0, -20]
+				},
+				"bone28": {
+					"rotation": [-27.29887, -3.45533, -4.16067]
+				},
+				"bone29": {
+					"rotation": [-22.5, 0, 0],
+					"position": [0, 0.2, -0.2]
+				},
+				"bone31": {
+					"rotation": [27.5, 0, 0],
+					"position": [0, 0.2, 0]
+				},
+				"bone7": {
+					"rotation": [0, 0, -75]
+				},
+				"bone8": {
+					"rotation": [24.14611, -56.77406, -28.18679],
+					"position": [0, 0, -1]
+				},
+				"bone12": {
+					"rotation": [0, 0, 12.5]
+				},
+				"bone13": {
+					"rotation": [-27.14233, 4.59902, 8.88927]
+				},
+				"bone14": {
+					"rotation": [-30, 0, 0],
+					"position": [0, 0.5, 0]
+				},
+				"bone19": {
+					"rotation": [22.5, 0, 0],
+					"position": [0, 0.5, -0.25]
+				},
+				"tail": {
+					"rotation": [5, 0, 0]
+				},
+				"bone16": {
+					"rotation": [15, 0, 0]
+				},
+				"bone22": {
+					"rotation": [-22.5, 0, 0]
+				},
+				"darkrai": {
+					"position": [0, 3, 0]
+				}
+			}
+		}
+	}
+}
