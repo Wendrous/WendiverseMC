@@ -1,0 +1,110 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/wolf/wolf_armor.png",
+	"textureSize": [3002, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -10, -2],
+			"submodels": [
+				{
+					"id": "body_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 10, 2],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "body_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "mane",
+			"id": "mane",
+			"invertAxis": "xy",
+			"translate": [-1, -10, -2],
+			"submodels": [
+				{
+					"id": "mane_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 7.5, -0.5],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "mane_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"submodels": [
+								{
+									"id": "armor_heart_y",
+									"invertAxis": "xy",
+									"translate": [-0.5, -0.5, 16.4],
+									"submodels": [
+										{
+											"id": "armor_heart",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0],
+											"boxes": [
+												{"coordinates": [-2.5, -1, -2.5, 5, 1, 5], "textureOffset": [622, 7]}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"mane_rotation.rx": "torad(0)",
+					"armor_heart_y.rz": "-rot_y",
+					"armor_heart.rz": "(age * 0.1) + -torad(atan2(player_pos_z - pos_z, player_pos_x - pos_x) * 180 / pi)",
+					"armor_heart_y.tz": "torad(800) + sin(age * 0.2)"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}
