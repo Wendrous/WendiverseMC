@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 15,
-    "description": "This datapack adds various different Pokemon!"
-  }
+    "pack": {
+        "description": "\u00A74■ 1.9.2 BETA\u00A7r\n■ By FreshLX",
+        "pack_format": 15,
+        "supported_formats": {"min_inclusive": 15, "max_inclusive": 99}
+    }
 }

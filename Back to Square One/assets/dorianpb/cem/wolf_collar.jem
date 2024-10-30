@@ -1,0 +1,270 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [3002, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-1, -10.5, 7]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -10, -2],
+			"submodels": [
+				{
+					"id": "body_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 10, 2],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "body_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"body_rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "mane",
+			"id": "mane",
+			"invertAxis": "xy",
+			"translate": [-1, -10, -2],
+			"submodels": [
+				{
+					"id": "mane_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 7.5, -0.5],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "mane_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"submodels": [
+								{
+									"id": "afghanhound",
+									"invertAxis": "xy",
+									"translate": [0, -7.5, 0.5],
+									"submodels": [
+										{
+											"id": "afghan_head",
+											"invertAxis": "xy",
+											"translate": [0, 10.25, 8.5],
+											"submodels": [
+												{
+													"id": "poedel_head_rot2",
+													"invertAxis": "xy",
+													"translate": [-1, 2.25, 2.5],
+													"rotate": [90, 0, 0],
+													"submodels": [
+														{
+															"id": "afghan_head_snood_overlay",
+															"invertAxis": "xy",
+															"translate": [1, -12.5, -9],
+															"boxes": [
+																{"coordinates": [-2.5, 9.85, 5.5, 5, 5, 6], "textureOffset": [1839, 12], "sizeAdd": 0.15}
+															]
+														},
+														{
+															"id": "afghan_neck",
+															"invertAxis": "xy",
+															"translate": [0.5, -3.15, 1.5],
+															"rotate": [-27.5, 0, 0]
+														},
+														{
+															"id": "afghan_wig_right",
+															"invertAxis": "xy",
+															"translate": [1, 2.65, 0],
+															"rotate": [7.5, 0, 0],
+															"submodels": [
+																{
+																	"id": "snood",
+																	"invertAxis": "xy",
+																	"translate": [0, -15.25, -8.5],
+																	"submodels": [
+																		{
+																			"id": "snood_left",
+																			"invertAxis": "xy",
+																			"mirrorTexture": "u",
+																			"translate": [0, 0, 0],
+																			"boxes": [
+																				{"coordinates": [-3.5, 14.3956, 5.0968, 3, 2, 3], "textureOffset": [2048, 0]}
+																			],
+																			"submodels": [
+																				{
+																					"id": "snood_overlay_left",
+																					"invertAxis": "xy",
+																					"mirrorTexture": "u",
+																					"translate": [0, 0, 0],
+																					"boxes": [
+																						{"coordinates": [-3.5, 14.3956, 5.0968, 3, 2, 3], "textureOffset": [2028, 0], "sizeAdd": 0.15}
+																					]
+																				},
+																				{
+																					"id": "snood_overlay_right",
+																					"invertAxis": "xy",
+																					"translate": [0, 0, 0],
+																					"boxes": [
+																						{"coordinates": [0.5, 14.3956, 5.0968, 3, 2, 3], "textureOffset": [2028, 0], "sizeAdd": 0.15}
+																					]
+																				}
+																			]
+																		},
+																		{
+																			"id": "snood_right",
+																			"invertAxis": "xy",
+																			"translate": [0, 0, 0],
+																			"boxes": [
+																				{"coordinates": [0.5, 14.3956, 5.0968, 3, 2, 3], "textureOffset": [2048, 0]}
+																			]
+																		},
+																		{
+																			"id": "snood_mid",
+																			"invertAxis": "xy",
+																			"mirrorTexture": "u",
+																			"translate": [0, 0, 0],
+																			"boxes": [
+																				{"coordinates": [-0.5, 14.3956, 5.0968, 1, 1, 3], "textureOffset": [2040, 0]}
+																			]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"id": "oog4",
+															"invertAxis": "xy",
+															"translate": [0.7, -9.9, 5.8]
+														},
+														{
+															"id": "oog7",
+															"invertAxis": "xy",
+															"translate": [1.55, -9.9, 5.8]
+														},
+														{
+															"id": "oor41",
+															"invertAxis": "xy",
+															"translate": [6.65, -1.5, 7.5],
+															"rotate": [0, 10, 0],
+															"submodels": [
+																{
+																	"id": "bone220",
+																	"invertAxis": "xy",
+																	"translate": [-0.4924, -3.5, -0.48682],
+																	"rotate": [-2.5, 0, -78.5]
+																}
+															]
+														},
+														{
+															"id": "oor48",
+															"invertAxis": "xy",
+															"translate": [6.65, -1.5, 7.5],
+															"rotate": [0, 10, 0],
+															"submodels": [
+																{
+																	"id": "bone221",
+																	"invertAxis": "xy",
+																	"translate": [-0.4924, -3.5, -0.48682],
+																	"rotate": [-2.5, 0, -78.5]
+																}
+															]
+														},
+														{
+															"id": "afghan_ear_left",
+															"invertAxis": "xy",
+															"translate": [-2.15, 2, -0.5],
+															"submodels": [
+																{
+																	"id": "bone218",
+																	"invertAxis": "xy",
+																	"translate": [0.5021, -2.05404, -0.50981],
+																	"rotate": [4.82834, -2.68283, 79.80017]
+																}
+															]
+														},
+														{
+															"id": "afghan_ear_right",
+															"invertAxis": "xy",
+															"translate": [4.15, 2, -0.5],
+															"submodels": [
+																{
+																	"id": "bone205",
+																	"invertAxis": "xy",
+																	"translate": [-0.5021, -2.05404, -0.50981],
+																	"rotate": [4.82834, 2.68283, -79.80017]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"mane_rotation.rx": "0",
+					"afghan_head.rz": "-head_yaw* 0.005",
+					"afghan_head.rx": "head_pitch* 0.01+if(body.rx<1, torad(0), 0)",
+					"afghan_head.sx": "if(is_child, torad(100), torad(55))",
+					"afghan_head.sy": "if(is_child, torad(100), torad(55))",
+					"afghan_head.sz": "if(is_child, torad(100), torad(55))",
+					"afghan_head.tz": "torad(500)+-sin(limb_swing*2)*limb_speed*0.5+if(body.rx<1, torad(-25),0)",
+					"afghan_ear_left.rz": "-sin(limb_swing)*limb_speed*0.05",
+					"afghan_ear_left.rx": "sin(limb_swing)*limb_speed*0.1",
+					"afghan_ear_left.ty": "torad(-150)+sin(limb_swing)*limb_speed*0.2",
+					"afghan_ear_right.rz": "sin(limb_swing)*limb_speed*0.05",
+					"afghan_ear_right.rx": "sin(limb_swing)*limb_speed*0.1",
+					"afghan_ear_right.ty": "torad(-150)+sin(limb_swing)*limb_speed*0.2",
+					"afghanhound.rx": "torad(0)+if(body.rx<1, torad(15), 0)",
+					"afghanhound.tz": "if(body.rx<1, torad(-100), 0)"
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-2.5, -8, -7]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0.5, -8, -7]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-2.5, -8, 4]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0.5, -8, 4]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [-1, -12, -10]
+		}
+	]
+}
