@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:lapras_hero",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:lapras_hero",
+      "model": "cobblemon:lapras_hero.geo",
+      "texture": "cobblemon:textures/pokemon/lapras_hero/lapras_hero.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/lapras_hero/lapras_hero_shiny.png"
+    }
+  ]
+}
