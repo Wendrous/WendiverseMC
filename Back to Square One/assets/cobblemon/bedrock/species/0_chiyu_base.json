@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:chiyu",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:chiyu",
+			"model": "cobblemon:chiyu.geo",
+			"texture": "cobblemon:textures/pokemon/chiyu/chi-yu.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/chiyu/chi-yu_shiny.png"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.ironmoth.ground_idle": {
+			"loop": true,
+			"bones": {
+				"body": {
+					"rotation": [10, 0, 0],
+					"position": [0, 4, 0]
+				},
+				"arm_top_right": {
+					"rotation": [0, 0, 5]
+				},
+				"neck": {
+					"rotation": [7.5, 0, 0]
+				},
+				"head": {
+					"rotation": [-5, 0, 0]
+				},
+				"tail": {
+					"rotation": [-5, 0, 0]
+				},
+				"tail_detail2": {
+					"rotation": [-7.5, 0, 0]
+				},
+				"tail_detail3": {
+					"rotation": [-5, 0, 0]
+				},
+				"tail2": {
+					"rotation": [-5, 0, 0]
+				}
+			}
+		}
+	}
+}

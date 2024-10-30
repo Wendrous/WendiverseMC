@@ -1,9 +1,11 @@
 - SaltMons
 - GabensMons
-- Fresh Animations
 - MoreMons
 - WaviMons
 - CloudMons
-
-- Better Dogs
+- GenoMons
+- Vivillon Pride Patterns
 - E19 Cobblemon Minimap Icons
+
+- Fresh Animations
+- Better Dogs

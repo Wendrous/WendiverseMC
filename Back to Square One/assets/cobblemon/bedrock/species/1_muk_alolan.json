@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:muk",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [
+        "alolan"
+      ],
+      "poser": "cobblemon:muk_alolan",
+      "model": "cobblemon:muk_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/muk/muk_alolan.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "alolan",
+        "shiny"
+      ],
+      "poser": "cobblemon:muk_alolan",
+      "model": "cobblemon:muk_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/muk/muk_alolan_shiny.png",
+      "layers": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [ -1.25, 2.5, 0.0],
+  "profileScale": 0.5,
+  "profileTranslation": [0, 1.1, 0.0],
+  "cry":  "bedrock(groudon, cry)",
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(groudon, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": ["WALK"],
+        "animations": [
+          "bedrock(groudon, ground_walk)"
+        ]
+      }
+    }
+  }

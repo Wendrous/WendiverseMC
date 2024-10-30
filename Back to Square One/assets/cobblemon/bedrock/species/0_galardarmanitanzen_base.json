@@ -1,0 +1,30 @@
+{
+	"species": "cobblemon:galardarmanitanzen",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:darmanitanzen",
+			"model": "cobblemon:galardarmanitanzen.geo",
+			"texture": "cobblemon:textures/pokemon/darmanitan/galardarmanitanzen.png",
+			"layers": [
+				{
+					"name": "glow",
+					"texture": "cobblemon:textures/pokemon/darmanitan/galardarmanitanzen_emissive.png",
+					"emissive": true
+				  }
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/darmanitan/galardarmanitanzen_shiny.png",
+			"layers": [
+				{
+					"name": "glow",
+					"texture": "cobblemon:textures/pokemon/darmanitan/galardarmanitanzen_emissive.png",
+					"emissive": true
+				  }
+			]
+		}
+	]
+}
