@@ -1,5 +1,8 @@
 - SaltMons
 - GabensMons
 - Fresh Animations
+- MoreMons
+- WaviMons
+
 - Better Dogs
 - E19 Cobblemon Minimap Icons
