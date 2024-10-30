@@ -1,0 +1,9 @@
+{    
+        "parent": "minecraft:block/slab",
+        "textures": {
+            "particle": "minecraft:block/yellow_stained_glass_preview",        
+            "bottom": "minecraft:block/yellow_stained_glass_preview",
+            "top": "minecraft:block/yellow_stained_glass_preview",
+            "side": "wunderreich:block/yellow_stained_glass_preview"
+        }    
+    }
