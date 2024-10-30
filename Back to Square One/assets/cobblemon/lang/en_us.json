@@ -53,5 +53,8 @@
 	"cobblemon.species.darmanitanzen.desc2": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
 	"cobblemon.species.galardarmanitanzen.name": "Darmanitan",
 	"cobblemon.species.galardarmanitanzen.desc1": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.",
-	"cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt."
+	"cobblemon.species.galardarmanitanzen.desc2": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.",
+
+	"advancements.vivillon_pride.catch_all_vivillon_but_pride": "Prideful Vivillionaire",
+	"advancements.vivillon_pride.catch_all_vivillon_but_pride.description": "Obtain all the Pride! <3"
 }

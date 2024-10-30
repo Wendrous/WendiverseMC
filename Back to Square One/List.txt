@@ -4,8 +4,8 @@
 - MoreMons
 - WaviMons
 - GenoMons
-
 - Vivillon Pride Patterns
+
 - E19 Cobblemon Minimap Icons
 
 - Fresh Animations
