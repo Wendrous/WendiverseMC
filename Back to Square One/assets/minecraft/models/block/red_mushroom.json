@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/red_mushroom",
+		"particle": "block/red_mushroom"
+	},
+	"elements": [
+		{
+			"name": "Stem",
+			"from": [7, 0, 7],
+			"to": [9, 3, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 3], "texture": "#0"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Cap1",
+			"from": [4, 3, 4],
+			"to": [12, 5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 9, 8, 11], "texture": "#0"},
+				"east": {"uv": [0, 9, 8, 11], "texture": "#0"},
+				"south": {"uv": [0, 9, 8, 11], "texture": "#0"},
+				"west": {"uv": [0, 9, 8, 11], "texture": "#0"},
+				"up": {"uv": [8, 0, 16, 8], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Cap2",
+			"from": [5, 5, 5],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 8, 7, 9], "texture": "#0"},
+				"east": {"uv": [1, 8, 7, 9], "texture": "#0"},
+				"south": {"uv": [1, 8, 7, 9], "texture": "#0"},
+				"west": {"uv": [1, 8, 7, 9], "texture": "#0"},
+				"up": {"uv": [9, 1, 15, 7], "texture": "#0"}
+			}
+		}
+	]
+}

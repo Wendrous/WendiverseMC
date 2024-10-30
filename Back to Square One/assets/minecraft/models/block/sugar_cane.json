@@ -1,0 +1,119 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/sugar_cane",
+		"particle": "block/sugar_cane"
+	},
+	"elements": [
+		{
+			"name": "StalkEW",
+			"from": [3, 0, 2],
+			"to": [5, 16, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkNS",
+			"from": [2, 0, 3],
+			"to": [6, 16, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkEW",
+			"from": [11, 0, 3],
+			"to": [13, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 5]},
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkNS",
+			"from": [10, 0, 4],
+			"to": [14, 16, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkEW",
+			"from": [4, 0, 10],
+			"to": [6, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 12]},
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkNS",
+			"from": [3, 0, 11],
+			"to": [7, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkEW",
+			"from": [10, 0, 9],
+			"to": [12, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 11]},
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "StalkNS",
+			"from": [9, 0, 10],
+			"to": [13, 16, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 4, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "SugarCane1",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		},
+		{
+			"name": "SugarCane2",
+			"origin": [8, 8, 8],
+			"children": [2, 3]
+		},
+		{
+			"name": "SugarCane3",
+			"origin": [8, 8, 8],
+			"children": [4, 5]
+		},
+		{
+			"name": "SugarCane4",
+			"origin": [8, 8, 8],
+			"children": [6, 7]
+		}
+	]
+}

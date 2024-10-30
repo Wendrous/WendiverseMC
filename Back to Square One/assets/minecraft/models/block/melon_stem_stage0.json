@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/melon_stem",
+		"particle": "block/melon_stem"
+	},
+	"elements": [
+		{
+			"name": "Stalk2",
+			"from": [9, -2, 7],
+			"to": [10, 1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.5, -0.5, 8]},
+			"faces": {
+				"north": {"uv": [6, 1, 7, 4], "texture": "#0", "tintindex": 0 },
+				"east": {"uv": [7, 13, 9, 16], "texture": "#0", "tintindex": 0 },
+				"south": {"uv": [7, 1, 6, 4], "texture": "#0", "tintindex": 0 },
+				"west": {"uv": [7, 5, 9, 8], "texture": "#0", "tintindex": 0 },
+				"up": {"uv": [6, 1, 7, 3], "texture": "#0", "tintindex": 0 },
+				"down": {"uv": [6, 2, 7, 4], "texture": "#0", "tintindex": 0 }
+			}
+		},
+		{
+			"name": "Stalk1",
+			"from": [8, -3, 7],
+			"to": [9, 0, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, -1.5, 8]},
+			"faces": {
+				"north": {"uv": [7, 2, 8, 5], "texture": "#0", "tintindex": 0 },
+				"east": {"uv": [7, 13, 9, 16], "texture": "#0", "tintindex": 0 },
+				"south": {"uv": [7, 2, 8, 5], "texture": "#0", "tintindex": 0 },
+				"west": {"uv": [7, 13, 9, 16], "texture": "#0", "tintindex": 0 },
+				"up": {"uv": [7, 2, 8, 4], "texture": "#0", "tintindex": 0 }
+			}
+		}
+	]
+}
