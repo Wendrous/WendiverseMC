@@ -3,6 +3,7 @@
 - Fresh Animations
 - MoreMons
 - WaviMons
+- CloudMons
 
 - Better Dogs
 - E19 Cobblemon Minimap Icons
