@@ -1,0 +1,107 @@
+{
+  "species": "cobblemon:timburr",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:timburr",
+      "model": "cobblemon:timburr.geo",
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "tree-oak"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr.png"
+    },
+    {
+      "aspects": [
+        "tree-spruce"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_spruce.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_spruce.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-acacia"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_acacia.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_acacia.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-birch"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_birch.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_birch.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-darkoak"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_dark_oak.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_dark_oak.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-jungle"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_jungle.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_jungle.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-mangrove"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_mangrove.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_mangrove.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-crimson"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_crimson.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_crimson.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "tree-warped"
+      ],
+      "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_tree_warped.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0532_timburr/timburr_warped.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:dodrio",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:dodrio_female.geo",
+      "texture": "cobblemon:textures/pokemon/0085_dodrio/dodrio_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0085_dodrio/dodrio_female_shiny.png"
+    }
+  ]
+}

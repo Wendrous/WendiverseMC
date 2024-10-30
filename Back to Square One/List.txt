@@ -2,3 +2,4 @@
 - GabensMons
 - Fresh Animations
 - Better Dogs
+- E19 Cobblemon Minimap Icons

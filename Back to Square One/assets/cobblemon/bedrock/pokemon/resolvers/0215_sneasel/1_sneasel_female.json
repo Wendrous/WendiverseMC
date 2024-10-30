@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:sneasel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:sneasel_female.geo",
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0215_sneasel/sneasel_female_shiny.png"
+    }
+  ]
+}

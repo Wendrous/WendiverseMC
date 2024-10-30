@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:oddish",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "valencian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0043_oddish/oddish_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0043_oddish/oddish_valencian_shiny.png"
+    }
+  ]
+}

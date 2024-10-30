@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:caterpie",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "valencian"
+      ],
+      "texture": "cobblemon:textures/pokemon/0010_caterpie/caterpie_valencian.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0010_caterpie/caterpie_valencian_shiny.png"
+    }
+  ]
+}

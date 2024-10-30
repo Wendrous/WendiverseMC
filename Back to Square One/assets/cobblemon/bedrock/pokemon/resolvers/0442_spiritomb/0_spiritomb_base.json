@@ -1,0 +1,44 @@
+{
+  "species": "cobblemon:spiritomb",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:spiritomb",
+      "model": "cobblemon:spiritomb.geo",
+      "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb.png",
+      "layers": [
+        {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_emissive.png",
+            "translucent": true
+        },
+        {
+          "name": "transparent_emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_transparency.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_shiny.png",
+      "layers": [
+        {
+            "name": "emissive",
+            "emissive": true,
+            "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_shiny_emissive.png",
+            "translucent": true
+        },
+        {
+          "name": "transparent_emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0442_spiritomb/spiritomb_shiny_transparency.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:cacturne",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:cacturne_female.geo",
+      "texture": "cobblemon:textures/pokemon/0332_cacturne/cacturne_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0332_cacturne/cacturne_female_shiny.png"
+    }
+  ]
+}

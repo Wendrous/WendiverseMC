@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:doduo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:doduo_female.geo",
+      "texture": "cobblemon:textures/pokemon/0084_doduo/doduo_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0084_doduo/doduo_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "species": "cobblemon:wooloo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_shiny.png"
+    },
+    {
+      "aspects": [
+        "color-black",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_black_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_black.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_blue_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_blue.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-brown",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_brown_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_brown.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-cyan",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_cyan_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_cyan.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-gray",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_gray_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_gray.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_green_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_green.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-light_blue",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_light_blue_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_light_blue.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-light_gray",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_light_gray_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_light_gray.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-lime",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_lime_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_lime.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-magenta",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_magenta_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_magenta.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-orange",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_orange_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_orange.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-pink",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_pink_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_pink.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-purple",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_purple_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_purple.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-red",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_red_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_red.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-white",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_white_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_white.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-yellow",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_yellow_shiny.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0831_wooloo/wooloo_wool_yellow.png",
+          "emissive": false
+        }
+      ]
+    }
+  ]
+}

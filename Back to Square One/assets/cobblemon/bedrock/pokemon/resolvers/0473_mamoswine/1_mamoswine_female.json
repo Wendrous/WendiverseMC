@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:mamoswine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:mamoswine_female.geo",
+      "texture": "cobblemon:textures/pokemon/0473_mamoswine/mamoswine_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0473_mamoswine/mamoswine_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:scyther",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:scyther_female.geo",
+      "texture": "cobblemon:textures/pokemon/0123_scyther/scyther_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0123_scyther/scyther_female_shiny.png"
+    }
+  ]
+}

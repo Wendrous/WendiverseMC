@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:luxray",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:luxray_female.geo",
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_female_shiny.png"
+    }
+  ]
+}

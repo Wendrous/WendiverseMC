@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:pikachu_female.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_female_shiny.png"
+    }
+  ]
+}
