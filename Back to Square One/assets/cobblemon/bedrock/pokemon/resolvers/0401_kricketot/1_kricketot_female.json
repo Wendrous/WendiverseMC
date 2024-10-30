@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:kricketot",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:kricketot_female.geo",
+      "texture": "cobblemon:textures/pokemon/0401_kricketot/kricketot_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0401_kricketot/kricketot_female_shiny.png"
+    }
+  ]
+}

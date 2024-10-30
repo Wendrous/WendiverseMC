@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:seaking",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:seaking_female.geo",
+      "texture": "cobblemon:textures/pokemon/0119_seaking/seaking_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0119_seaking/seaking_female_shiny.png"
+    }
+  ]
+}

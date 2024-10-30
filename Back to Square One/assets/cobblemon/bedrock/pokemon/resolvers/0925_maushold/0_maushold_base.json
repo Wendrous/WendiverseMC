@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:maushold",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:maushold",
+      "model": "cobblemon:maushold_three.geo",
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "species": "cobblemon:gholdengo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_shiny.png"
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage1_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer1.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage2_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer2.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage3",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage3_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer3.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage4",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage4_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer4.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage5",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage5_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer5.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage6",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage6_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer6.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-stage7",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_stage7_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_layer7.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "netherite-coating-full",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite_full_shiny.png",
+      "layers": [
+        {
+          "name": "netherite",
+          "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_netherite.png"
+        }
+      ]
+    }
+  ]
+}

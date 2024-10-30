@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:scyther",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:scyther",
+      "model": "cobblemon:scyther_male.geo",
+      "texture": "cobblemon:textures/pokemon/0123_scyther/scyther.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0123_scyther/scyther_shiny.png"
+    }
+  ]
+}

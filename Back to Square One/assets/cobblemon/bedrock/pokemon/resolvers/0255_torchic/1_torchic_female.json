@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:torchic",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:torchic_female.geo",
+      "texture": "cobblemon:textures/pokemon/0255_torchic/torchic_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0255_torchic/torchic_female_shiny.png"
+    }
+  ]
+}

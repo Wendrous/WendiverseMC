@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:alakazam",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:alakazam_female.geo",
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "species": "cobblemon:alcremie",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["decoration-love", "cream-vanilla"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_vanilla.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-ruby"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_ruby.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-matcha"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_matcha.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-mint"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_mint.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-lemon"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_lemon.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-salted"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_salted.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-ruby_swirl"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_rubyswirl.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-caramel_swirl"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_caramel.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "cream-rainbow_swirl"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_rainbowswirl.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    },
+    {
+      "aspects": ["decoration-love", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_shiny.png",
+      "layers": [
+        {
+          "name": "decoration",
+          "texture": "cobblemon:textures/pokemon/0869_alcremie/alcremie_heart_decoration.png",
+          "emissive": false
+        }
+      ]
+    }
+  ]
+}

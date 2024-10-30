@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:roselia",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["female"],
+      "model": "cobblemon:roselia_female.geo",
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0315_roselia/roselia_female_shiny.png"
+    }
+  ]
+}

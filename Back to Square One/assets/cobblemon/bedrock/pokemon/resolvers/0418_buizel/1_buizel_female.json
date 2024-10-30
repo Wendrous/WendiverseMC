@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:buizel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:buizel_female.geo",
+      "texture": "cobblemon:textures/pokemon/0418_buizel/buizel_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0418_buizel/buizel_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:nuzleaf",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:nuzleaf_female.geo",
+      "texture": "cobblemon:textures/pokemon/0274_nuzleaf/nuzleaf_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0274_nuzleaf/nuzleaf_female_shiny.png"
+    }
+  ]
+}

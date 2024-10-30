@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:butterfree",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "valencian",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_valencian_female.png"
+    },
+    {
+      "aspects": [
+        "valencian",
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0012_butterfree/butterfree_valencian_female_shiny.png"
+    }
+  ]
+}

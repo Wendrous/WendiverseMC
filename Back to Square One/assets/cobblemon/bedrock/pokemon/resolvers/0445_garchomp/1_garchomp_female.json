@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:garchomp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:garchomp_female.geo",
+      "texture": "cobblemon:textures/pokemon/0445_garchomp/garchomp_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0445_garchomp/garchomp_female_shiny.png"
+    }
+  ]
+}

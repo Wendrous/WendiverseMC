@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:xatu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:xatu_female.geo",
+      "texture": "cobblemon:textures/pokemon/0178_xatu/xatu_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0178_xatu/xatu_female_shiny.png"
+    }
+  ]
+}

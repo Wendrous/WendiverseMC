@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:ludicolo",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:ludicolo_female.geo",
+      "texture": "cobblemon:textures/pokemon/0272_ludicolo/ludicolo_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0272_ludicolo/ludicolo_female_shiny.png"
+    }
+  ]
+}

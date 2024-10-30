@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:golbat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:golbat_female.geo",
+      "texture": "cobblemon:textures/pokemon/0042_golbat/golbat_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:golbat_female.geo",
+      "texture": "cobblemon:textures/pokemon/0042_golbat/golbat_female_shiny.png"
+    }
+  ]
+}

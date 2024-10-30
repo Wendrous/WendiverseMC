@@ -1,0 +1,43 @@
+{
+  "species": "cobblemon:pumpkaboo",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:pumpkaboo",
+      "model": "cobblemon:pumpkaboo.geo",
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo.png",
+      "layers": [
+        {
+          "name": "color",
+          "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "pumpkin-size-small"
+      ],
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_small.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-average"
+      ],
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_average.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-large"
+      ],
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_large.png"
+    },
+    {
+      "aspects": [
+        "pumpkin-size-super"
+      ],
+      "texture": "cobblemon:textures/pokemon/0710_pumpkaboo/pumpkaboo_super.png"
+    }
+  ]
+}

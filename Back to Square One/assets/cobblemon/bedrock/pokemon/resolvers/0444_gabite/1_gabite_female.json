@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:gabite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:gabite_female.geo",
+      "texture": "cobblemon:textures/pokemon/0444_gabite/gabite_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0444_gabite/gabite_female_shiny.png"
+    }
+  ]
+}

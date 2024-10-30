@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:magikarp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:magikarp_female.geo",
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0129_magikarp/magikarp_female_shiny.png"
+    }
+  ]
+}

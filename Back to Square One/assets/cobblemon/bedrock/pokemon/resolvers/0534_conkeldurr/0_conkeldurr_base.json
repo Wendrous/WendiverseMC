@@ -1,0 +1,167 @@
+{
+  "species": "cobblemon:conkeldurr",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:conkeldurr",
+      "model": "cobblemon:conkeldurr.geo",
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "color-white"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_white.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_white.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-orange"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_orange.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_orange.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-magenta"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_magenta.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_magenta.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-light_blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_light_blue.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_light_blue.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-yellow"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_yellow.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_yellow.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-lime"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_lime.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_lime.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-pink"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_pink.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_pink.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-gray"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_gray.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_gray.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-purple"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_purple.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_purple.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-blue"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_blue.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_blue.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-brown"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_brown.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_brown.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-green"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_green.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_green.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-red"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_red.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_red.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "color-black"
+      ],
+      "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_color_black.png",
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0534_conkeldurr/conkeldurr_black.png"
+        }
+      ]
+    }
+  ]
+}

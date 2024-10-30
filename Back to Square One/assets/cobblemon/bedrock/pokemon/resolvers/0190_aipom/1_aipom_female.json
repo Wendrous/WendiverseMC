@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:aipom",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:aipom_female.geo",
+      "texture": "cobblemon:textures/pokemon/0190_aipom/aipom_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0190_aipom/aipom_female_shiny.png"
+    }
+  ]
+}

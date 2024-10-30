@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:bidoof",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:bidoof_female.geo",
+      "texture": "cobblemon:textures/pokemon/0399_bidoof/bidoof_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0399_bidoof/bidoof_female_shiny.png"
+    }
+  ]
+}

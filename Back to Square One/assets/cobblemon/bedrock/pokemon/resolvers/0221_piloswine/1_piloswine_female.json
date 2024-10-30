@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:piloswine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:piloswine_female.geo",
+      "texture": "cobblemon:textures/pokemon/0221_piloswine/piloswine_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0221_piloswine/piloswine_female_shiny.png"
+    }
+  ]
+}

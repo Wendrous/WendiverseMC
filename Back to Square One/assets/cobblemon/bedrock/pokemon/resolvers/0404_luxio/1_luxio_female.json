@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:luxio",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:luxio_female.geo",
+      "texture": "cobblemon:textures/pokemon/0404_luxio/luxio_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0404_luxio/luxio_female_shiny.png"
+    }
+  ]
+}

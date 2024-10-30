@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:quagsire",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:quagsire_female.geo",
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0195_quagsire/quagsire_female_shiny.png"
+    }
+  ]
+}

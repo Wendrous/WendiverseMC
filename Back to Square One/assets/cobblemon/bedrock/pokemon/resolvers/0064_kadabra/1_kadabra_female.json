@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:kadabra",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:kadabra_female.geo",
+      "texture": "cobblemon:textures/pokemon/0064_kadabra/kadabra_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0064_kadabra/kadabra_female_shiny.png"
+    }
+  ]
+}

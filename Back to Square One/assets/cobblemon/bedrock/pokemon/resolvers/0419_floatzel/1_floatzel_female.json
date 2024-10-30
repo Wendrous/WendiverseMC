@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:floatzel",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:floatzel_female.geo",
+      "texture": "cobblemon:textures/pokemon/0419_floatzel/floatzel_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0419_floatzel/floatzel_female_shiny.png"
+    }
+  ]
+}

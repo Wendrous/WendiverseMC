@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:shiftry",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:shiftry_female.geo",
+      "texture": "cobblemon:textures/pokemon/0275_shiftry/shiftry_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0275_shiftry/shiftry_female_shiny.png"
+    }
+  ]
+}

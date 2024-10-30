@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:maushold",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "maushold-family-four"
+      ],
+      "poser": "cobblemon:mausholdfour",
+      "model": "cobblemon:maushold_four.geo",
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold_four.png"
+    },
+    {
+      "aspects": [
+        "maushold-family-four",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0925_maushold/maushold_four_shiny.png"
+    }
+  ]
+}
