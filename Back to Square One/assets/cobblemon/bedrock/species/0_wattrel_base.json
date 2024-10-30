@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:wattrel",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:wattrel",
+      "model": "cobblemon:wattrel.geo",
+      "texture": "cobblemon:textures/pokemon/wattrel/wattrel.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/wattrel/wattrel_shiny.png"
+    }
+  ]
+}
