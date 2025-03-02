@@ -1,0 +1,61 @@
+{
+  "head": "head",
+  "portraitScale": 2.5,
+  "portraitTranslation": [ -0.1, 1.7, 0 ],
+  "profileScale": 0.5,
+  "profileTranslation": [ 0, 0.9, 0 ],
+  "cry":  "bedrock(klefki, cry)",
+  "faint": "bedrock(klefki, sleep)",
+  "poses": {
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["bedrock(klefki, battle_idle)"],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(klefki, blink)"]
+        }
+      ]
+    },
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "bedrock(klefki, ground_idle)"],
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(klefki, blink)"]
+          }
+        ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": [ "WALK" ],
+      "animations": [ 
+        "bedrock(klefki, ground_walk)" ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(klefki, blink)"]
+        }
+      ]
+    },
+      "sleeping": {
+        "poseName": "sleeping",
+        "transformTicks": 10,
+        "poseTypes": [
+          "SLEEP"
+        ],
+        "animations": [
+          "bedrock(klefki, sleep)"
+        ]
+     }
+  }
+}

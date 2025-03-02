@@ -1,0 +1,62 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [-0.3, 2.3, 0],
+  "profileScale": 0.6,
+  "profileTranslation": [0, 1.0, -1.8],
+  "animations": {
+    "cry": "bedrock('archaludon', 'cry')",
+    "recoil": "q.bedrock_stateful('archaludon', 'recoil')",
+    "physical": "q.bedrock_primary('archaludon', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('archaludon', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('archaludon', 'battle_idle', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('archaludon', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('archaludon', 'shake')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('archaludon', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('archaludon', 'shake')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('archaludon', 'ground_walk')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('archaludon', 'ground_walk')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('archaludon', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('archaludon', 'ground_idle')"]
+    }
+  }
+}

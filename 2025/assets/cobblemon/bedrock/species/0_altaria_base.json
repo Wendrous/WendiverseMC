@@ -1,0 +1,19 @@
+{
+	"species": "cobblemon:altaria",
+	"order": 1,
+	"variations": [
+		{
+			"aspects": [],
+			"poser": "cobblemon:altaria",
+			"model": "cobblemon:altaria.geo",
+			"texture": "cobblemon:textures/pokemon/0334_altaria/altaria.png",
+			"layers": [
+				
+			]
+		},
+		{
+			"aspects": [ "shiny" ],
+			"texture": "cobblemon:textures/pokemon/0334_altaria/altaria_shiny.png"
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	
+	"head": "head",
+	"portraitScale": 1.7,
+	"portraitTranslation": [-0.1, 1.3, 0],
+	"profileScale": 0.7,
+	"profileTranslation": [0.0, 0.8, 0],
+	"poses": {
+		"standing": {
+			"poseName": "standing",
+			"transformTicks": 10,
+			"poseTypes": [
+				"STAND",
+				"NONE",
+				"PORTRAIT",
+				"PROFILE"
+			],
+			"animations": [
+				"bedrock(cursola, ground_idle)"
+			]
+		},
+		"walking": {
+			"poseName": "walking",
+			"transformTicks": 10,
+			"poseTypes": [ "WALK" ],
+			"animations": [
+				"bedrock(cursola, ground_walk)"
+			]
+		},
+		"swimming": {
+			"poseName": "swimming",
+			"transformTicks": 10,
+			"poseTypes": [ "SWIM" ],
+			"animations": [
+				"bedrock(cursola, ground_walk)"
+			]
+		},
+		"floating": {
+			"poseName": "floating",
+			"transformTicks": 10,
+			"poseTypes": [ "FLOAT" ],
+			"animations": [
+				"bedrock(cursola, ground_idle)"
+			]
+		}
+	}
+}

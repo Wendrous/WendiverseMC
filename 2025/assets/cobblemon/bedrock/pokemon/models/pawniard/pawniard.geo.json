@@ -1,0 +1,150 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "pawniard",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "mainthing",
+					"parent": "pawniard",
+					"pivot": [0, -1, 0],
+					"rotation": [0, -90, 0]
+				},
+				{
+					"name": "rleg",
+					"parent": "mainthing",
+					"pivot": [0.5, 7, 2.5],
+					"cubes": [
+						{"origin": [0, 4, 2], "size": [1, 3, 1], "uv": [32, 37]}
+					]
+				},
+				{
+					"name": "rleg2",
+					"parent": "rleg",
+					"pivot": [0.5, 4, 2.5],
+					"cubes": [
+						{"origin": [0, 1, 2], "size": [1, 3, 1], "uv": [32, 50]}
+					]
+				},
+				{
+					"name": "feetis1",
+					"parent": "rleg2",
+					"pivot": [1, 0.5, 2.5],
+					"cubes": [
+						{"origin": [-2, 0, 1], "size": [4, 1, 3], "uv": [38, 43]}
+					]
+				},
+				{
+					"name": "lleg",
+					"parent": "mainthing",
+					"pivot": [0.5, 7, -2.5],
+					"cubes": [
+						{"origin": [0, 4, -3], "size": [1, 3, 1], "uv": [30, 24]}
+					]
+				},
+				{
+					"name": "lleg2",
+					"parent": "lleg",
+					"pivot": [0.5, 4, -2.5],
+					"cubes": [
+						{"origin": [0, 1, -3], "size": [1, 3, 1], "uv": [14, 45]}
+					]
+				},
+				{
+					"name": "feetis2",
+					"parent": "lleg2",
+					"pivot": [1, 0.5, -2.5],
+					"cubes": [
+						{"origin": [-2, 0, -4], "size": [4, 1, 3], "uv": [0, 45]}
+					]
+				},
+				{
+					"name": "noleg",
+					"parent": "mainthing",
+					"pivot": [1, 7, 0]
+				},
+				{
+					"name": "regctangle",
+					"parent": "noleg",
+					"pivot": [-1, 17, 0],
+					"cubes": [
+						{"origin": [-2, 6, -3], "size": [5, 4, 6], "uv": [30, 14]},
+						{"origin": [-2, 10, -2.5], "size": [5, 3, 5], "uv": [0, 37]},
+						{"origin": [-7, 10, -3.5], "size": [11, 0, 7], "uv": [0, 30]},
+						{"origin": [-7, 8, -3.5], "size": [11, 0, 7], "uv": [0, 30]}
+					]
+				},
+				{
+					"name": "nekc",
+					"parent": "regctangle",
+					"pivot": [0.5, 13, 0],
+					"cubes": [
+						{"origin": [-1, 12, -1.5], "size": [3, 2, 3], "uv": [0, 49]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "nekc",
+					"pivot": [0.17731, 14.19851, 0.36819],
+					"cubes": [
+						{"origin": [-3, 14, -4.1], "size": [7, 6, 8], "inflate": 0.005, "uv": [0, 16]},
+						{"origin": [-3.5, 18, -5.1], "size": [3, 4, 10], "uv": [30, 0]},
+						{"origin": [-8, 15, -0.1], "size": [9, 11, 0], "uv": [36, 24]},
+						{"origin": [-0.5, 16, -5.1], "size": [5, 6, 10], "uv": [0, 0]},
+						{"origin": [-3.12269, 16.49851, 1.91], "size": [2, 2, 2], "uv": [50, 47]},
+						{"origin": [-3.12269, 16.49851, -4.13181], "size": [2, 2, 2], "uv": [50, 47]},
+						{"origin": [-3.1, 15.99851, 1.36819], "size": [2, 2, 2], "uv": [50, 51]},
+						{"origin": [-3.1, 15.99851, -3.63181], "size": [2, 2, 2], "uv": [50, 51]},
+						{"origin": [-3.15, 17.19851, 2.36819], "size": [2, 1, 1], "uv": [30, 28]},
+						{"origin": [-3.15, 17.19851, -3.63181], "size": [2, 1, 1], "uv": [30, 28]}
+					]
+				},
+				{
+					"name": "larm",
+					"parent": "noleg",
+					"pivot": [0.5, 11.5, -2],
+					"cubes": [
+						{"origin": [0, 11, -6.5], "size": [1, 1, 4], "uv": [12, 50]}
+					]
+				},
+				{
+					"name": "larmseg2",
+					"parent": "larm",
+					"pivot": [0.5, 11.5, -7.5],
+					"cubes": [
+						{"origin": [-0.5, 10.5, -10.5], "size": [2, 2, 4], "uv": [20, 37]},
+						{"origin": [-0.5, 11.5, -17.5], "size": [2, 0, 8], "uv": [36, 35]}
+					]
+				},
+				{
+					"name": "rarm",
+					"parent": "noleg",
+					"pivot": [0.5, 11.5, 2.5],
+					"cubes": [
+						{"origin": [0, 11, 2.5], "size": [1, 1, 4], "uv": [22, 50]}
+					]
+				},
+				{
+					"name": "rarmseg2",
+					"parent": "rarm",
+					"pivot": [0.5, 11.5, 7.25],
+					"cubes": [
+						{"origin": [-0.5, 10.5, 6.5], "size": [2, 2, 4], "uv": [38, 47]},
+						{"origin": [-0.5, 11.5, 10.5], "size": [2, 0, 7], "uv": [20, 43]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+    "head": "head",
+	"portraitScale": 2.5,
+    "portraitTranslation": [ -0.1, 0.4, 0 ],
+    "profileScale": 0.9,
+    "profileTranslation": [ 0, 0.5, 0 ],
+	"cry":  "bedrock(poipole, cry)",
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+		  "look",
+          "bedrock(poipole, ground_idle)"
+        ]
+		,
+        "quirks": [
+          {
+            "name": "blink",
+            "animations": ["bedrock(poipole, blink)"]
+          }
+		]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(poipole, ground_walk)" ]
+		},
+   "hovering": {
+     "poseName": "hovering",
+     "transformTicks": 10,
+     "poseTypes": [
+       "HOVER"
+     ],
+     "animations": [
+	   "look",
+       "bedrock(poipole, ground_idle)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(poipole, blink)"
+         ]
+       }
+     ]
+   },
+   "flying": {
+     "poseName": "flying",
+     "transformTicks": 10,
+     "poseTypes": [
+       "FLY"
+     ],
+     "animations": [
+	   "look",
+       "bedrock(poipole, ground_walk)"
+     ],
+     "quirks": [
+       {
+         "name": "blink",
+         "animations": [
+           "bedrock(poipole, blink)"
+         ]
+       }
+     ]
+   }
+  }
+}

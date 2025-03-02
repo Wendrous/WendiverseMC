@@ -1,0 +1,25 @@
+{
+  "species": "cobblemon:magearna",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["origin"],
+      "poser": "cobblemon:magearna",
+      "model": "cobblemon:magearna.geo",
+      "texture": "cobblemon:textures/pokemon/magearna/magearna_origin.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/magearna/magearna_emissive_origin.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/magearna/magearna_origin_shiny.png"
+    }
+  ]
+}

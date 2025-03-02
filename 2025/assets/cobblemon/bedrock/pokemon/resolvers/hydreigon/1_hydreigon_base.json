@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:hydreigon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:hydreigon",
+      "model": "cobblemon:hydreigon.geo",
+      "texture": "cobblemon:textures/pokemon/hydreigon/hydreigon.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/hydreigon/hydreigon_shiny.png"
+    }
+  ]
+}

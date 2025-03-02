@@ -1,0 +1,58 @@
+{
+  "portraitScale": 3.5,
+  "portraitTranslation": [-0.3, -0.1, 0],
+  "profileScale": 0.9,
+  "profileTranslation": [0, 0.4, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('duraludon', 'cry')",
+    "recoil": "q.bedrock_stateful('duraludon', 'recoil')",
+    "physical": "q.bedrock_primary('duraludon', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('duraludon', 'special', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_stateful('duraludon', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('duraludon', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('duraludon', 'quirk')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('duraludon', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('duraludon', 'quirk')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('duraludon', 'ground_walk')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('duraludon', 'ground_walk')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('duraludon', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('duraludon', 'ground_idle')"]
+    }
+  }
+}

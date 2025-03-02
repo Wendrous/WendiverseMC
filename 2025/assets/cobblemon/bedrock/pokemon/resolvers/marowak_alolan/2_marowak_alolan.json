@@ -1,0 +1,38 @@
+{
+  "species": "cobblemon:marowak",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["alolan"],
+      "poser": "cobblemon:marowak2_alolan",
+      "model": "cobblemon:marowak2_alolan.geo",
+      "texture": "cobblemon:textures/pokemon/marowak/marowak_alolan.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_1.png",
+              "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_2.png",
+              "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_3.png",
+			  "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_4.png",
+			  "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_5.png",
+			  "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_6.png",
+			  "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_7.png",
+			  "cobblemon:textures/pokemon/marowak/marowak_alolan_emissive_8.png"
+            ],
+            "fps": 9,
+            "loop": true
+          },
+          "emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": [
+        "shiny","alolan"
+      ],
+      "texture": "cobblemon:textures/pokemon/marowak/marowak_alolan_shiny.png"
+    }
+  ]
+}

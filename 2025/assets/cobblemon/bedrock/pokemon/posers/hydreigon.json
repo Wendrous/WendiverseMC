@@ -1,0 +1,64 @@
+{
+  "head": "head",
+  "portraitScale": 2,
+  "portraitTranslation": [-1.1,1.7, 0],
+  "profileScale": 0.7,
+  "profileTranslation": [0, 0.9, 0],
+  "animations": {
+    "recoil": "q.bedrock_stateful('hydreigon', 'recoil')"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('hydreigon', 'battle_idle')"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(hydreigon, blink)"]
+        },
+        {
+          "name": "sneeze",
+          "animations": ["bedrock(hydreigon, sneeze)"]
+        }
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('hydreigon', 'air_idle')"
+      ],
+      "quirks": [
+        {
+          "name": "blink",
+          "animations": ["bedrock(hydreigon, blink)"]
+        },
+        {
+          "name": "sneeze",
+          "animations": ["bedrock(hydreigon, sneeze)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('hydreigon', 'air_fly')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('hydreigon', 'air_fly')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('hydreigon', 'air_fly')"
+      ]
+    }
+  }
+}

@@ -1,0 +1,765 @@
+{
+  "species": "cobblemon:klefki",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:klefki",
+      "model": "cobblemon:klefki.geo",
+      "texture": "cobblemon:textures/pokemon/klefki/klefki.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/klefki/klefki_shiny.png"
+    },
+    {
+      "aspects": [
+        "keya-1"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a1.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-2"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a2.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-3"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a3.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-4"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a4.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-5"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a5.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-6"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a6.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-7"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a7.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-8"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a8.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-9"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a9.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-10"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a10.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-11"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a11.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-12"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a12.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-13"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a13.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-14"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a14.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-15"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a15.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-16"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a16.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-17"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a17.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-18"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a18.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-19"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a19.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-20"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a20.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keya-21"
+      ],
+      "layers": [{
+	"name": "keya",
+	"texture": "cobblemon:textures/pokemon/klefki/a/key_a21.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-1"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b1.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-2"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b2.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-3"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b3.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-4"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b4.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-5"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b5.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-6"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b6.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-7"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b7.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-8"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b8.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-9"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b9.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-10"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b10.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-11"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b11.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-12"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b12.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-13"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b13.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-14"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b14.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-15"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b15.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-16"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b16.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-17"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b17.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-18"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b18.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-19"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b19.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-20"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b20.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyb-21"
+      ],
+      "layers": [{
+	"name": "keyb",
+	"texture": "cobblemon:textures/pokemon/klefki/b/key_b21.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-1"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c1.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-2"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c2.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-3"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c3.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-4"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c4.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-5"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c5.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-6"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c6.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-7"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c7.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-8"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c8.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-9"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c9.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-10"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c10.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-11"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c11.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-12"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c12.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-13"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c13.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-14"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c14.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-15"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c15.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-16"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c16.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-17"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c17.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-18"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c18.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-19"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c19.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-20"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c20.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyc-21"
+      ],
+      "layers": [{
+	"name": "keyc",
+	"texture": "cobblemon:textures/pokemon/klefki/c/key_c21.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-1"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d1.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-2"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d2.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-3"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d3.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-4"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d4.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-5"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d5.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-6"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d6.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-7"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d7.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-8"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d8.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-9"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d9.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-10"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d10.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-11"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d11.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-12"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d12.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-13"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d13.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-14"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d14.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-15"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d15.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-16"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d16.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-17"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d17.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-18"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d18.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-19"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d19.png"
+      }]
+    },
+    {
+      "aspects": [
+        "keyd-20"
+      ],
+      "layers": [{
+	"name": "keyd",
+	"texture": "cobblemon:textures/pokemon/klefki/d/key_d20.png"
+      }]
+    }
+  ]
+}

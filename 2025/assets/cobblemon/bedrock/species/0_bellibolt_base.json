@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:bellibolt",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:bellibolt",
+      "model": "cobblemon:bellibolt.geo",
+      "texture": "cobblemon:textures/pokemon/bellibolt/bellibolt.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/bellibolt/bellibolt_emissive.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/bellibolt/bellibolt_shiny.png"
+    }
+  ]
+}

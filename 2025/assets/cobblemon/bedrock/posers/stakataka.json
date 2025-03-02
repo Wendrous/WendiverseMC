@@ -1,0 +1,190 @@
+{
+    "head": "head",
+	"portraitScale": 1.8,
+    "portraitTranslation": [ 0.1, 3.6, -12.0 ],
+    "profileScale": 0.2,
+    "profileTranslation": [ 0, 1.4, 0 ],
+    "poses": {
+	  "battle-standing": {
+      "poseTypes": ["STAND", "WALK"],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('stakataka', 'ground_idle')"
+      ],
+      "quirks": [
+        {
+          "name": "quirk",
+          "animations": ["bedrock(stakataka, quirk)"]
+        },
+        {
+          "name": "quirk2",
+          "animations": ["bedrock(stakataka, quirk2)"]
+        },
+        {
+          "name": "quirk3",
+          "animations": ["bedrock(stakataka, quirk3)"]
+        },
+        {
+          "name": "quirk4",
+          "animations": ["bedrock(stakataka, quirk4)"]
+        },
+        {
+          "name": "quirk5",
+          "animations": ["bedrock(stakataka, quirk5)"]
+        },
+        {
+          "name": "quirk6",
+          "animations": ["bedrock(stakataka, quirk6)"]
+        },
+        {
+          "name": "quirk7",
+          "animations": ["bedrock(stakataka, quirk7)"]
+        },
+        {
+          "name": "quirk8",
+          "animations": ["bedrock(stakataka, quirk8)"]
+        },
+        {
+          "name": "quirk9",
+          "animations": ["bedrock(stakataka, quirk9)"]
+        },
+        {
+          "name": "quirk10",
+          "animations": ["bedrock(stakataka, quirk10)"]
+        },
+        {
+          "name": "quirk11",
+          "animations": ["bedrock(stakataka, quirk11)"]
+        },
+        {
+          "name": "quirk12",
+          "animations": ["bedrock(stakataka, quirk12)"]
+        }
+      ]
+    },
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(stakataka, ground_idle)"
+        ],
+		"quirks": [
+        {
+          "name": "quirk",
+          "animations": ["bedrock(stakataka, quirk)"]
+        },
+        {
+          "name": "quirk2",
+          "animations": ["bedrock(stakataka, quirk2)"]
+        },
+        {
+          "name": "quirk3",
+          "animations": ["bedrock(stakataka, quirk3)"]
+        },
+        {
+          "name": "quirk4",
+          "animations": ["bedrock(stakataka, quirk4)"]
+        },
+        {
+          "name": "quirk5",
+          "animations": ["bedrock(stakataka, quirk5)"]
+        },
+        {
+          "name": "quirk6",
+          "animations": ["bedrock(stakataka, quirk6)"]
+        },
+        {
+          "name": "quirk7",
+          "animations": ["bedrock(stakataka, quirk7)"]
+        },
+        {
+          "name": "quirk8",
+          "animations": ["bedrock(stakataka, quirk8)"]
+        },
+        {
+          "name": "quirk9",
+          "animations": ["bedrock(stakataka, quirk9)"]
+        },
+        {
+          "name": "quirk10",
+          "animations": ["bedrock(stakataka, quirk10)"]
+        },
+        {
+          "name": "quirk11",
+          "animations": ["bedrock(stakataka, quirk11)"]
+        },
+        {
+          "name": "quirk12",
+          "animations": ["bedrock(stakataka, quirk12)"]
+        }
+      ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(stakataka, ground_walk)" ],
+		"quirks": [
+        {
+          "name": "quirk",
+          "animations": ["bedrock(stakataka, quirk)"]
+        },
+        {
+          "name": "quirk2",
+          "animations": ["bedrock(stakataka, quirk2)"]
+        },
+        {
+          "name": "quirk3",
+          "animations": ["bedrock(stakataka, quirk3)"]
+        },
+        {
+          "name": "quirk4",
+          "animations": ["bedrock(stakataka, quirk4)"]
+        },
+        {
+          "name": "quirk5",
+          "animations": ["bedrock(stakataka, quirk5)"]
+        },
+        {
+          "name": "quirk6",
+          "animations": ["bedrock(stakataka, quirk6)"]
+        },
+        {
+          "name": "quirk7",
+          "animations": ["bedrock(stakataka, quirk7)"]
+        },
+        {
+          "name": "quirk8",
+          "animations": ["bedrock(stakataka, quirk8)"]
+        },
+        {
+          "name": "quirk9",
+          "animations": ["bedrock(stakataka, quirk9)"]
+        },
+        {
+          "name": "quirk10",
+          "animations": ["bedrock(stakataka, quirk10)"]
+        },
+        {
+          "name": "quirk11",
+          "animations": ["bedrock(stakataka, quirk11)"]
+        },
+        {
+          "name": "quirk12",
+          "animations": ["bedrock(stakataka, quirk12)"]
+        }
+      ]
+		},
+    "sleep": {
+      "poseName": "sleep",
+      "poseTypes": ["SLEEP"],
+      "animations": ["bedrock(stakataka, sleep)"]
+    }
+      }
+    }

@@ -1,0 +1,23 @@
+{
+  "species": "cobblemon:ogerponrock",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:ogerpon_rock",
+      "model": "cobblemon:ogerpon_rock.geo",
+      "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_rock.png",
+      "layers": [
+	  {
+			"name": "glow",
+			"texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_emissive_rock.png",
+			"emissive": true
+	  }
+	  ]
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/ogerpon/ogerpon_rock.png"
+    }
+  ]
+}

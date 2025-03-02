@@ -1,0 +1,77 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.munna.blink": {
+			"animation_length": 0.625,
+			"bones": {
+				"eye_right": {
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.2083": [1, 1, 1],
+						"0.2917": [1, 0, 1],
+						"0.375": [1, 0, 1],
+						"0.4583": [1, 1.1, 1],
+						"0.5": [1, 1, 1],
+						"0.625": [1, 1, 1]
+					}
+				},
+				"eye_left": {
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.2083": [1, 1, 1],
+						"0.2917": [1, 0, 1],
+						"0.375": [1, 0, 1],
+						"0.4583": [1, 1.1, 1],
+						"0.5": [1, 1, 1],
+						"0.625": [1, 1, 1]
+					}
+				}
+			}
+		},
+		"animation.munna.ground_walk": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": ["math.cos(q.anim_time*90*4)*2", 0, 0],
+					"position": [0, "math.cos(q.anim_time*90*4+90)*1", 0]
+				},
+				"munna": {
+					"position": [0, 6, 0]
+				},
+				"leg_front_left": {
+					"rotation": ["1+math.sin(q.anim_time*90*4+90)*5", 0, "1+math.sin(q.anim_time*90*4)*1.5"]
+				},
+				"leg_back_left": {
+					"rotation": ["1+math.sin(q.anim_time*90*4-90)*5", 0, "1+math.sin(q.anim_time*90*4)*1.5"]
+				},
+				"leg_front_right": {
+					"rotation": ["1+math.sin(q.anim_time*90*4-90)*5", 0, "1+math.sin(q.anim_time*90*4)*1.5"]
+				}
+			}
+		},
+		"animation.munna.ground_idle": {
+			"loop": true,
+			"bones": {
+				"head": {
+					"rotation": ["2.5+math.sin(q.anim_time*90*3+90)*3", "0+math.sin(q.anim_time*90*1.5-90)*4", "0+math.sin(q.anim_time*90*1.5+60)*3"],
+					"position": ["0+math.sin(q.anim_time*90*1.5)*2", "0+math.sin(q.anim_time*90*3)*1", "0+math.sin(q.anim_time*90*3)*0.5"]
+				},
+				"munna": {
+					"position": [0, 6, 0]
+				},
+				"leg_front_left": {
+					"rotation": ["0+math.sin(q.anim_time*90*3+60)*4", 0, "0+math.sin(q.anim_time*90*1.5+60)*2"],
+					"position": [0, 0.1, 0]
+				},
+				"leg_back_left": {
+					"rotation": ["0+math.sin(q.anim_time*90*3+60)*4", 0, "0+math.sin(q.anim_time*90*1.5+60)*2"],
+					"position": [0, 0.1, 0]
+				},
+				"leg_front_right": {
+					"rotation": ["0+math.sin(q.anim_time*90*3+60)*4", 0, "0+math.sin(q.anim_time*90*1.5+60)*2"],
+					"position": [0, 0.1, 0]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:foongus",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:foongus",
+      "model": "cobblemon:foongus.geo",
+      "texture": "cobblemon:textures/pokemon/foongus/foongus.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/foongus/foongus_shiny.png"
+    }
+  ]
+}

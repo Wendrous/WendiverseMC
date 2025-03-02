@@ -1,0 +1,61 @@
+{
+  "portraitScale": 1,
+  "portraitTranslation": [0, 0.4, 0],
+  "profileScale": 1,
+  "profileTranslation": [0, 0.2, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('pawniard', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('pawniard', 'cry')",
+    "recoil": "q.bedrock_stateful('pawniard', 'recoil')",
+    "physical": "q.bedrock_primary('pawniard', 'physical_attack', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('pawniard', 'physical_attack', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('pawniard', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+       "q.look('head', 1, 1, 45, -45, 70, -70)",
+        "q.bedrock('pawniard', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('pawniard', q.array('cry'), 30, 60, 1)"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+       "q.look('head', 1, 1, 45, -2.5, 7.5, -7.5)",
+        "q.bedrock('pawniard', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('pawniard', 'cry', 20, 60, 1)"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": [
+       "q.look('head', 1, 1, 45, -2.5, 7.5, -7.5)",
+        "q.bedrock('pawniard', 'ground_walk')"
+      ]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": [
+        "q.bedrock('pawniard', 'ground_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": [
+        "q.bedrock('pawniard', 'ground_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('pawniard', 'sleep')"]
+    }
+  }
+}

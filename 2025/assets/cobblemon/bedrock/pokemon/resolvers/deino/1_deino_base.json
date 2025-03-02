@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:deino",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:deino",
+      "model": "cobblemon:deino.geo",
+      "texture": "cobblemon:textures/pokemon/deino/deino.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/deino/deino_shiny.png"
+    }
+  ]
+}

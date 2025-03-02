@@ -1,0 +1,29 @@
+{
+    "head": "head",
+	"portraitScale": 2.3,
+    "portraitTranslation": [ -0.9, -1.8, 0 ],
+    "profileScale": 0.7,
+    "profileTranslation": [ 0, 0.6, 0 ],
+	"cry":  "bedrock(appletun, cry)",
+    "poses": {
+      "standing": {
+        "poseName": "standing",
+        "transformTicks": 10,
+        "poseTypes": [
+          "STAND",
+          "NONE",
+          "PORTRAIT",
+          "PROFILE"
+        ],
+        "animations": [
+          "bedrock(appletun, ground_idle)"
+        ]
+      },
+      "walking": {
+        "poseName": "walking",
+        "transformTicks": 10,
+        "poseTypes": [ "WALK" ],
+        "animations": [ "bedrock(appletun, ground_walk)" ]
+		}
+      }
+    }

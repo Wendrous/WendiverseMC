@@ -1,0 +1,12 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/bowl"
+ },
+ 
+ "overrides": [
+  {"predicate": {"custom_model_data":1}, "model": "block/custom/iono_plushie"},
+  {"predicate": {"custom_model_data":2}, "model": "block/custom/mimikyu_plushie"},
+  {"predicate": {"custom_model_data":3}, "model": "block/custom/chonkkachu"}
+ ]
+}

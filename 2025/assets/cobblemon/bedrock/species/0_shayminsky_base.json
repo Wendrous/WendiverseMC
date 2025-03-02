@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:shayminsky",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:shaymin_sky",
+      "model": "cobblemon:shaymin_sky.geo",
+      "texture": "cobblemon:textures/pokemon/shaymin/shaymin_sky.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/shaymin/shaymin_sky_shiny.png"
+    }
+  ]
+}

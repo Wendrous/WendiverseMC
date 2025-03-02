@@ -1,0 +1,70 @@
+{
+  "neck2": "neck2",
+  "portraitScale": 1,
+  "portraitTranslation": [-0.7, 1, 0],
+  "profileScale": 0.5,
+  "profileTranslation": [0, 1.1, 0],
+  "animations": {
+    "faint": "q.bedrock_primary('latias', 'faint', q.curve('one'))",
+    "cry": "q.bedrock_stateful('latias', 'cry', q.curve('symmetrical_wide'))",
+    "physical": "q.bedrock_primary('latias', 'physical_attack', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('latias', 'special_attack', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_stateful('latias', 'cry', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('latias', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('latias', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('latias', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["FLOAT"],
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_idle')"
+      ],
+      "quirks": ["q.bedrock_quirk('latias', 'blink')"]
+    },
+    "swim": {
+      "poseTypes": ["SWIM"],
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)",
+        "q.bedrock('latias', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('latias', 'blink')"]
+    },
+    "hover": {
+      "poseName": "hover",
+      "poseTypes": ["HOVER"],
+      "quirks": ["q.bedrock_quirk('latias', 'blink')"],
+      "animations": ["q.look('neck2', 1, 2.5, -2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_idle')"
+      ]
+    },
+    "fly": {
+      "poseName": "fly",
+      "poseTypes": ["FLY"],
+      "quirks": ["q.bedrock_quirk('latias', 'blink')"],
+      "animations": ["q.look('neck2', 1, 1, 2.5, -2.5, 2.5, -2.5)", "q.bedrock('latias', 'ground_walk')"]
+    },
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('latias', 'sleep')"]
+    }
+  }
+}

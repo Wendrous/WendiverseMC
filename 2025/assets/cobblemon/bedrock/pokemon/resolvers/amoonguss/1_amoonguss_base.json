@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:amoonguss",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:amoonguss",
+      "model": "cobblemon:amoonguss.geo",
+      "texture": "cobblemon:textures/pokemon/amoonguss/amoonguss.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/amoonguss/amoonguss_shiny.png"
+    }
+  ]
+}
